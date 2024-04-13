@@ -11,4 +11,6 @@ For Dofus tournament stats during the tournament.
 
 ## Generated Result
 
+World Cup 2024 (Swiss Rounds)
+
 ![image](tables.png)
