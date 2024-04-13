@@ -6,12 +6,26 @@ import { analyzeGlobalClassesData, analyzePickBanOrder } from "./analyze_results
 
 let matchSheetLinks: string[] = JSON.parse(fs.readFileSync("data/match_sheet_links.json", "utf8"));
 
-Promise.all(matchSheetLinks.map((link) => fetchMatchSheet(link))).then(() => {
+fetchDataAndAnalyze();
+
+async function fetchDataAndAnalyze() {
+	for (let i = 0; i < matchSheetLinks.length; i++) {
+		const link = matchSheetLinks[i];
+		console.log(`Fetching data for link ${i + 1}/${matchSheetLinks.length}`);
+		await fetchMatchSheet(link);
+	}
+	console.log("All fetch operations completed. Proceeding with analysis.");
 	analyzeGlobalClassesData();
 	analyzePickBanOrder();
-});
+}
 
 async function fetchMatchSheet(url: string) {
+	if (!fs.existsSync("data/result.json")) fs.writeFileSync("data/result.json", "{}");
+	let jsonFile = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+	if (Object.keys(jsonFile).length === 0) jsonFile = {};
+
+	if (jsonFile[url]) return;
+
 	const response = await axios.get(url);
 	const html = response.data;
 	const $ = cheerio.load(html);
@@ -27,10 +41,10 @@ async function fetchMatchSheet(url: string) {
 	});
 	let winner: "A" | "B" | "DRAW" = deadClassesA < deadClassesB ? "A" : deadClassesA > deadClassesB ? "B" : "DRAW";
 
-	await fetchDraft(draft_link, winner);
+	await fetchDraft(draft_link, winner, url);
 }
 
-async function fetchDraft(url: string, winner: "A" | "B" | "DRAW") {
+async function fetchDraft(url: string, winner: "A" | "B" | "DRAW", matchSheetUrl: string) {
 	const response = await axios.get(url);
 	const html = response.data;
 	const $ = cheerio.load(html);
@@ -38,17 +52,16 @@ async function fetchDraft(url: string, winner: "A" | "B" | "DRAW") {
 	const dataPage = app.attr("data-page");
 	if (!dataPage) return;
 	const dataPageJson = JSON.parse(dataPage);
-	let draftId = String(dataPageJson.props.draft.id); // this is not the link id!
 
 	let teamNameA = dataPageJson.props.draft.draft_match.auth1.name;
 	let teamNameB = dataPageJson.props.draft.draft_match.auth2.name;
 
 	let draftString = dataPageJson.props.draft.data.split(":");
-	writeData(draftId, teamNameA, teamNameB, draftString, winner);
+	writeData(matchSheetUrl, teamNameA, teamNameB, draftString, winner);
 }
 
 function writeData(
-	draftId: string,
+	matchSheetUrl: string,
 	teamNameA: string,
 	teamNameB: string,
 	draftString: string[],
@@ -58,7 +71,7 @@ function writeData(
 	let jsonFile = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
 	if (Object.keys(jsonFile).length === 0) jsonFile = {};
 
-	if (jsonFile[draftId]) return;
+	if (jsonFile[matchSheetUrl]) return;
 
 	// example draftString: ['A03', 'B06', 'A04', 'B015', 'A111', 'B131', 'B010', 'A017', 'B01', 'A08', 'B114', 'A112', 'A02', 'B07', 'A15', 'B19']
 	// A or B is the team
@@ -82,11 +95,11 @@ function writeData(
 		}
 	});
 
-	jsonFile[draftId] = {
+	jsonFile[matchSheetUrl] = {
 		winner: winner,
 		A: { teamName: teamNameA, bans: bansA, picks: picksA },
 		B: { teamName: teamNameB, bans: bansB, picks: picksB },
 	};
 	fs.writeFileSync("data/result.json", JSON.stringify(jsonFile, null, 2));
-	console.log(`Wrote draft ${draftId} to reesult.json`);
+	console.log(`Wrote draft ${matchSheetUrl} to reesult.json`);
 }
