@@ -1,0 +1,101 @@
+{
+  "460465": {
+    "winner": "B",
+    "A": {
+      "teamName": "Facon Sex le retour",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Unique",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "462228": {
+    "winner": "A",
+    "A": {
+      "teamName": "Unique",
+      "bans": [
+        "forgelance",
+        "roublard",
+        "osamodas",
+        "ecaflip",
+        "eliotrope"
+      ],
+      "picks": [
+        "zobal",
+        "iop",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "L Ordre",
+      "bans": [
+        "steamer",
+        "eniripsa",
+        "pandawa",
+        "sram",
+        "huppermage"
+      ],
+      "picks": [
+        "xelor",
+        "feca",
+        "sadida"
+      ]
+    }
+  },
+  "464740": {
+    "winner": "DRAW",
+    "A": {
+      "teamName": "troismoustiquaires",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Mad bears",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}

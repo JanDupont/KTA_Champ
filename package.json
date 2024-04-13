@@ -1,0 +1,26 @@
+{
+	"name": "kta_champ",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"type": "module",
+	"scripts": {
+		"build": "npx tsc",
+		"start": "node dist/index.js",
+		"build:start": "npm run build && npm run start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^3.1.0",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"@types/cheerio": "^0.22.35",
+		"axios": "^1.6.8",
+		"cheerio": "^1.0.0-rc.12",
+		"console-table-printer": "^2.12.0"
+	}
+}
