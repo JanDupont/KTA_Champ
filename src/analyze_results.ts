@@ -45,6 +45,14 @@ type ClassPickBanData = {
 
 export function analyzeGlobalClassesData() {
 	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+
+	// remove time forfeits (A or B picks == [null, null, null])
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.picks[0] === null && matches[matchId].B.picks[0] === null) {
+			delete matches[matchId];
+		}
+	});
+
 	let totalMatchesAllClasses = Object.keys(matches).length;
 	let classesaData: Record<string, ClassPlayData> = {};
 
@@ -142,6 +150,14 @@ export function analyzeGlobalClassesData() {
 
 export function analyzePickBanOrder() {
 	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+
+	// remove time forfeits (A or B picks == [null, null, null])
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.picks[0] === null && matches[matchId].B.picks[0] === null) {
+			delete matches[matchId];
+		}
+	});
+	
 	let totalMatchesAllClasses = Object.keys(matches).length;
 	let classesPickBanData: Record<string, ClassPickBanData> = {};
 
