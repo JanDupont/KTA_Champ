@@ -71,7 +71,8 @@ export function analyzeGlobalClassesData() {
 			// bans
 			if (match.A.bans.includes(className) || match.B.bans.includes(className)) classData.totalBans++;
 			// draws
-			if (match.winner === "DRAW") classData.totalDraws++;
+			if (match.winner === "DRAW" && match.A.picks.includes(className)) classData.totalDraws++;
+			if (match.winner === "DRAW" && match.B.picks.includes(className)) classData.totalDraws++;
 			// wins
 			if (match.winner === "A" && match.A.picks.includes(className)) classData.totalWins++;
 			if (match.winner === "B" && match.B.picks.includes(className)) classData.totalWins++;
