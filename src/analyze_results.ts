@@ -43,6 +43,73 @@ type ClassPickBanData = {
 	BPick3: number;
 };
 
+export function analizeSideWinrate() {
+	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+
+	// remove time forfeits (A or B picks == [null, null, null])
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.picks[0] === null && matches[matchId].B.picks[0] === null) {
+			delete matches[matchId];
+		}
+	});
+
+	let sideWinrates: Record<string, { wins: number; losses: number; draws: number }> = {
+		A: {
+			wins: 0,
+			losses: 0,
+			draws: 0,
+		},
+		B: {
+			wins: 0,
+			losses: 0,
+			draws: 0,
+		},
+	};
+
+	Object.values(matches).forEach((match) => {
+		if (match.winner === "A") sideWinrates.A.wins++;
+		else if (match.winner === "B") sideWinrates.B.wins++;
+		else {
+			sideWinrates.A.draws++;
+			sideWinrates.B.draws++;
+		}
+	});
+
+	sideWinrates.A.losses = Object.keys(matches).length - sideWinrates.A.wins - sideWinrates.A.draws;
+	sideWinrates.B.losses = Object.keys(matches).length - sideWinrates.B.wins - sideWinrates.B.draws;
+
+	// prepare data for console.table
+	let tableData = Object.keys(sideWinrates).map((side) => {
+		let sideData = sideWinrates[side];
+		let winrate = (sideData.wins / (sideData.wins + sideData.losses + sideData.draws)) * 100;
+		return {
+			Side: side,
+			Winrate: winrate.toFixed(1) + "%",
+			Wins: sideData.wins,
+			Losses: sideData.losses,
+			Draws: sideData.draws,
+		};
+	});
+
+	// Initialize the printer
+	const printer = new Table({
+		columns: [
+			{ name: "Side", alignment: "left" },
+			{ name: "Winrate", alignment: "center" },
+			{ name: "Wins", alignment: "center" },
+			{ name: "Losses", alignment: "center" },
+			{ name: "Draws", alignment: "center" },
+		],
+	});
+
+	// Print the table
+	tableData.forEach((row) => {
+		printer.addRow(row);
+	});
+
+	printer.printTable();
+}
+
 export function analyzeGlobalClassesData() {
 	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
 
@@ -158,7 +225,7 @@ export function analyzePickBanOrder() {
 			delete matches[matchId];
 		}
 	});
-	
+
 	let totalMatchesAllClasses = Object.keys(matches).length;
 	let classesPickBanData: Record<string, ClassPickBanData> = {};
 
