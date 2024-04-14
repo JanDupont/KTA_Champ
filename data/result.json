@@ -2110,5 +2110,2117 @@
         null
       ]
     }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58282/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "GENERAL LACAZETTE",
+      "bans": [
+        "forgelance",
+        "zobal",
+        "pandawa",
+        "iop",
+        "enutrof"
+      ],
+      "picks": [
+        "feca",
+        "cra",
+        "sram"
+      ]
+    },
+    "B": {
+      "teamName": "Interstellar",
+      "bans": [
+        "eniripsa",
+        "eliotrope",
+        "osamodas",
+        "ecaflip",
+        "huppermage"
+      ],
+      "picks": [
+        "steamer",
+        "sacrieur",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58283/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Raccoon",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "ouginak",
+        "ecaflip",
+        "pandawa"
+      ],
+      "picks": [
+        "steamer",
+        "roublard",
+        "osamodas"
+      ]
+    },
+    "B": {
+      "teamName": "Bananagrumes",
+      "bans": [
+        "feca",
+        "forgelance",
+        "sram",
+        "cra",
+        "sacrieur"
+      ],
+      "picks": [
+        "eliotrope",
+        "iop",
+        "xelor"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58284/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "My Name",
+      "bans": [
+        "zobal",
+        "eliotrope",
+        "sacrieur",
+        "enutrof",
+        "pandawa"
+      ],
+      "picks": [
+        "eniripsa",
+        "huppermage",
+        "sram"
+      ]
+    },
+    "B": {
+      "teamName": "Helios Gaming",
+      "bans": [
+        "feca",
+        "cra",
+        "ouginak",
+        "ecaflip",
+        "forgelance"
+      ],
+      "picks": [
+        "steamer",
+        "iop",
+        "osamodas"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58285/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "HOF YANG",
+      "bans": [
+        "feca",
+        "steamer",
+        "cra",
+        "forgelance",
+        "sacrieur"
+      ],
+      "picks": [
+        "eniripsa",
+        "ecaflip",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "Lone Wolf",
+      "bans": [
+        "roublard",
+        "eliotrope",
+        "huppermage",
+        "iop",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "ouginak",
+        "sram"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58286/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Facon Sex le retour",
+      "bans": [
+        "feca",
+        "zobal",
+        "iop",
+        "sram",
+        "sacrieur"
+      ],
+      "picks": [
+        "steamer",
+        "ecaflip",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Wind-Breaker",
+      "bans": [
+        "eniripsa",
+        "eliotrope",
+        "cra",
+        "roublard",
+        "pandawa"
+      ],
+      "picks": [
+        "forgelance",
+        "ouginak",
+        "osamodas"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58287/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "IMPACTS",
+      "bans": [
+        "forgelance",
+        "zobal",
+        "iop",
+        "sram",
+        "pandawa"
+      ],
+      "picks": [
+        "eniripsa",
+        "roublard",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "Los Fiakos",
+      "bans": [
+        "feca",
+        "steamer",
+        "sacrieur",
+        "ouginak",
+        "sadida"
+      ],
+      "picks": [
+        "osamodas",
+        "ecaflip",
+        "cra"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58288/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Rfissa gang",
+      "bans": [
+        "steamer",
+        "zobal",
+        "iop",
+        "ouginak",
+        "osamodas"
+      ],
+      "picks": [
+        "forgelance",
+        "sacrieur",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Tempête",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "pandawa",
+        "cra",
+        "huppermage"
+      ],
+      "picks": [
+        "eliotrope",
+        "ecaflip",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58289/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Vroom Vroom",
+      "bans": [
+        "feca",
+        "zobal",
+        "osamodas",
+        "pandawa",
+        "ecaflip"
+      ],
+      "picks": [
+        "steamer",
+        "sacrieur",
+        "iop"
+      ]
+    },
+    "B": {
+      "teamName": "Ego",
+      "bans": [
+        "eniripsa",
+        "eliotrope",
+        "forgelance",
+        "cra",
+        "ouginak"
+      ],
+      "picks": [
+        "roublard",
+        "enutrof",
+        "huppermage"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58290/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Les leveurs de coudes",
+      "bans": [
+        "feca",
+        "zobal",
+        "huppermage",
+        "cra",
+        "osamodas"
+      ],
+      "picks": [
+        "eniripsa",
+        "ecaflip",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "4HZ",
+      "bans": [
+        "eliotrope",
+        "xelor",
+        "iop",
+        "ouginak",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "forgelance",
+        "sacrieur"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58291/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Faucon Tigré",
+      "bans": [
+        "roublard",
+        "zobal",
+        "ecaflip",
+        "cra",
+        "huppermage"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "eliotrope"
+      ]
+    },
+    "B": {
+      "teamName": "medusa",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "forgelance",
+        "sacrieur",
+        "sram"
+      ],
+      "picks": [
+        "osamodas",
+        "iop",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58292/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Merydz",
+      "bans": [
+        "steamer",
+        "eliotrope",
+        "ouginak",
+        "osamodas",
+        "cra"
+      ],
+      "picks": [
+        "zobal",
+        "pandawa",
+        "ecaflip"
+      ]
+    },
+    "B": {
+      "teamName": "Unique",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "huppermage",
+        "iop",
+        "xelor"
+      ],
+      "picks": [
+        "forgelance",
+        "sacrieur",
+        "sram"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58293/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Lucky Strike",
+      "bans": [
+        "eliotrope",
+        "huppermage",
+        "osamodas",
+        "sacrieur",
+        "pandawa"
+      ],
+      "picks": [
+        "zobal",
+        "sram",
+        "sadida"
+      ]
+    },
+    "B": {
+      "teamName": "HOF YIN",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "forgelance",
+        "iop",
+        "cra"
+      ],
+      "picks": [
+        "steamer",
+        "ecaflip",
+        "ouginak"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58294/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Hasascow",
+      "bans": [
+        "feca",
+        "forgelance",
+        "zobal",
+        "ouginak",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "roublard",
+        "sacrieur"
+      ]
+    },
+    "B": {
+      "teamName": "ssj",
+      "bans": [
+        "iop",
+        "ecaflip",
+        "pandawa",
+        "cra",
+        "enutrof"
+      ],
+      "picks": [
+        "eniripsa",
+        "huppermage",
+        "eliotrope"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58295/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Aglay",
+      "bans": [
+        "zobal",
+        "eliotrope",
+        "sacrieur",
+        "cra",
+        "iop"
+      ],
+      "picks": [
+        "steamer",
+        "sram",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "The Kill Of Legend",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "forgelance",
+        "roublard",
+        "pandawa"
+      ],
+      "picks": [
+        "osamodas",
+        "ouginak",
+        "ecaflip"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58296/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Digital",
+      "bans": [
+        "forgelance",
+        "steamer",
+        "sacrieur",
+        "iop",
+        "cra"
+      ],
+      "picks": [
+        "eniripsa",
+        "huppermage",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "Peace My Arose",
+      "bans": [
+        "roublard",
+        "feca",
+        "eliotrope",
+        "zobal",
+        "sram"
+      ],
+      "picks": [
+        "ecaflip",
+        "ouginak",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58297/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Les Zonas Brothers",
+      "bans": [
+        "eniripsa",
+        "pandawa",
+        "osamodas",
+        "forgelance",
+        "sadida"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "sram"
+      ]
+    },
+    "B": {
+      "teamName": "Bloodbath",
+      "bans": [
+        "feca",
+        "eliotrope",
+        "cra",
+        "zobal",
+        "iop"
+      ],
+      "picks": [
+        "sacrieur",
+        "ecaflip",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58298/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Umbra",
+      "bans": [
+        "sacrieur",
+        "forgelance",
+        "sram",
+        "cra",
+        "huppermage"
+      ],
+      "picks": [
+        "eniripsa",
+        "roublard",
+        "ecaflip"
+      ]
+    },
+    "B": {
+      "teamName": "AMZ",
+      "bans": [
+        "feca",
+        "zobal",
+        "iop",
+        "ouginak",
+        "eliotrope"
+      ],
+      "picks": [
+        "steamer",
+        "osamodas",
+        "xelor"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58299/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "En legende",
+      "bans": [
+        "zobal",
+        "eliotrope",
+        "huppermage",
+        "sacrieur",
+        "pandawa"
+      ],
+      "picks": [
+        "feca",
+        "roublard",
+        "cra"
+      ]
+    },
+    "B": {
+      "teamName": "Zzz",
+      "bans": [
+        "eniripsa",
+        "forgelance",
+        "iop",
+        "sram",
+        "osamodas"
+      ],
+      "picks": [
+        "steamer",
+        "ecaflip",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58300/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Gloom",
+      "bans": [
+        "forgelance",
+        "iop",
+        "ecaflip",
+        "ouginak",
+        "pandawa"
+      ],
+      "picks": [
+        "steamer",
+        "roublard",
+        "osamodas"
+      ]
+    },
+    "B": {
+      "teamName": "GAMA",
+      "bans": [
+        "eniripsa",
+        "feca",
+        "huppermage",
+        "sacrieur",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "sram",
+        "cra"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58301/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "L Ordre",
+      "bans": [
+        "steamer",
+        "eniripsa",
+        "cra",
+        "pandawa",
+        "iop"
+      ],
+      "picks": [
+        "forgelance",
+        "xelor",
+        "ecaflip"
+      ]
+    },
+    "B": {
+      "teamName": "Black Flag",
+      "bans": [
+        "feca",
+        "zobal",
+        "sram",
+        "huppermage",
+        "enutrof"
+      ],
+      "picks": [
+        "osamodas",
+        "sacrieur",
+        "ouginak"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58302/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Demonic Soldiers",
+      "bans": [
+        "feca",
+        "forgelance",
+        "huppermage",
+        "cra",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "roublard",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "Chimera",
+      "bans": [
+        "eniripsa",
+        "sacrieur",
+        "sram",
+        "iop",
+        "ecaflip"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "osamodas"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58303/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Metropolis",
+      "bans": [
+        "zobal",
+        "forgelance",
+        "iop",
+        "roublard",
+        "huppermage"
+      ],
+      "picks": [
+        "steamer",
+        "sacrieur",
+        "eliotrope"
+      ]
+    },
+    "B": {
+      "teamName": "Red Dragon",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "ouginak",
+        "cra",
+        "sram"
+      ],
+      "picks": [
+        "pandawa",
+        "ecaflip",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58304/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Ed Dead Edemption",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "BeauregardCity",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58305/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Boar",
+      "bans": [
+        "forgelance",
+        "eniripsa",
+        "iop",
+        "roublard",
+        "huppermage"
+      ],
+      "picks": [
+        "zobal",
+        "enutrof",
+        "sram"
+      ]
+    },
+    "B": {
+      "teamName": "Nihil",
+      "bans": [
+        "feca",
+        "steamer",
+        "ouginak",
+        "sacrieur",
+        "xelor"
+      ],
+      "picks": [
+        "eliotrope",
+        "ecaflip",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58306/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Chadou",
+      "bans": [
+        "zobal",
+        "sacrieur",
+        "pandawa",
+        "huppermage",
+        "cra"
+      ],
+      "picks": [
+        "feca",
+        "osamodas",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Black Hand",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "iop",
+        "ouginak",
+        "sram"
+      ],
+      "picks": [
+        "forgelance",
+        "ecaflip",
+        "sadida"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58307/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "138",
+      "bans": [
+        "feca",
+        "pandawa",
+        "forgelance",
+        "sram",
+        "cra"
+      ],
+      "picks": [
+        "sacrieur",
+        "ouginak",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "Undisclosed",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "osamodas",
+        "iop",
+        "eliotrope"
+      ],
+      "picks": [
+        "steamer",
+        "ecaflip",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58308/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Novus Rursus",
+      "bans": [
+        "zobal",
+        "forgelance",
+        "pandawa",
+        "eliotrope",
+        "sacrieur"
+      ],
+      "picks": [
+        "xelor",
+        "sram",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "Croco Squad",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "ecaflip",
+        "ouginak",
+        "enutrof"
+      ],
+      "picks": [
+        "iop",
+        "feca",
+        "sadida"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58309/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Ouais Ma Gueule",
+      "bans": [
+        "zobal",
+        "sram",
+        "forgelance",
+        "eliotrope",
+        "ecaflip"
+      ],
+      "picks": [
+        "steamer",
+        "enutrof",
+        "roublard"
+      ]
+    },
+    "B": {
+      "teamName": "Sagarmatha",
+      "bans": [
+        "eniripsa",
+        "feca",
+        "huppermage",
+        "iop",
+        "ouginak"
+      ],
+      "picks": [
+        "sacrieur",
+        "cra",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58310/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "QUOIQUOUFEUR",
+      "bans": [
+        "eliotrope",
+        "eniripsa",
+        "cra",
+        "iop",
+        "osamodas"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Les 3 moustiquaires",
+      "bans": [
+        "feca",
+        "zobal",
+        "pandawa",
+        "ecaflip",
+        "huppermage"
+      ],
+      "picks": [
+        "forgelance",
+        "sacrieur",
+        "sram"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58311/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Van Atik",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "steamer",
+        "cra",
+        "sadida"
+      ],
+      "picks": [
+        "eliotrope",
+        "ouginak",
+        "sacrieur"
+      ]
+    },
+    "B": {
+      "teamName": "Polia",
+      "bans": [
+        "pandawa",
+        "forgelance",
+        "huppermage",
+        "iop",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "ecaflip",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58312/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Drunked Totem",
+      "bans": [
+        "steamer",
+        "zobal",
+        "enutrof",
+        "ouginak",
+        "huppermage"
+      ],
+      "picks": [
+        "feca",
+        "forgelance",
+        "cra"
+      ]
+    },
+    "B": {
+      "teamName": "Outbreak",
+      "bans": [
+        "eniripsa",
+        "eliotrope",
+        "ecaflip",
+        "sacrieur",
+        "sram"
+      ],
+      "picks": [
+        "pandawa",
+        "iop",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58313/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "stix",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Amn Watani",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58314/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Narshen",
+      "bans": [
+        "steamer",
+        "pandawa",
+        "ouginak",
+        "roublard",
+        "enutrof"
+      ],
+      "picks": [
+        "feca",
+        "sram",
+        "iop"
+      ]
+    },
+    "B": {
+      "teamName": "KODO BOJE",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "forgelance",
+        "ecaflip",
+        "osamodas"
+      ],
+      "picks": [
+        "eliotrope",
+        "sacrieur",
+        "cra"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58315/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "piipoudou",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Grignotucs",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58316/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Unex",
+      "bans": [
+        "roublard",
+        "eliotrope",
+        "steamer",
+        "osamodas",
+        "pandawa"
+      ],
+      "picks": [
+        "feca",
+        "ecaflip",
+        "ouginak"
+      ]
+    },
+    "B": {
+      "teamName": "Ases",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "enutrof",
+        "forgelance",
+        "sram"
+      ],
+      "picks": [
+        "sacrieur",
+        "cra",
+        "iop"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58317/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Roissingue au Kuri",
+      "bans": [
+        "feca",
+        "eliotrope",
+        "ecaflip",
+        "huppermage",
+        "cra"
+      ],
+      "picks": [
+        "zobal",
+        "iop",
+        "roublard"
+      ]
+    },
+    "B": {
+      "teamName": "La Legion",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "sacrieur",
+        "ouginak",
+        "sram"
+      ],
+      "picks": [
+        "forgelance",
+        "pandawa",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58318/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "JPP",
+      "bans": [
+        "forgelance",
+        "steamer",
+        "huppermage",
+        "eliotrope",
+        "osamodas"
+      ],
+      "picks": [
+        "eniripsa",
+        "ecaflip",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "B L A N K",
+      "bans": [
+        "feca",
+        "sacrieur",
+        "sram",
+        "cra",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "iop",
+        "ouginak"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58319/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Newbee",
+      "bans": [
+        "forgelance",
+        "feca",
+        "ouginak",
+        "iop",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "cra",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Black Kamuis",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "eliotrope",
+        "ecaflip",
+        "huppermage"
+      ],
+      "picks": [
+        "osamodas",
+        "sacrieur",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58320/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "BRESOM",
+      "bans": [
+        "forgelance",
+        "eliotrope",
+        "xelor",
+        "huppermage",
+        "cra"
+      ],
+      "picks": [
+        "feca",
+        "ecaflip",
+        "roublard"
+      ]
+    },
+    "B": {
+      "teamName": "Somnium",
+      "bans": [
+        "steamer",
+        "iop",
+        "osamodas",
+        "sacrieur",
+        "enutrof"
+      ],
+      "picks": [
+        "eniripsa",
+        "zobal",
+        "ouginak"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58321/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Celestia",
+      "bans": [
+        "eliotrope",
+        "feca",
+        "cra",
+        "enutrof",
+        "roublard"
+      ],
+      "picks": [
+        "zobal",
+        "huppermage",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "killa bees",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "ouginak",
+        "ecaflip",
+        "forgelance"
+      ],
+      "picks": [
+        "sacrieur",
+        "iop",
+        "osamodas"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58322/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Code Breaker",
+      "bans": [
+        "feca",
+        "steamer",
+        "cra",
+        "sram",
+        "huppermage"
+      ],
+      "picks": [
+        "eniripsa",
+        "iop",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "Gigachad",
+      "bans": [
+        "eliotrope",
+        "zobal",
+        "osamodas",
+        "sacrieur",
+        "ouginak"
+      ],
+      "picks": [
+        "forgelance",
+        "ecaflip",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58323/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "GAME OVER",
+      "bans": [
+        "forgelance",
+        "zobal",
+        "enutrof",
+        "cra",
+        "osamodas"
+      ],
+      "picks": [
+        "feca",
+        "ecaflip",
+        "sram"
+      ]
+    },
+    "B": {
+      "teamName": "SAL",
+      "bans": [
+        "xelor",
+        "eniripsa",
+        "huppermage",
+        "iop",
+        "sadida"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "sacrieur"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58324/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Chocopouce",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Chazer",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58325/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Monster Reborn",
+      "bans": [
+        "steamer",
+        "eliotrope",
+        "pandawa",
+        "feca",
+        "osamodas"
+      ],
+      "picks": [
+        "eniripsa",
+        "ecaflip",
+        "enutrof"
+      ]
+    },
+    "B": {
+      "teamName": "TchoinCoco",
+      "bans": [
+        "xelor",
+        "zobal",
+        "sram",
+        "forgelance",
+        "roublard"
+      ],
+      "picks": [
+        "ouginak",
+        "sacrieur",
+        "huppermage"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58326/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Lion kingdom",
+      "bans": [
+        "steamer",
+        "zobal",
+        "sacrieur",
+        "osamodas",
+        "enutrof"
+      ],
+      "picks": [
+        "feca",
+        "ecaflip",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "miou",
+      "bans": [
+        "forgelance",
+        "ouginak",
+        "pandawa",
+        "sram",
+        "cra"
+      ],
+      "picks": [
+        "eniripsa",
+        "iop",
+        "eliotrope"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58327/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Les stochastiens",
+      "bans": [
+        "eniripsa",
+        "forgelance",
+        "ecaflip",
+        "osamodas",
+        "xelor"
+      ],
+      "picks": [
+        "steamer",
+        "iop",
+        "cra"
+      ]
+    },
+    "B": {
+      "teamName": "Mandalore",
+      "bans": [
+        "huppermage",
+        "feca",
+        "ouginak",
+        "sacrieur",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "eliotrope",
+        "sadida"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58328/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "ALM",
+      "bans": [
+        "feca",
+        "forgelance",
+        "ecaflip",
+        "eliotrope",
+        "huppermage"
+      ],
+      "picks": [
+        "steamer",
+        "sram",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "Another One",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "roublard",
+        "osamodas",
+        "ouginak"
+      ],
+      "picks": [
+        "sacrieur",
+        "iop",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58329/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Kefa df",
+      "bans": [
+        "eliotrope",
+        "eniripsa",
+        "sacrieur",
+        "iop",
+        "osamodas"
+      ],
+      "picks": [
+        "zobal",
+        "ecaflip",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "Winland",
+      "bans": [
+        "feca",
+        "cra",
+        "sadida",
+        "pandawa",
+        "forgelance"
+      ],
+      "picks": [
+        "steamer",
+        "ouginak",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58330/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "DEKVYNSEP",
+      "bans": [
+        "eliotrope",
+        "pandawa",
+        "zobal",
+        "cra",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "iop",
+        "sacrieur"
+      ]
+    },
+    "B": {
+      "teamName": "ARISTO",
+      "bans": [
+        "eniripsa",
+        "feca",
+        "roublard",
+        "huppermage",
+        "ouginak"
+      ],
+      "picks": [
+        "forgelance",
+        "ecaflip",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58331/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Dragon Slayers",
+      "bans": [
+        "feca",
+        "steamer",
+        "sacrieur",
+        "sram",
+        "cra"
+      ],
+      "picks": [
+        "eliotrope",
+        "iop",
+        "pandawa"
+      ]
+    },
+    "B": {
+      "teamName": "Sinaloa Cartel",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "osamodas",
+        "roublard",
+        "ecaflip"
+      ],
+      "picks": [
+        "forgelance",
+        "ouginak",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58332/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Aground",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "dragon",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58333/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Les Bronzos",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "ZOLD",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58334/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Away From Kolizeum",
+      "bans": [
+        "eniripsa",
+        "pandawa",
+        "ecaflip",
+        "huppermage",
+        "enutrof"
+      ],
+      "picks": [
+        "zobal",
+        "cra",
+        "roublard"
+      ]
+    },
+    "B": {
+      "teamName": "Acetaminofen",
+      "bans": [
+        "feca",
+        "forgelance",
+        "sacrieur",
+        "ouginak",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "iop",
+        "sadida"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58335/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Les Chouffes",
+      "bans": [
+        "feca",
+        "zobal",
+        "iop",
+        "osamodas",
+        "pandawa"
+      ],
+      "picks": [
+        "forgelance",
+        "ouginak",
+        "ecaflip"
+      ]
+    },
+    "B": {
+      "teamName": "Raconte pas ta vie",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "sram",
+        "cra",
+        "enutrof"
+      ],
+      "picks": [
+        "eliotrope",
+        "sacrieur",
+        "huppermage"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58336/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "RLCS",
+      "bans": [
+        "feca",
+        "zobal",
+        "sram",
+        "pandawa",
+        "sacrieur"
+      ],
+      "picks": [
+        "eniripsa",
+        "iop",
+        "ecaflip"
+      ]
+    },
+    "B": {
+      "teamName": "MERCENARYES",
+      "bans": [
+        "eliotrope",
+        "steamer",
+        "xelor",
+        "ouginak",
+        "cra"
+      ],
+      "picks": [
+        "forgelance",
+        "osamodas",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58337/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Warning",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "iop",
+        "osamodas",
+        "roublard"
+      ],
+      "picks": [
+        "forgelance",
+        "pandawa",
+        "ouginak"
+      ]
+    },
+    "B": {
+      "teamName": "Bourds",
+      "bans": [
+        "zobal",
+        "feca",
+        "sram",
+        "ecaflip",
+        "huppermage"
+      ],
+      "picks": [
+        "sacrieur",
+        "cra",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58338/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Jokkos",
+      "bans": [
+        "steamer",
+        "eniripsa",
+        "sacrieur",
+        "ouginak",
+        "enutrof"
+      ],
+      "picks": [
+        "forgelance",
+        "pandawa",
+        "cra"
+      ]
+    },
+    "B": {
+      "teamName": "wuwuwuwu",
+      "bans": [
+        "feca",
+        "zobal",
+        "eliotrope",
+        "osamodas",
+        "sram"
+      ],
+      "picks": [
+        "ecaflip",
+        "iop",
+        "huppermage"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58339/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Wild Claw",
+      "bans": [
+        "feca",
+        "zobal",
+        "iop",
+        "ecaflip",
+        "osamodas"
+      ],
+      "picks": [
+        "roublard",
+        "sacrieur",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "La reprise",
+      "bans": [
+        "eniripsa",
+        "steamer",
+        "cra",
+        "ouginak",
+        "pandawa"
+      ],
+      "picks": [
+        "forgelance",
+        "eliotrope",
+        "enutrof"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58340/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "SUKUNA",
+      "bans": [
+        "steamer",
+        "forgelance",
+        "cra",
+        "sram",
+        "eliotrope"
+      ],
+      "picks": [
+        "feca",
+        "enutrof",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "Astral Assassins",
+      "bans": [
+        "eniripsa",
+        "zobal",
+        "pandawa",
+        "sacrieur",
+        "ouginak"
+      ],
+      "picks": [
+        "osamodas",
+        "ecaflip",
+        "roublard"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58341/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "TACOS D LOBYA",
+      "bans": [
+        "cra",
+        "zobal",
+        "feca",
+        "osamodas",
+        "ecaflip"
+      ],
+      "picks": [
+        "eniripsa",
+        "ouginak",
+        "huppermage"
+      ]
+    },
+    "B": {
+      "teamName": "SAP",
+      "bans": [
+        "eliotrope",
+        "forgelance",
+        "steamer",
+        "sacrieur",
+        "sram"
+      ],
+      "picks": [
+        "iop",
+        "enutrof",
+        "pandawa"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58342/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "FAM",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Moroccans",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58343/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "El Famoso",
+      "bans": [
+        "zobal",
+        "forgelance",
+        "ouginak",
+        "pandawa",
+        "sram"
+      ],
+      "picks": [
+        "steamer",
+        "sacrieur",
+        "roublard"
+      ]
+    },
+    "B": {
+      "teamName": "-Ni_Hao-",
+      "bans": [
+        "feca",
+        "eniripsa",
+        "osamodas",
+        "iop",
+        "huppermage"
+      ],
+      "picks": [
+        "eliotrope",
+        "ecaflip",
+        "cra"
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58344/1": {
+    "winner": "A",
+    "A": {
+      "teamName": "Minute Papillon",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "Spirit Team",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "https://ktarena.com/en/234-dofus-qualifier-spring/match/58345/1": {
+    "winner": "B",
+    "A": {
+      "teamName": "Rene-Walid",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    },
+    "B": {
+      "teamName": "WOD",
+      "bans": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "picks": [
+        null,
+        null,
+        null
+      ]
+    }
   }
 }
