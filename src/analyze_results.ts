@@ -23,6 +23,12 @@ type ClassPlayData = {
 	totalWins: number;
 	totalLosses: number;
 	totalDraws: number;
+	AWins: number;
+	BWins: number;
+	ALosses: number;
+	BLosses: number;
+	ADraws: number;
+	BDraws: number;
 };
 type ClassPickBanData = {
 	ABan1: number;
@@ -131,6 +137,12 @@ export function analyzeGlobalClassesData() {
 			totalWins: 0,
 			totalLosses: 0,
 			totalDraws: 0,
+			AWins: 0,
+			ALosses: 0,
+			ADraws: 0,
+			BWins: 0,
+			BLosses: 0,
+			BDraws: 0,
 		};
 		Object.values(matches).forEach((match) => {
 			// picks
@@ -138,14 +150,32 @@ export function analyzeGlobalClassesData() {
 			// bans
 			if (match.A.bans.includes(className) || match.B.bans.includes(className)) classData.totalBans++;
 			// draws
-			if (match.winner === "DRAW" && match.A.picks.includes(className)) classData.totalDraws++;
-			if (match.winner === "DRAW" && match.B.picks.includes(className)) classData.totalDraws++;
+			if (match.winner === "DRAW" && match.A.picks.includes(className)) {
+				classData.totalDraws++;
+				classData.ADraws++;
+			}
+			if (match.winner === "DRAW" && match.B.picks.includes(className)) {
+				classData.totalDraws++;
+				classData.BDraws++;
+			}
 			// wins
-			if (match.winner === "A" && match.A.picks.includes(className)) classData.totalWins++;
-			if (match.winner === "B" && match.B.picks.includes(className)) classData.totalWins++;
+			if (match.winner === "A" && match.A.picks.includes(className)) {
+				classData.totalWins++;
+				classData.AWins++;
+			}
+			if (match.winner === "B" && match.B.picks.includes(className)) {
+				classData.totalWins++;
+				classData.BWins++;
+			}
 			// losses
-			if (match.winner === "A" && match.B.picks.includes(className)) classData.totalLosses++;
-			if (match.winner === "B" && match.A.picks.includes(className)) classData.totalLosses++;
+			if (match.winner === "A" && match.B.picks.includes(className)) {
+				classData.totalLosses++;
+				classData.BLosses++;
+			}
+			if (match.winner === "B" && match.A.picks.includes(className)) {
+				classData.totalLosses++;
+				classData.ALosses++;
+			}
 		});
 		// presence
 		classData.totalPresence = (classData.totalPicks + classData.totalBans) / totalMatchesAllClasses;
@@ -158,6 +188,8 @@ export function analyzeGlobalClassesData() {
 		let classData = classesaData[className];
 		let winrate =
 			(classData.totalWins / (classData.totalWins + classData.totalLosses + classData.totalDraws) || 0) * 100;
+		let winrateA = (classData.AWins / (classData.AWins + classData.ALosses + classData.ADraws) || 0) * 100;
+		let winrateB = (classData.BWins / (classData.BWins + classData.BLosses + classData.BDraws) || 0) * 100;
 		let pickrate = (classData.totalPicks / totalMatchesAllClasses || 0) * 100;
 		let banrate = (classData.totalBans / totalMatchesAllClasses || 0) * 100;
 		let presence = (classData.totalPresence || 0) * 100;
@@ -167,10 +199,17 @@ export function analyzeGlobalClassesData() {
 			Winrate: winrate.toFixed(1) + "%",
 			Pickrate: pickrate.toFixed(1) + "%",
 			Banrate: banrate.toFixed(1) + "%",
+			Picks: classData.totalPicks,
 			Wins: classData.totalWins,
 			Losses: classData.totalLosses,
 			Draws: classData.totalDraws,
 			Presence: presence.toFixed(1) + "%",
+			"Winrate (A)": winrateA.toFixed(1) + "%",
+			"Winrate (B)": winrateB.toFixed(1) + "%",
+			"Picks (A)": classData.AWins + classData.ALosses + classData.ADraws,
+			"Picks (B)": classData.BWins + classData.BLosses + classData.BDraws,
+			"Wins (A)": classData.AWins,
+			"Wins (B)": classData.BWins,
 		};
 	});
 
@@ -186,10 +225,17 @@ export function analyzeGlobalClassesData() {
 			{ name: "Winrate", alignment: "center" },
 			{ name: "Pickrate", alignment: "center" },
 			{ name: "Banrate", alignment: "center" },
+			{ name: "Picks", alignment: "center" },
 			{ name: "Wins", alignment: "center" },
 			{ name: "Losses", alignment: "center" },
 			{ name: "Draws", alignment: "center" },
 			{ name: "Presence", alignment: "center" },
+			{ name: "Winrate (A)", alignment: "center" },
+			{ name: "Winrate (B)", alignment: "center" },
+			{ name: "Picks (A)", alignment: "center" },
+			{ name: "Picks (B)", alignment: "center" },
+			{ name: "Wins (A)", alignment: "center" },
+			{ name: "Wins (B)", alignment: "center" },
 		],
 	});
 
