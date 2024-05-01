@@ -482,3 +482,357 @@ export function analyzePickBanOrder() {
 	// Print the table
 	printer.printTable();
 }
+
+export function analyzeTeamStats(teamName: string) {
+	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+
+	// remove time forfeits (A or B picks == [null, null, null])
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.picks[0] === null && matches[matchId].B.picks[0] === null) {
+			delete matches[matchId];
+		}
+	});
+	// remove all matches that are not from the team
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.teamName !== teamName && matches[matchId].B.teamName !== teamName) {
+			delete matches[matchId];
+		}
+	});
+
+	console.log("----- TEAM STATS FOR: ", teamName, " -----");
+	console.log("Total matches: ", Object.keys(matches).length);
+
+	let matchesA = Object.values(matches).filter((match) => match.A.teamName === teamName).length;
+	let matchesB = Object.values(matches).filter((match) => match.B.teamName === teamName).length;
+	let winsA = Object.values(matches).filter((match) => match.A.teamName === teamName && match.winner === "A").length;
+	let winsB = Object.values(matches).filter((match) => match.B.teamName === teamName && match.winner === "B").length;
+	let lossesA = Object.values(matches).filter(
+		(match) => match.A.teamName === teamName && match.winner === "B"
+	).length;
+	let lossesB = Object.values(matches).filter(
+		(match) => match.B.teamName === teamName && match.winner === "A"
+	).length;
+	let drawsA = Object.values(matches).filter(
+		(match) => match.A.teamName === teamName && match.winner === "DRAW"
+	).length;
+	let drawsB = Object.values(matches).filter(
+		(match) => match.B.teamName === teamName && match.winner === "DRAW"
+	).length;
+	let winrateA = (winsA / (winsA + lossesA + drawsA)) * 100;
+	let winrateB = (winsB / (winsB + lossesB + drawsB)) * 100;
+
+	let sideTableData = [
+		{
+			Side: "A",
+			Count: matchesA,
+			Wins: winsA,
+			Losses: lossesA,
+			Draws: drawsA,
+			Winrate: winrateA.toFixed(1) + "%",
+		},
+		{
+			Side: "B",
+			Count: matchesB,
+			Wins: winsB,
+			Losses: lossesB,
+			Draws: drawsB,
+			Winrate: winrateB.toFixed(1) + "%",
+		},
+	];
+	// initialize the printer
+	const sidePrinter = new Table({
+		columns: [
+			{ name: "Side", alignment: "left" },
+			{ name: "Count", alignment: "center" },
+			{ name: "Wins", alignment: "center" },
+			{ name: "Losses", alignment: "center" },
+			{ name: "Draws", alignment: "center" },
+			{ name: "Winrate", alignment: "center" },
+		],
+	});
+	// print the table
+	sideTableData.forEach((row) => {
+		sidePrinter.addRow(row);
+	});
+	sidePrinter.printTable();
+
+	let classesData: Record<string, { picks: number; wins: number; losses: number; draws: number; winrate: number }> =
+		{};
+	Object.values(classes).forEach((className) => {
+		let picks = Object.values(matches).filter(
+			(match) =>
+				(match.A.teamName === teamName && match.A.picks.includes(className)) ||
+				(match.B.teamName === teamName && match.B.picks.includes(className))
+		).length;
+		let wins = Object.values(matches).filter(
+			(match) =>
+				match.winner !== "DRAW" &&
+				match[match.winner].teamName === teamName &&
+				match[match.winner].picks.includes(className)
+		).length;
+		let losses = Object.values(matches).filter(
+			(match) =>
+				match[match.winner === "A" ? "B" : "A"].teamName === teamName &&
+				match[match.winner === "A" ? "B" : "A"].picks.includes(className)
+		).length;
+		let draws = Object.values(matches).filter(
+			(match) =>
+				match.winner === "DRAW" &&
+				((match.A.teamName === teamName && match.A.picks.includes(className)) ||
+					(match.B.teamName === teamName && match.B.picks.includes(className)))
+		).length;
+		let winrate = (wins / (wins + losses + draws)) * 100;
+		classesData[className] = { picks, wins, losses, draws, winrate };
+	});
+
+	let classTableData = Object.keys(classesData).map((className) => {
+		let classData = classesData[className];
+		return {
+			Class: className,
+			Picks: classData.picks,
+			Wins: classData.wins,
+			Losses: classData.losses,
+			Draws: classData.draws,
+			Winrate: classData.winrate.toFixed(1) + "%",
+		};
+	});
+
+	// sort tableData by winrate, then by picks
+	// classTableData.sort(
+	// 	(a, b) => (parseFloat(b.Winrate.replace("%", "")) || 0) - (parseFloat(a.Winrate.replace("%", "")) || 0)
+	// );
+	classTableData.sort((a, b) => {
+		if ((parseFloat(b.Winrate.replace("%", "")) || 0) === (parseFloat(a.Winrate.replace("%", "")) || 0)) {
+			return b.Picks - a.Picks;
+		}
+		return (parseFloat(b.Winrate.replace("%", "")) || 0) - (parseFloat(a.Winrate.replace("%", "")) || 0);
+	});
+
+	// initialize the printer
+	const classPrinter = new Table({
+		columns: [
+			{ name: "Class", alignment: "left" },
+			{ name: "Picks", alignment: "center" },
+			{ name: "Wins", alignment: "center" },
+			{ name: "Losses", alignment: "center" },
+			{ name: "Draws", alignment: "center" },
+			{ name: "Winrate", alignment: "center" },
+		],
+	});
+
+	// print the table
+	classTableData.forEach((row) => {
+		classPrinter.addRow(row);
+	});
+
+	classPrinter.printTable();
+
+	let classPickStats = Object.keys(classesData).map((className) => {
+		return {
+			className,
+			firstPickCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.picks[0] === className) ||
+					(match.B.teamName === teamName && match.B.picks[0] === className)
+			),
+			secondPickCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.picks[1] === className) ||
+					(match.B.teamName === teamName && match.B.picks[1] === className)
+			),
+			thirdPickCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.picks[2] === className) ||
+					(match.B.teamName === teamName && match.B.picks[2] === className)
+			),
+			firstBanCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.bans[0] === className) ||
+					(match.B.teamName === teamName && match.B.bans[0] === className)
+			),
+			secondBanCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.bans[1] === className) ||
+					(match.B.teamName === teamName && match.B.bans[1] === className)
+			),
+			thirdBanCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.bans[2] === className) ||
+					(match.B.teamName === teamName && match.B.bans[2] === className)
+			),
+			fourthBanCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.bans[3] === className) ||
+					(match.B.teamName === teamName && match.B.bans[3] === className)
+			),
+			fifthBanCount: Object.values(matches).filter(
+				(match) =>
+					(match.A.teamName === teamName && match.A.bans[4] === className) ||
+					(match.B.teamName === teamName && match.B.bans[4] === className)
+			),
+		};
+	});
+
+	let firstPickStats = classPickStats
+		.sort((a, b) => b.firstPickCount.length - a.firstPickCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.firstPickCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let secondPickStats = classPickStats
+		.sort((a, b) => b.secondPickCount.length - a.secondPickCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.secondPickCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let thirdPickStats = classPickStats
+		.sort((a, b) => b.thirdPickCount.length - a.thirdPickCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.thirdPickCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let firstBanStats = classPickStats
+		.sort((a, b) => b.firstBanCount.length - a.firstBanCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.firstBanCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let secondBanStats = classPickStats
+		.sort((a, b) => b.secondBanCount.length - a.secondBanCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.secondBanCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let thirdBanStats = classPickStats
+		.sort((a, b) => b.thirdBanCount.length - a.thirdBanCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.thirdBanCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let fourthBanStats = classPickStats
+		.sort((a, b) => b.fourthBanCount.length - a.fourthBanCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.fourthBanCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+	let fifthBanStats = classPickStats
+		.sort((a, b) => b.fifthBanCount.length - a.fifthBanCount.length)
+		.slice(0, 4)
+		.map(
+			(classData) =>
+				classData.className +
+				" (" +
+				((classData.fifthBanCount.length / Object.keys(matches).length) * 100).toFixed(1) +
+				"%)"
+		);
+
+	// initialize the printer
+	const pickPrinter = new Table({
+		columns: [
+			{ name: "Fav Picks", alignment: "left" },
+			{ name: "1", alignment: "center" },
+			{ name: "2", alignment: "center" },
+			{ name: "3", alignment: "center" },
+			{ name: "4", alignment: "center" },
+		],
+	});
+	// print the table
+	pickPrinter.addRow({
+		" ": "First Pick",
+		1: firstPickStats[0],
+		2: firstPickStats[1],
+		3: firstPickStats[2],
+		4: firstPickStats[3],
+	});
+	pickPrinter.addRow({
+		" ": "Second Pick",
+		1: secondPickStats[0],
+		2: secondPickStats[1],
+		3: secondPickStats[2],
+		4: secondPickStats[3],
+	});
+	pickPrinter.addRow({
+		" ": "Third Pick",
+		1: thirdPickStats[0],
+		2: thirdPickStats[1],
+		3: thirdPickStats[2],
+		4: thirdPickStats[3],
+	});
+	pickPrinter.printTable();
+
+	// initialize the printer
+	const banPrinter = new Table({
+		columns: [
+			{ name: " Fav Bans ", alignment: "left" },
+			{ name: "1", alignment: "center" },
+			{ name: "2", alignment: "center" },
+			{ name: "3", alignment: "center" },
+			{ name: "4", alignment: "center" },
+		],
+	});
+	// print the table
+	banPrinter.addRow({
+		" ": "First Ban",
+		1: firstBanStats[0],
+		2: firstBanStats[1],
+		3: firstBanStats[2],
+		4: firstBanStats[3],
+	});
+	banPrinter.addRow({
+		" ": "Second Ban",
+		1: secondBanStats[0],
+		2: secondBanStats[1],
+		3: secondBanStats[2],
+		4: secondBanStats[3],
+	});
+	banPrinter.addRow({
+		" ": "Third Ban",
+		1: thirdBanStats[0],
+		2: thirdBanStats[1],
+		3: thirdBanStats[2],
+		4: thirdBanStats[3],
+	});
+	banPrinter.addRow({
+		" ": "Fourth Ban",
+		1: fourthBanStats[0],
+		2: fourthBanStats[1],
+		3: fourthBanStats[2],
+		4: fourthBanStats[3],
+	});
+	banPrinter.addRow({
+		" ": "Fifth Ban",
+		1: fifthBanStats[0],
+		2: fifthBanStats[1],
+		3: fifthBanStats[2],
+		4: fifthBanStats[3],
+	});
+	banPrinter.printTable();
+}
