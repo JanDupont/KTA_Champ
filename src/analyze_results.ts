@@ -3,6 +3,7 @@ import { classes } from "./classes.js";
 import { Table } from "console-table-printer";
 
 const MODE = "PLAYOFFS"; // "SWISS" | "PLAYOFFS"
+const TOP_32_TEAMS_ONLY = false; // only use this in SWISS mode
 
 type Match = {
 	winner: "A" | "B" | "DRAW";
@@ -51,6 +52,41 @@ type ClassPickBanData = {
 	BPick3: number;
 };
 
+let top32teams = [
+	"RLCS",
+	"Digital",
+	"ssj",
+	"Polia",
+	"Somnium",
+	"138",
+	"Rfissa gang",
+	"HOF YANG",
+	"Drunked Totem",
+	"Black Flag",
+	"HOF YIN",
+	"Helios Gaming",
+	"Sagarmatha",
+	"QUOIQUOUFEUR",
+	"Demonic Soldiers",
+	"Tempête",
+	"Ego",
+	"Umbra",
+	"Unique",
+	"Hasascow",
+	"miou",
+	"Celestia",
+	"Bloodbath",
+	"Vroom Vroom",
+	"Outbreak",
+	"Lone Wolf",
+	"GAMA",
+	"Boar",
+	"Bourds",
+	"El Famoso",
+	"Les 3 moustiquaires",
+	"Faucon Tigré",
+];
+
 export function analizeSideWinrate() {
 	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
 
@@ -65,6 +101,18 @@ export function analizeSideWinrate() {
 	if (MODE === "PLAYOFFS") {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
+
+	// only include matches of top 32 teams vs top 32 teams
+	if (TOP_32_TEAMS_ONLY) {
+		Object.keys(matches).forEach((matchId) => {
+			if (
+				!top32teams.includes(matches[matchId].A.teamName) ||
+				!top32teams.includes(matches[matchId].B.teamName)
+			) {
 				delete matches[matchId];
 			}
 		});
@@ -141,6 +189,18 @@ export function analyzeGlobalClassesData() {
 	if (MODE === "PLAYOFFS") {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
+
+	// only include matches of top 32 teams vs top 32 teams
+	if (TOP_32_TEAMS_ONLY) {
+		Object.keys(matches).forEach((matchId) => {
+			if (
+				!top32teams.includes(matches[matchId].A.teamName) ||
+				!top32teams.includes(matches[matchId].B.teamName)
+			) {
 				delete matches[matchId];
 			}
 		});
@@ -296,6 +356,18 @@ export function analyzePickBanOrder() {
 	if (MODE === "PLAYOFFS") {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
+
+	// only include matches of top 32 teams vs top 32 teams
+	if (TOP_32_TEAMS_ONLY) {
+		Object.keys(matches).forEach((matchId) => {
+			if (
+				!top32teams.includes(matches[matchId].A.teamName) ||
+				!top32teams.includes(matches[matchId].B.teamName)
+			) {
 				delete matches[matchId];
 			}
 		});
