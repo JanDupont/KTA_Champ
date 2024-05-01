@@ -2,6 +2,8 @@ import fs from "fs";
 import { classes } from "./classes.js";
 import { Table } from "console-table-printer";
 
+const MODE = "PLAYOFFS"; // "SWISS" | "PLAYOFFS"
+
 type Match = {
 	winner: "A" | "B" | "DRAW";
 	A: {
@@ -58,6 +60,15 @@ export function analizeSideWinrate() {
 			delete matches[matchId];
 		}
 	});
+
+	// PLAYOFFS: remove draw matches
+	if (MODE === "PLAYOFFS") {
+		Object.keys(matches).forEach((matchId) => {
+			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
 
 	let sideWinrates: Record<string, { wins: number; losses: number; draws: number }> = {
 		A: {
@@ -125,6 +136,15 @@ export function analyzeGlobalClassesData() {
 			delete matches[matchId];
 		}
 	});
+
+	// PLAYOFFS: remove draw matches
+	if (MODE === "PLAYOFFS") {
+		Object.keys(matches).forEach((matchId) => {
+			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
 
 	let totalMatchesAllClasses = Object.keys(matches).length;
 	let classesaData: Record<string, ClassPlayData> = {};
@@ -271,6 +291,15 @@ export function analyzePickBanOrder() {
 			delete matches[matchId];
 		}
 	});
+
+	// PLAYOFFS: remove draw matches
+	if (MODE === "PLAYOFFS") {
+		Object.keys(matches).forEach((matchId) => {
+			if (matches[matchId].winner === "DRAW") {
+				delete matches[matchId];
+			}
+		});
+	}
 
 	let totalMatchesAllClasses = Object.keys(matches).length;
 	let classesPickBanData: Record<string, ClassPickBanData> = {};
