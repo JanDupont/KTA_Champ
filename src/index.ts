@@ -2,7 +2,13 @@ import fs from "fs";
 import axios from "axios";
 import * as cheerio from "cheerio";
 import { classes } from "./classes.js";
-import { analizeSideWinrate, analyzeGlobalClassesData, analyzePickBanOrder } from "./analyze_results.js";
+import {
+	analizeSideWinrate,
+	analyzeGlobalClassesData,
+	analyzePickBanOrder,
+	analyzeTeamStats,
+	getWinratesVsClass,
+} from "./analyze_results.js";
 
 let matchSheetLinks: string[] = JSON.parse(fs.readFileSync("data/match_sheet_links.json", "utf8"));
 
@@ -18,6 +24,10 @@ async function fetchDataAndAnalyze() {
 	analizeSideWinrate();
 	analyzeGlobalClassesData();
 	analyzePickBanOrder();
+
+	analyzeTeamStats("Sagarmatha");
+	
+	getWinratesVsClass("eliotrope");
 }
 
 async function fetchMatchSheet(url: string) {
