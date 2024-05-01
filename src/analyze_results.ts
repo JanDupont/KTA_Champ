@@ -836,3 +836,76 @@ export function analyzeTeamStats(teamName: string) {
 	});
 	banPrinter.printTable();
 }
+
+export function getWinratesVsClass(className: string) {
+	let matches: Record<string, Match> = JSON.parse(fs.readFileSync("data/result.json", "utf8"));
+
+	// remove time forfeits (A or B picks == [null, null, null])
+	Object.keys(matches).forEach((matchId) => {
+		if (matches[matchId].A.picks[0] === null && matches[matchId].B.picks[0] === null) {
+			delete matches[matchId];
+		}
+	});
+	// only include matches of top 32 teams vs top 32 teams
+	if (TOP_32_TEAMS_ONLY) {
+		Object.keys(matches).forEach((matchId) => {
+			if (
+				!top32teams.includes(matches[matchId].A.teamName) ||
+				!top32teams.includes(matches[matchId].B.teamName)
+			) {
+				delete matches[matchId];
+			}
+		});
+	}
+
+	let classWinrates: Record<string, { encounters: number; winrate: string }> = {};
+
+	Object.values(classes).forEach((cn) => {
+		let wins = 0;
+		let losses = 0;
+		let draws = 0;
+
+		Object.values(matches).forEach((match) => {
+			if (match.A.picks.includes(cn) && match.B.picks.includes(className)) {
+				if (match.winner === "A") wins++;
+				else if (match.winner === "B") losses++;
+				else draws++;
+			}
+			if (match.B.picks.includes(cn) && match.A.picks.includes(className)) {
+				if (match.winner === "B") wins++;
+				else if (match.winner === "A") losses++;
+				else draws++;
+			}
+		});
+
+		let winrate = (wins / (wins + losses + draws)) * 100;
+		classWinrates[cn] = {
+			encounters: wins + losses + draws,
+			winrate: winrate.toFixed(1) + "%",
+		};
+	});
+
+	let tableData = Object.keys(classWinrates).map((cn) => {
+		let classData = classWinrates[cn];
+		return {
+			Class: cn,
+			Encounters: classData.encounters,
+			Winrate: classData.winrate,
+		};
+	});
+	tableData.sort((a, b) => parseFloat(b.Winrate.replace("%", "")) - parseFloat(a.Winrate.replace("%", "")));
+	// initialize the printer
+	const printer = new Table({
+		columns: [
+			{ name: "Class", alignment: "left" },
+			{ name: "Encounters", alignment: "center" },
+			{ name: "Winrate", alignment: "center" },
+		],
+	});
+	// print the table
+	tableData.forEach((row) => {
+		printer.addRow(row);
+	});
+	console.log("Winrates vs ", className, ":");
+	printer.printTable();
+}
