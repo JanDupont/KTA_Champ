@@ -60,8 +60,15 @@ async function fetchDraft(url: string, winner: "A" | "B" | "DRAW", matchSheetUrl
 	if (!dataPage) return;
 	const dataPageJson = JSON.parse(dataPage);
 
-	let teamNameA = dataPageJson.props.draft.draft_match.auth1.name;
-	let teamNameB = dataPageJson.props.draft.draft_match.auth2.name;
+	let authNameA = dataPageJson.props.draft.draft_match.auth1.name;
+	let authNameB = dataPageJson.props.draft.draft_match.auth2.name;
+	let teamNameA = dataPageJson.props.draft.authA.name;
+	let teamNameB = dataPageJson.props.draft.authB.name;
+
+	if (authNameA === teamNameB && authNameB === teamNameA) {
+		if (winner === "A") winner = "B";
+		else if (winner === "B") winner = "A";
+	}
 
 	let draftString = dataPageJson.props.draft.data.split(":");
 	writeData(matchSheetUrl, teamNameA, teamNameB, draftString, winner);
