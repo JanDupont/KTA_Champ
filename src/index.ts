@@ -31,7 +31,13 @@ async function fetchMatchSheet(url: string) {
 	const html = response.data;
 	const $ = cheerio.load(html);
 
-	const draft_link = $(".draft_link a").attr("href");
+	// @ts-ignore
+	let matchNumber: "1" | "2" | "3" = url.split("/").pop();
+	if (matchNumber !== "1" && matchNumber !== "2" && matchNumber !== "3") return;
+
+	const draft_link = $(".draft_link a")
+		.eq(parseInt(matchNumber) - 1)
+		.attr("href");
 	if (!draft_link) return;
 	let deadClassesA = 0;
 	let deadClassesB = 0;
