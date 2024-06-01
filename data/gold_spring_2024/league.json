@@ -1,0 +1,314 @@
+{
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59334/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["eliotrope", "eniripsa", "huppermage", "iop", "osamodas"],
+			"picks": ["sacrieur", "roublard", "enutrof"]
+		},
+		"B": {
+			"teamName": "SOLARY",
+			"bans": ["steamer", "feca", "ecaflip", "forgelance", "pandawa"],
+			"picks": ["zobal", "ouginak", "sram"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59335/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "gods",
+			"bans": ["eniripsa", "zobal", "feca", "enutrof", "roublard"],
+			"picks": ["sacrieur", "iop", "osamodas"]
+		},
+		"B": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["pandawa", "eliotrope", "ouginak", "ecaflip", "huppermage"],
+			"picks": ["steamer", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59336/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Smile",
+			"bans": ["sacrieur", "iop", "ouginak", "enutrof", "eliotrope"],
+			"picks": ["zobal", "ecaflip", "huppermage"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["feca", "steamer", "forgelance", "roublard", "pandawa"],
+			"picks": ["osamodas", "eniripsa", "sram"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59337/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Somnium",
+			"bans": ["zobal", "eniripsa", "steamer", "sram", "roublard"],
+			"picks": ["sacrieur", "iop", "enutrof"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["ouginak", "ecaflip", "pandawa", "huppermage", "eliotrope"],
+			"picks": ["feca", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59338/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "zobal", "iop", "ouginak", "enutrof"],
+			"picks": ["eniripsa", "roublard", "cra"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["steamer", "feca", "forgelance", "sram", "pandawa"],
+			"picks": ["osamodas", "ecaflip", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59339/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Somnium",
+			"bans": ["eniripsa", "feca", "roublard", "eliotrope", "huppermage"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sacrieur", "sram", "forgelance", "ecaflip", "enutrof"],
+			"picks": ["zobal", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59340/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Smile",
+			"bans": ["eliotrope", "eniripsa", "zobal", "iop", "osamodas"],
+			"picks": ["sacrieur", "forgelance", "ouginak"]
+		},
+		"B": {
+			"teamName": "SOLARY",
+			"bans": ["feca", "roublard", "ecaflip", "enutrof", "pandawa"],
+			"picks": ["steamer", "huppermage", "cra"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59341/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["zobal", "feca", "iop", "huppermage", "roublard"],
+			"picks": ["steamer", "eliotrope", "sram"]
+		},
+		"B": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["sacrieur", "pandawa", "forgelance", "ecaflip", "cra"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59342/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Somnium",
+			"bans": ["eniripsa", "feca", "eliotrope", "pandawa", "cra"],
+			"picks": ["zobal", "ecaflip", "forgelance"]
+		},
+		"B": {
+			"teamName": "Smile",
+			"bans": ["sacrieur", "steamer", "sram", "ouginak", "osamodas"],
+			"picks": ["roublard", "iop", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59343/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "gods",
+			"bans": ["eniripsa", "zobal", "sram", "iop", "osamodas"],
+			"picks": ["steamer", "ecaflip", "enutrof"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sacrieur", "eliotrope", "huppermage", "forgelance", "cra"],
+			"picks": ["feca", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59344/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "SOLARY",
+			"bans": ["eniripsa", "feca", "zobal", "iop", "roublard"],
+			"picks": ["sacrieur", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["eliotrope", "huppermage", "ecaflip", "enutrof", "osamodas"],
+			"picks": ["steamer", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59345/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["zobal", "feca", "forgelance", "sram", "enutrof"],
+			"picks": ["steamer", "pandawa", "ecaflip"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "eliotrope", "ouginak", "cra", "roublard"],
+			"picks": ["eniripsa", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59334/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "SOLARY",
+			"bans": ["zobal", "feca", "iop", "ouginak", "roublard"],
+			"picks": ["sacrieur", "sram", "cra"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["steamer", "huppermage", "ecaflip", "forgelance", "osamodas"],
+			"picks": ["eniripsa", "eliotrope", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59335/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["eniripsa", "zobal", "iop", "pandawa", "huppermage"],
+			"picks": ["feca", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sacrieur", "sram", "ecaflip", "roublard", "cra"],
+			"picks": ["steamer", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59336/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["iop", "eniripsa", "roublard", "cra", "sram"],
+			"picks": ["sacrieur", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Smile",
+			"bans": ["feca", "steamer", "ecaflip", "osamodas", "eliotrope"],
+			"picks": ["zobal", "huppermage", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59337/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "feca", "ouginak", "iop", "osamodas"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "Somnium",
+			"bans": ["roublard", "pandawa", "sram", "zobal", "enutrof"],
+			"picks": ["eniripsa", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59338/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["iop", "eniripsa", "zobal", "forgelance", "cra"],
+			"picks": ["feca", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "ecaflip", "ouginak", "sram", "eliotrope"],
+			"picks": ["steamer", "pandawa", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59339/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "gods",
+			"bans": ["zobal", "eniripsa", "feca", "huppermage", "pandawa"],
+			"picks": ["sacrieur", "sram", "enutrof"]
+		},
+		"B": {
+			"teamName": "Somnium",
+			"bans": ["roublard", "forgelance", "ecaflip", "iop", "eliotrope"],
+			"picks": ["steamer", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59340/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "SOLARY",
+			"bans": ["roublard", "zobal", "eniripsa", "ecaflip", "enutrof"],
+			"picks": ["steamer", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "Smile",
+			"bans": ["sacrieur", "eliotrope", "huppermage", "iop", "osamodas"],
+			"picks": ["feca", "ouginak", "sram"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59341/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["zobal", "sacrieur", "eniripsa", "eliotrope", "enutrof"],
+			"picks": ["feca", "pandawa", "cra"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["forgelance", "ouginak", "huppermage", "iop", "roublard"],
+			"picks": ["steamer", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59342/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Smile",
+			"bans": ["zobal", "eliotrope", "forgelance", "steamer", "pandawa"],
+			"picks": ["feca", "sram", "enutrof"]
+		},
+		"B": {
+			"teamName": "Somnium",
+			"bans": ["roublard", "iop", "huppermage", "eniripsa", "osamodas"],
+			"picks": ["sacrieur", "ouginak", "ecaflip"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59343/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["eniripsa", "eliotrope", "iop", "forgelance", "xelor"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sacrieur", "feca", "ecaflip", "sram", "osamodas"],
+			"picks": ["zobal", "roublard", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59344/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ici Japon Corp.",
+			"bans": ["eliotrope", "feca", "iop", "ouginak", "pandawa"],
+			"picks": ["eniripsa", "cra", "enutrof"]
+		},
+		"B": {
+			"teamName": "SOLARY",
+			"bans": ["sacrieur", "steamer", "huppermage", "forgelance", "ecaflip"],
+			"picks": ["zobal", "roublard", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/238-dofus-championship--spring/match/59345/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "zobal", "eliotrope", "iop", "cra"],
+			"picks": ["feca", "ecaflip", "enutrof"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["steamer", "pandawa", "sram", "forgelance", "roublard"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		}
+	}
+}

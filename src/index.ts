@@ -25,9 +25,9 @@ async function fetchDataAndAnalyze() {
 	analyzeGlobalClassesData();
 	analyzePickBanOrder();
 
-	analyzeTeamStats("Sagarmatha");
+	// analyzeTeamStats("HOF YIN");
 	
-	getWinratesVsClass("eliotrope");
+	// getWinratesVsClass("eliotrope");
 }
 
 async function fetchMatchSheet(url: string) {

@@ -2,7 +2,7 @@ import fs from "fs";
 import { classes } from "./classes.js";
 import { Table } from "console-table-printer";
 
-const MODE = "PLAYOFFS"; // "SWISS" | "PLAYOFFS"
+const NO_DRAWS = false;
 const TOP_32_TEAMS_ONLY = false; // only use this in SWISS mode
 
 type Match = {
@@ -98,7 +98,7 @@ export function analizeSideWinrate() {
 	});
 
 	// PLAYOFFS: remove draw matches
-	if (MODE === "PLAYOFFS") {
+	if (NO_DRAWS) {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
 				delete matches[matchId];
@@ -186,7 +186,7 @@ export function analyzeGlobalClassesData() {
 	});
 
 	// PLAYOFFS: remove draw matches
-	if (MODE === "PLAYOFFS") {
+	if (NO_DRAWS) {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
 				delete matches[matchId];
@@ -353,7 +353,7 @@ export function analyzePickBanOrder() {
 	});
 
 	// PLAYOFFS: remove draw matches
-	if (MODE === "PLAYOFFS") {
+	if (NO_DRAWS) {
 		Object.keys(matches).forEach((matchId) => {
 			if (matches[matchId].winner === "DRAW") {
 				delete matches[matchId];
@@ -766,21 +766,21 @@ export function analyzeTeamStats(teamName: string) {
 	});
 	// print the table
 	pickPrinter.addRow({
-		" ": "First Pick",
+		"Fav Picks": "First Pick",
 		1: firstPickStats[0],
 		2: firstPickStats[1],
 		3: firstPickStats[2],
 		4: firstPickStats[3],
 	});
 	pickPrinter.addRow({
-		" ": "Second Pick",
+		"Fav Picks": "Second Pick",
 		1: secondPickStats[0],
 		2: secondPickStats[1],
 		3: secondPickStats[2],
 		4: secondPickStats[3],
 	});
 	pickPrinter.addRow({
-		" ": "Third Pick",
+		"Fav Picks": "Third Pick",
 		1: thirdPickStats[0],
 		2: thirdPickStats[1],
 		3: thirdPickStats[2],
@@ -791,7 +791,7 @@ export function analyzeTeamStats(teamName: string) {
 	// initialize the printer
 	const banPrinter = new Table({
 		columns: [
-			{ name: " Fav Bans ", alignment: "left" },
+			{ name: "Fav Bans", alignment: "left" },
 			{ name: "1", alignment: "center" },
 			{ name: "2", alignment: "center" },
 			{ name: "3", alignment: "center" },
@@ -800,35 +800,35 @@ export function analyzeTeamStats(teamName: string) {
 	});
 	// print the table
 	banPrinter.addRow({
-		" ": "First Ban",
+		"Fav Bans": "First Ban",
 		1: firstBanStats[0],
 		2: firstBanStats[1],
 		3: firstBanStats[2],
 		4: firstBanStats[3],
 	});
 	banPrinter.addRow({
-		" ": "Second Ban",
+		"Fav Bans": "Second Ban",
 		1: secondBanStats[0],
 		2: secondBanStats[1],
 		3: secondBanStats[2],
 		4: secondBanStats[3],
 	});
 	banPrinter.addRow({
-		" ": "Third Ban",
+		"Fav Bans": "Third Ban",
 		1: thirdBanStats[0],
 		2: thirdBanStats[1],
 		3: thirdBanStats[2],
 		4: thirdBanStats[3],
 	});
 	banPrinter.addRow({
-		" ": "Fourth Ban",
+		"Fav Bans": "Fourth Ban",
 		1: fourthBanStats[0],
 		2: fourthBanStats[1],
 		3: fourthBanStats[2],
 		4: fourthBanStats[3],
 	});
 	banPrinter.addRow({
-		" ": "Fifth Ban",
+		"Fav Bans": "Fifth Ban",
 		1: fifthBanStats[0],
 		2: fifthBanStats[1],
 		3: fifthBanStats[2],
