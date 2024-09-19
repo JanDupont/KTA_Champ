@@ -3,3 +3,5 @@ dist
 
 generate_matchSheetLink_array.js
 linkArray.json
+linkArray_gold.json
+linkArray_silver.json

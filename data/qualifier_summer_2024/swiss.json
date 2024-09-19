@@ -1,0 +1,5917 @@
+{
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59657/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["feca", "sadida", "zobal", "sacrieur", "pandawa"],
+			"picks": ["eniripsa", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Stallions",
+			"bans": ["ecaflip", "steamer", "ouginak", "sram", "enutrof"],
+			"picks": ["forgelance", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59658/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FC Craqueboule",
+			"bans": ["osamodas", "steamer", "eniripsa", "pandawa", "ouginak"],
+			"picks": ["ecaflip", "huppermage", "forgelance"]
+		},
+		"B": {
+			"teamName": "Shrangi La",
+			"bans": ["sadida", "feca", "sacrieur", "eliotrope", "sram"],
+			"picks": ["iop", "zobal", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59659/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les barlouz",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59660/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ten Shin",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59661/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["eliotrope", "sadida", "ecaflip", "sacrieur", "enutrof"],
+			"picks": ["eniripsa", "iop", "pandawa"]
+		},
+		"B": {
+			"teamName": "Movez Lang",
+			"bans": ["sram", "feca", "zobal", "ouginak", "osamodas"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59662/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "u_u",
+			"bans": ["steamer", "sacrieur", "iop", "osamodas", "pandawa"],
+			"picks": ["eniripsa", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["sadida", "feca", "roublard", "enutrof", "sram"],
+			"picks": ["zobal", "ecaflip", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59663/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["feca", "steamer", "eniripsa", "enutrof", "osamodas"],
+			"picks": ["zobal", "sacrieur", "huppermage"]
+		},
+		"B": {
+			"teamName": "Unex",
+			"bans": ["sadida", "ecaflip", "ouginak", "roublard", "sram"],
+			"picks": ["iop", "forgelance", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59664/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Faucon Tigré",
+			"bans": ["feca", "steamer", "forgelance", "roublard", "osamodas"],
+			"picks": ["eniripsa", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sacrieur", "sadida", "enutrof", "ouginak", "sram"],
+			"picks": ["zobal", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59665/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lesteuw gang",
+			"bans": ["steamer", "eniripsa", "ouginak", "forgelance", "osamodas"],
+			"picks": ["sadida", "huppermage", "enutrof"]
+		},
+		"B": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "sacrieur", "pandawa", "ecaflip", "sram"],
+			"picks": ["zobal", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59666/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "ALM",
+			"bans": ["zobal", "sadida", "enutrof", "iop", "osamodas"],
+			"picks": ["sacrieur", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["feca", "eniripsa", "ecaflip", "forgelance", "pandawa"],
+			"picks": ["steamer", "ouginak", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59667/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Los Touristoss",
+			"bans": ["ecaflip", "feca", "iop", "ouginak", "eliotrope"],
+			"picks": ["steamer", "roublard", "sacrieur"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "eniripsa", "huppermage", "enutrof", "sram"],
+			"picks": ["zobal", "forgelance", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59668/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Chadou",
+			"bans": ["feca", "ecaflip", "zobal", "iop", "pandawa"],
+			"picks": ["sadida", "enutrof", "ouginak"]
+		},
+		"B": {
+			"teamName": "Clem et Roudy",
+			"bans": ["eniripsa", "osamodas", "forgelance", "sacrieur", "sram"],
+			"picks": ["steamer", "roublard", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59669/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["zobal", "eniripsa", "steamer", "pandawa", "huppermage"],
+			"picks": ["sacrieur", "sadida", "ouginak"]
+		},
+		"B": {
+			"teamName": "Novus Rursus",
+			"bans": ["feca", "forgelance", "sram", "enutrof", "cra"],
+			"picks": ["iop", "xelor", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59670/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Hasascow",
+			"bans": ["zobal", "feca", "steamer", "sacrieur", "enutrof"],
+			"picks": ["eniripsa", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Umbra",
+			"bans": ["sadida", "osamodas", "ouginak", "iop", "pandawa"],
+			"picks": ["ecaflip", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59671/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": ["feca", "zobal", "ecaflip", "pandawa", "cra"],
+			"picks": ["eniripsa", "iop", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Out Of Time",
+			"bans": ["sadida", "sacrieur", "enutrof", "ouginak", "sram"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59672/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "En legende",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "L Ordre",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59673/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Raccoon",
+			"bans": ["eniripsa", "feca", "steamer", "enutrof", "cra"],
+			"picks": ["ecaflip", "osamodas", "ouginak"]
+		},
+		"B": {
+			"teamName": "Vieille Ecole",
+			"bans": ["sacrieur", "sadida", "zobal", "iop", "xelor"],
+			"picks": ["forgelance", "eliotrope", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59674/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Stasis",
+			"bans": ["sadida", "sacrieur", "enutrof", "ecaflip", "roublard"],
+			"picks": ["forgelance", "sram", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Wind-Breaker",
+			"bans": ["feca", "eniripsa", "steamer", "ouginak", "cra"],
+			"picks": ["zobal", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59675/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les stochastiens",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "TOGETHER",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59676/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "666",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59677/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Allo",
+			"bans": ["feca", "sacrieur", "ecaflip", "zobal", "roublard"],
+			"picks": ["eniripsa", "sram", "pandawa"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["sadida", "enutrof", "iop", "forgelance", "osamodas"],
+			"picks": ["steamer", "ouginak", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59678/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "THE MONSTER",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Red Dragon",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59679/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "miou",
+			"bans": ["sadida", "eniripsa", "iop", "zobal", "cra"],
+			"picks": ["sacrieur", "sram", "pandawa"]
+		},
+		"B": {
+			"teamName": "Allister",
+			"bans": ["ecaflip", "feca", "enutrof", "ouginak", "roublard"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59680/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["feca", "eniripsa", "ouginak", "forgelance", "sram"],
+			"picks": ["sadida", "ecaflip", "iop"]
+		},
+		"B": {
+			"teamName": "Evariste",
+			"bans": ["sacrieur", "steamer", "enutrof", "roublard", "pandawa"],
+			"picks": ["eliotrope", "zobal", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59681/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "feca", "forgelance", "osamodas", "cra"],
+			"picks": ["eniripsa", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Royal Anomaly",
+			"bans": ["sadida", "steamer", "enutrof", "sacrieur", "roublard"],
+			"picks": ["iop", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59682/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Dragon Slayers",
+			"bans": ["zobal", "feca", "ecaflip", "osamodas", "pandawa"],
+			"picks": ["steamer", "ouginak", "sram"]
+		},
+		"B": {
+			"teamName": "FUG",
+			"bans": ["sadida", "sacrieur", "forgelance", "eliotrope", "enutrof"],
+			"picks": ["eniripsa", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59683/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["zobal", "feca", "enutrof", "iop", "eliotrope"],
+			"picks": ["sadida", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "Tokyo Manji",
+			"bans": ["sacrieur", "steamer", "eniripsa", "ecaflip", "roublard"],
+			"picks": ["forgelance", "ouginak", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59684/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "feca", "ecaflip", "zobal", "sram"],
+			"picks": ["eniripsa", "huppermage", "osamodas"]
+		},
+		"B": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sadida", "steamer", "ouginak", "forgelance", "enutrof"],
+			"picks": ["iop", "pandawa", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59685/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bloodbath",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "CFC",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59686/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["feca", "zobal", "ecaflip", "iop", "eliotrope"],
+			"picks": ["steamer", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Dark sasuke",
+			"bans": ["sadida", "forgelance", "eniripsa", "osamodas", "roublard"],
+			"picks": ["sacrieur", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59687/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Epouvanteur",
+			"bans": ["sacrieur", "eniripsa", "forgelance", "iop", "sram"],
+			"picks": ["zobal", "roublard", "osamodas"]
+		},
+		"B": {
+			"teamName": "Il va pas la chercher",
+			"bans": ["sadida", "feca", "ecaflip", "pandawa", "huppermage"],
+			"picks": ["steamer", "enutrof", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59688/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "MAROC",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Lion kingdom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59689/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ultra-IO",
+			"bans": ["eniripsa", "feca", "osamodas", "forgelance", "pandawa"],
+			"picks": ["zobal", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["sadida", "steamer", "ouginak", "iop", "roublard"],
+			"picks": ["sacrieur", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59690/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "La Legion",
+			"bans": ["eniripsa", "forgelance", "xelor", "zobal", "enutrof"],
+			"picks": ["feca", "steamer", "ecaflip"]
+		},
+		"B": {
+			"teamName": "JUST",
+			"bans": ["sram", "sadida", "sacrieur", "iop", "cra"],
+			"picks": ["eliotrope", "pandawa", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59691/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Purple Esport",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Datura",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59692/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "team 8",
+			"bans": ["forgelance", "ouginak", "cra", "ecaflip", "enutrof"],
+			"picks": ["eliotrope", "feca", "xelor"]
+		},
+		"B": {
+			"teamName": "White Walkers",
+			"bans": ["steamer", "pandawa", "roublard", "zobal", "sadida"],
+			"picks": ["eniripsa", "huppermage", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59693/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Team Marruecos",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Rose Noire",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59694/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TEIKO",
+			"bans": ["feca", "eniripsa", "enutrof", "iop", "sram"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Les leveurs de coudes",
+			"bans": ["sacrieur", "sadida", "forgelance", "ecaflip", "huppermage"],
+			"picks": ["steamer", "pandawa", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59695/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "GAMA",
+			"bans": ["zobal", "feca", "steamer", "cra", "forgelance"],
+			"picks": ["eniripsa", "iop", "ecaflip"]
+		},
+		"B": {
+			"teamName": "Camisamor",
+			"bans": ["sadida", "sacrieur", "huppermage", "xelor", "pandawa"],
+			"picks": ["enutrof", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59696/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "27z",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Boar",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59697/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TLocal",
+			"bans": ["zobal", "iop", "steamer", "ouginak", "forgelance"],
+			"picks": ["eniripsa", "ecaflip", "huppermage"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "sacrieur", "cra", "roublard", "pandawa"],
+			"picks": ["feca", "enutrof", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59698/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Perruque GanG",
+			"bans": ["sadida", "eliotrope", "ecaflip", "enutrof", "sram"],
+			"picks": ["zobal", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["feca", "ouginak", "roublard", "eniripsa", "iop"],
+			"picks": ["steamer", "sacrieur", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59699/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Undisclosed",
+			"bans": ["eniripsa", "eliotrope", "sacrieur", "roublard", "ouginak"],
+			"picks": ["feca", "iop", "pandawa"]
+		},
+		"B": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["sadida", "ecaflip", "osamodas", "forgelance", "enutrof"],
+			"picks": ["steamer", "zobal", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59700/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "piipoudou",
+			"bans": ["feca", "steamer", "sacrieur", "roublard", "pandawa"],
+			"picks": ["ecaflip", "sram", "cra"]
+		},
+		"B": {
+			"teamName": "Noctis",
+			"bans": ["sadida", "eniripsa", "eliotrope", "enutrof", "huppermage"],
+			"picks": ["zobal", "iop", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59701/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["feca", "zobal", "iop", "enutrof", "forgelance"],
+			"picks": ["steamer", "roublard", "sacrieur"]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": ["sadida", "eliotrope", "ouginak", "sram", "osamodas"],
+			"picks": ["eniripsa", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59702/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["feca", "eniripsa", "iop", "ecaflip", "pandawa"],
+			"picks": ["sadida", "enutrof", "forgelance"]
+		},
+		"B": {
+			"teamName": "MERCENARYES",
+			"bans": ["zobal", "steamer", "huppermage", "ouginak", "eliotrope"],
+			"picks": ["sacrieur", "sram", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59703/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["feca", "enutrof", "steamer", "pandawa", "eliotrope"],
+			"picks": ["eniripsa", "iop", "huppermage"]
+		},
+		"B": {
+			"teamName": "Gloom",
+			"bans": ["sadida", "zobal", "ouginak", "forgelance", "sram"],
+			"picks": ["sacrieur", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59704/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "DRIP",
+			"bans": ["eniripsa", "zobal", "iop", "forgelance", "enutrof"],
+			"picks": ["steamer", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "Tocardinho",
+			"bans": ["feca", "sacrieur", "ecaflip", "sadida", "eliotrope"],
+			"picks": ["osamodas", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59705/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Grignotucs",
+			"bans": ["steamer", "sacrieur", "ecaflip", "iop", "sadida"],
+			"picks": ["eniripsa", "ouginak", "xelor"]
+		},
+		"B": {
+			"teamName": "LDOM",
+			"bans": ["feca", "sram", "enutrof", "forgelance", "osamodas"],
+			"picks": ["zobal", "huppermage", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59706/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Acetaminofen",
+			"bans": ["feca", "sacrieur", "forgelance", "eniripsa", "osamodas"],
+			"picks": ["zobal", "roublard", "sram"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "steamer", "ouginak", "iop", "pandawa"],
+			"picks": ["ecaflip", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59707/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "GAME OVER",
+			"bans": ["ecaflip", "feca", "sacrieur", "iop", "cra"],
+			"picks": ["steamer", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sadida", "eniripsa", "eliotrope", "enutrof", "pandawa"],
+			"picks": ["zobal", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59708/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": ["zobal", "feca", "sacrieur", "sram", "cra"],
+			"picks": ["eniripsa", "iop", "enutrof"]
+		},
+		"B": {
+			"teamName": "Sei",
+			"bans": ["sadida", "xelor", "ouginak", "forgelance", "roublard"],
+			"picks": ["steamer", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59709/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "SSJ",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "carat certifier",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59710/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "No Brain",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Minute Papillon",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59711/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SUNLIGHT",
+			"bans": ["steamer", "xelor", "enutrof", "sacrieur", "roublard"],
+			"picks": ["zobal", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": ["feca", "eniripsa", "forgelance", "ouginak", "sadida"],
+			"picks": ["ecaflip", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59712/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["sacrieur", "eniripsa", "zobal", "ecaflip", "pandawa"],
+			"picks": ["steamer", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": ["sadida", "feca", "osamodas", "eliotrope", "forgelance"],
+			"picks": ["iop", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59713/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["feca", "steamer", "iop", "enutrof", "eliotrope"],
+			"picks": ["zobal", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "CatChina",
+			"bans": ["sadida", "ecaflip", "forgelance", "sacrieur", "huppermage"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59714/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TEIKO",
+			"bans": ["feca", "eniripsa", "enutrof", "pandawa", "osamodas"],
+			"picks": ["steamer", "iop", "sram"]
+		},
+		"B": {
+			"teamName": "Lesteuw gang",
+			"bans": ["sacrieur", "sadida", "huppermage", "eliotrope", "forgelance"],
+			"picks": ["zobal", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59715/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Wind-Breaker",
+			"bans": ["sadida", "feca", "iop", "ouginak", "pandawa"],
+			"picks": ["steamer", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "ALM",
+			"bans": ["zobal", "sacrieur", "enutrof", "roublard", "sram"],
+			"picks": ["eniripsa", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59716/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sei",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Chadou",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59717/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "NOIR",
+			"bans": ["sadida", "xelor", "forgelance", "huppermage", "eliotrope"],
+			"picks": ["eniripsa", "ecaflip", "steamer"]
+		},
+		"B": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["enutrof", "feca", "iop", "ouginak", "sram"],
+			"picks": ["sacrieur", "zobal", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59718/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["feca", "zobal", "iop", "ouginak", "cra"],
+			"picks": ["steamer", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "eliotrope", "forgelance", "sacrieur", "roublard"],
+			"picks": ["eniripsa", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59719/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "miou",
+			"bans": ["eniripsa", "feca", "iop", "sacrieur", "osamodas"],
+			"picks": ["steamer", "ouginak", "cra"]
+		},
+		"B": {
+			"teamName": "Raccoon",
+			"bans": ["sadida", "zobal", "enutrof", "eliotrope", "pandawa"],
+			"picks": ["ecaflip", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59720/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "ecaflip", "eniripsa", "enutrof", "sram"],
+			"picks": ["steamer", "zobal", "ouginak"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "eliotrope", "pandawa", "sacrieur", "roublard"],
+			"picks": ["forgelance", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59721/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Dragon Slayers",
+			"bans": ["feca", "zobal", "eniripsa", "iop", "roublard"],
+			"picks": ["steamer", "eliotrope", "sram"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sadida", "sacrieur", "ouginak", "forgelance", "huppermage"],
+			"picks": ["ecaflip", "enutrof", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59722/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "GAMA",
+			"bans": ["feca", "zobal", "enutrof", "eliotrope", "xelor"],
+			"picks": ["steamer", "ecaflip", "sram"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sadida", "forgelance", "sacrieur", "eniripsa", "cra"],
+			"picks": ["roublard", "iop", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59723/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["zobal", "eniripsa", "forgelance", "pandawa", "ouginak"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		},
+		"B": {
+			"teamName": "team 8",
+			"bans": ["feca", "sadida", "osamodas", "sacrieur", "sram"],
+			"picks": ["ecaflip", "enutrof", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59724/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sacrieur", "ecaflip", "pandawa", "forgelance", "ouginak"],
+			"picks": ["feca", "eliotrope", "roublard"]
+		},
+		"B": {
+			"teamName": "Sagarmatha",
+			"bans": ["sadida", "steamer", "sram", "zobal", "iop"],
+			"picks": ["eniripsa", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59725/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Noctis",
+			"bans": ["feca", "steamer", "enutrof", "eliotrope", "ouginak"],
+			"picks": ["eniripsa", "iop", "cra"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "pandawa", "forgelance", "zobal", "huppermage"],
+			"picks": ["sacrieur", "ecaflip", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59726/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Metropolis",
+			"bans": ["steamer", "eniripsa", "cra", "iop", "osamodas"],
+			"picks": ["ecaflip", "eliotrope", "sram"]
+		},
+		"B": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["sadida", "feca", "huppermage", "enutrof", "ouginak"],
+			"picks": ["zobal", "sacrieur", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59727/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Epouvanteur",
+			"bans": ["sacrieur", "forgelance", "roublard", "pandawa", "sram"],
+			"picks": ["feca", "ecaflip", "ouginak"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "eniripsa", "steamer", "iop", "eliotrope"],
+			"picks": ["zobal", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59728/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "sacrieur", "eliotrope", "iop", "ecaflip"],
+			"picks": ["feca", "zobal", "roublard"]
+		},
+		"B": {
+			"teamName": "La Legion",
+			"bans": ["eniripsa", "sadida", "enutrof", "huppermage", "ouginak"],
+			"picks": ["forgelance", "pandawa", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59729/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Odyssey",
+			"bans": ["feca", "ecaflip", "forgelance", "iop", "osamodas"],
+			"picks": ["steamer", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sadida", "eniripsa", "enutrof", "pandawa", "sram"],
+			"picks": ["zobal", "sacrieur", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59730/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "SSJ",
+			"bans": ["zobal", "sacrieur", "eliotrope", "eniripsa", "iop"],
+			"picks": ["sadida", "steamer", "feca"]
+		},
+		"B": {
+			"teamName": "Team Marruecos",
+			"bans": ["xelor", "cra", "pandawa", "ecaflip", "osamodas"],
+			"picks": ["roublard", "sram", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59731/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["iop", "eniripsa", "zobal", "ecaflip", "ouginak"],
+			"picks": ["feca", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Minute Papillon",
+			"bans": ["sadida", "sacrieur", "pandawa", "enutrof", "cra"],
+			"picks": ["steamer", "roublard", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59732/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lion kingdom",
+			"bans": ["zobal", "feca", "enutrof", "sadida", "sram"],
+			"picks": ["eniripsa", "iop", "xelor"]
+		},
+		"B": {
+			"teamName": "TOGETHER",
+			"bans": ["steamer", "pandawa", "sacrieur", "forgelance", "ouginak"],
+			"picks": ["ecaflip", "roublard", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59733/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sayez",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "27z",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59734/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Shrangi La",
+			"bans": ["eliotrope", "feca", "pandawa", "iop", "roublard"],
+			"picks": ["zobal", "sram", "enutrof"]
+		},
+		"B": {
+			"teamName": "DRIP",
+			"bans": ["sadida", "steamer", "sacrieur", "ecaflip", "forgelance"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59735/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["eliotrope", "eniripsa", "sacrieur", "ecaflip", "cra"],
+			"picks": ["zobal", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["steamer", "sadida", "enutrof", "forgelance", "sram"],
+			"picks": ["feca", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59736/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Grignotucs",
+			"bans": ["steamer", "feca", "ecaflip", "forgelance", "sram"],
+			"picks": ["eniripsa", "ouginak", "xelor"]
+		},
+		"B": {
+			"teamName": "Undisclosed",
+			"bans": ["sadida", "sacrieur", "eliotrope", "iop", "huppermage"],
+			"picks": ["zobal", "enutrof", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59737/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["feca", "eniripsa", "iop", "zobal", "pandawa"],
+			"picks": ["steamer", "enutrof", "forgelance"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["sadida", "eliotrope", "huppermage", "ecaflip", "sram"],
+			"picks": ["sacrieur", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59738/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Datura",
+			"bans": ["eliotrope", "zobal", "feca", "enutrof", "ecaflip"],
+			"picks": ["eniripsa", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sacrieur", "sadida", "forgelance", "sram", "cra"],
+			"picks": ["steamer", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59739/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["feca", "eniripsa", "enutrof", "sacrieur", "cra"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "steamer", "pandawa", "iop", "eliotrope"],
+			"picks": ["ecaflip", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59740/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["feca", "eniripsa", "steamer", "eliotrope", "roublard"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Vieille Ecole",
+			"bans": ["sadida", "sacrieur", "iop", "forgelance", "cra"],
+			"picks": ["ecaflip", "enutrof", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59741/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Purple Esport",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "FC Craqueboule",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59742/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "THE MONSTER",
+			"bans": ["sacrieur", "feca", "ecaflip", "iop", "enutrof"],
+			"picks": ["steamer", "pandawa", "sram"]
+		},
+		"B": {
+			"teamName": "Movez Lang",
+			"bans": ["sadida", "zobal", "osamodas", "ouginak", "roublard"],
+			"picks": ["eniripsa", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59743/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Boar",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "u_u",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59744/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "carat certifier",
+			"bans": ["zobal", "ecaflip", "feca", "iop", "pandawa"],
+			"picks": ["steamer", "sram", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Faucon Tigré",
+			"bans": ["sadida", "sacrieur", "forgelance", "roublard", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59745/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Allister",
+			"bans": ["ecaflip", "sacrieur", "eniripsa", "zobal", "roublard"],
+			"picks": ["feca", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "Los Touristoss",
+			"bans": ["sadida", "forgelance", "ouginak", "iop", "sram"],
+			"picks": ["steamer", "enutrof", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59746/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Novus Rursus",
+			"bans": ["sadida", "feca", "steamer", "forgelance", "cra"],
+			"picks": ["xelor", "roublard", "sram"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["zobal", "eniripsa", "iop", "enutrof", "pandawa"],
+			"picks": ["sacrieur", "ecaflip", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59747/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Stallions",
+			"bans": ["feca", "eniripsa", "sram", "enutrof", "eliotrope"],
+			"picks": ["ecaflip", "steamer", "ouginak"]
+		},
+		"B": {
+			"teamName": "Stasis",
+			"bans": ["sadida", "forgelance", "sacrieur", "zobal", "huppermage"],
+			"picks": ["cra", "roublard", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59748/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bananagrumes",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Ten Shin",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59749/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "En legende",
+			"bans": ["steamer", "eniripsa", "forgelance", "enutrof", "sram"],
+			"picks": ["feca", "osamodas", "cra"]
+		},
+		"B": {
+			"teamName": "Allo",
+			"bans": ["sadida", "eliotrope", "sacrieur", "pandawa", "iop"],
+			"picks": ["ecaflip", "zobal", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59750/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": ["zobal", "sacrieur", "iop", "ecaflip", "pandawa"],
+			"picks": ["steamer", "huppermage", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["sadida", "eniripsa", "forgelance", "enutrof", "roublard"],
+			"picks": ["feca", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59751/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TLocal",
+			"bans": ["zobal", "iop", "pandawa", "forgelance", "ouginak"],
+			"picks": ["eniripsa", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "Kekambas",
+			"bans": ["sadida", "feca", "ecaflip", "sacrieur", "huppermage"],
+			"picks": ["steamer", "roublard", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59752/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": ["zobal", "steamer", "sacrieur", "ouginak", "sram"],
+			"picks": ["feca", "forgelance", "roublard"]
+		},
+		"B": {
+			"teamName": "Ultra-IO",
+			"bans": ["sadida", "eniripsa", "ecaflip", "iop", "huppermage"],
+			"picks": ["osamodas", "enutrof", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59753/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Evariste",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "MAROC",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59754/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Il va pas la chercher",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Dark sasuke",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59755/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "sacrieur", "iop", "forgelance", "pandawa"],
+			"picks": ["sadida", "zobal", "roublard"]
+		},
+		"B": {
+			"teamName": "SUNLIGHT",
+			"bans": ["ecaflip", "steamer", "cra", "osamodas", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59756/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Camisamor",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "CFC",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59757/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Clem et Roudy",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "No Brain",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59758/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les barlouz",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Perruque GanG",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59759/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "White Walkers",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "piipoudou",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59760/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Another One",
+			"bans": ["zobal", "eniripsa", "pandawa", "enutrof", "ouginak"],
+			"picks": ["steamer", "forgelance", "sacrieur"]
+		},
+		"B": {
+			"teamName": "Les leveurs de coudes",
+			"bans": ["feca", "sadida", "eliotrope", "ecaflip", "cra"],
+			"picks": ["iop", "osamodas", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59761/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Tokyo Manji",
+			"bans": ["zobal", "eniripsa", "feca", "osamodas", "enutrof"],
+			"picks": ["steamer", "sacrieur", "ecaflip"]
+		},
+		"B": {
+			"teamName": "JUST",
+			"bans": ["sram", "cra", "eliotrope", "ouginak", "sadida"],
+			"picks": ["iop", "pandawa", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59762/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "666",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "GAME OVER",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59763/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Acetaminofen",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Unex",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59764/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "FUG",
+			"bans": ["steamer", "zobal", "ecaflip", "enutrof", "osamodas"],
+			"picks": ["sadida", "eliotrope", "roublard"]
+		},
+		"B": {
+			"teamName": "Tocardinho",
+			"bans": ["feca", "eniripsa", "sacrieur", "iop", "huppermage"],
+			"picks": ["forgelance", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59765/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Out Of Time",
+			"bans": ["eniripsa", "feca", "iop", "sram", "huppermage"],
+			"picks": ["zobal", "enutrof", "cra"]
+		},
+		"B": {
+			"teamName": "Gloom",
+			"bans": ["sadida", "forgelance", "ouginak", "sacrieur", "roublard"],
+			"picks": ["steamer", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59766/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": ["feca", "steamer", "huppermage", "ecaflip", "eliotrope"],
+			"picks": ["zobal", "sram", "roublard"]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": ["sadida", "eniripsa", "enutrof", "osamodas", "sacrieur"],
+			"picks": ["iop", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59767/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Rose Noire",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Les stochastiens",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59768/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "LDOM",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Red Dragon",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59769/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["iop", "eniripsa", "steamer", "enutrof", "osamodas"],
+			"picks": ["feca", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "CatChina",
+			"bans": ["sadida", "eliotrope", "ecaflip", "sacrieur", "ouginak"],
+			"picks": ["zobal", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59770/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["eniripsa", "sacrieur", "iop", "sram", "roublard"],
+			"picks": ["ecaflip", "forgelance", "ouginak"]
+		},
+		"B": {
+			"teamName": "ALM",
+			"bans": ["feca", "sadida", "eliotrope", "enutrof", "huppermage"],
+			"picks": ["steamer", "zobal", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59771/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "138",
+			"bans": ["sadida", "sacrieur", "eliotrope", "ecaflip", "sram"],
+			"picks": ["eniripsa", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Chadou",
+			"bans": ["feca", "pandawa", "enutrof", "iop", "huppermage"],
+			"picks": ["steamer", "zobal", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59772/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["feca", "zobal", "sacrieur", "enutrof", "roublard"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Umbra",
+			"bans": ["sadida", "eliotrope", "cra", "iop", "forgelance"],
+			"picks": ["eniripsa", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59773/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "La Legion",
+			"bans": ["steamer", "eniripsa", "eliotrope", "ecaflip", "roublard"],
+			"picks": ["forgelance", "sacrieur", "sram"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["sadida", "feca", "pandawa", "iop", "ouginak"],
+			"picks": ["zobal", "enutrof", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59774/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["zobal", "sacrieur", "sram", "ecaflip", "pandawa"],
+			"picks": ["steamer", "huppermage", "ouginak"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "eniripsa", "enutrof", "forgelance", "cra"],
+			"picks": ["feca", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59775/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["feca", "sacrieur", "forgelance", "ecaflip", "eliotrope"],
+			"picks": ["steamer", "cra", "pandawa"]
+		},
+		"B": {
+			"teamName": "GAMA",
+			"bans": ["sadida", "eniripsa", "iop", "enutrof", "huppermage"],
+			"picks": ["zobal", "roublard", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59776/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Undisclosed",
+			"bans": ["eniripsa", "zobal", "eliotrope", "huppermage", "forgelance"],
+			"picks": ["feca", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "sacrieur", "pandawa", "ecaflip", "ouginak"],
+			"picks": ["steamer", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59777/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["zobal", "feca", "iop", "sram", "roublard"],
+			"picks": ["sacrieur", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "ecaflip", "enutrof", "forgelance", "pandawa"],
+			"picks": ["eniripsa", "steamer", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59778/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "gods",
+			"bans": ["feca", "zobal", "iop", "pandawa", "sram"],
+			"picks": ["sacrieur", "enutrof", "ouginak"]
+		},
+		"B": {
+			"teamName": "DRIP",
+			"bans": ["sadida", "eniripsa", "forgelance", "ecaflip", "roublard"],
+			"picks": ["steamer", "eliotrope", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59779/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["feca", "eniripsa", "enutrof", "eliotrope", "pandawa"],
+			"picks": ["steamer", "sacrieur", "huppermage"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "zobal", "ouginak", "forgelance", "roublard"],
+			"picks": ["ecaflip", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59780/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bloodbath",
+			"bans": ["zobal", "ecaflip", "steamer", "osamodas", "cra"],
+			"picks": ["sacrieur", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sadida", "feca", "enutrof", "pandawa", "sram"],
+			"picks": ["eniripsa", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59781/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Lion kingdom",
+			"bans": ["zobal", "sadida", "enutrof", "ecaflip", "pandawa"],
+			"picks": ["steamer", "osamodas", "sram"]
+		},
+		"B": {
+			"teamName": "miou",
+			"bans": ["eniripsa", "feca", "huppermage", "forgelance", "ouginak"],
+			"picks": ["sacrieur", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59782/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Metropolis",
+			"bans": ["eniripsa", "steamer", "sacrieur", "iop", "roublard"],
+			"picks": ["ecaflip", "cra", "sram"]
+		},
+		"B": {
+			"teamName": "TEIKO",
+			"bans": ["sadida", "feca", "pandawa", "eliotrope", "osamodas"],
+			"picks": ["zobal", "enutrof", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59783/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FC Craqueboule",
+			"bans": ["zobal", "roublard", "iop", "sacrieur", "pandawa"],
+			"picks": ["steamer", "huppermage", "enutrof"]
+		},
+		"B": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sadida", "feca", "forgelance", "ecaflip", "eliotrope"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59784/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bananagrumes",
+			"bans": ["eniripsa", "sacrieur", "iop", "zobal", "sram"],
+			"picks": ["feca", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "Lesteuw gang",
+			"bans": ["sadida", "eliotrope", "roublard", "ecaflip", "ouginak"],
+			"picks": ["steamer", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59785/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Faucon Tigré",
+			"bans": ["steamer", "eniripsa", "iop", "pandawa", "eliotrope"],
+			"picks": ["sacrieur", "forgelance", "cra"]
+		},
+		"B": {
+			"teamName": "Dragon Slayers",
+			"bans": ["sadida", "ecaflip", "zobal", "enutrof", "osamodas"],
+			"picks": ["feca", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59786/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Shrangi La",
+			"bans": ["eliotrope", "sacrieur", "feca", "iop", "osamodas"],
+			"picks": ["zobal", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["sadida", "steamer", "ecaflip", "forgelance", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59787/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "sadida", "ecaflip", "enutrof", "ouginak"],
+			"picks": ["steamer", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Merydz",
+			"bans": ["feca", "forgelance", "iop", "huppermage", "pandawa"],
+			"picks": ["eniripsa", "sacrieur", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59788/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Another One",
+			"bans": ["zobal", "feca", "ecaflip", "osamodas", "eliotrope"],
+			"picks": ["eniripsa", "enutrof", "ouginak"]
+		},
+		"B": {
+			"teamName": "Noctis",
+			"bans": ["sadida", "steamer", "forgelance", "huppermage", "roublard"],
+			"picks": ["sacrieur", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59789/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TLocal",
+			"bans": ["zobal", "iop", "forgelance", "ecaflip", "osamodas"],
+			"picks": ["steamer", "enutrof", "eliotrope"]
+		},
+		"B": {
+			"teamName": "KTV",
+			"bans": ["sadida", "eniripsa", "ouginak", "huppermage", "pandawa"],
+			"picks": ["feca", "sacrieur", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59790/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["eliotrope", "sacrieur", "forgelance", "sram", "enutrof"],
+			"picks": ["steamer", "cra", "pandawa"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["sadida", "feca", "iop", "roublard", "eniripsa"],
+			"picks": ["zobal", "ecaflip", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59791/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "piipoudou",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Sei",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59792/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tokyo Manji",
+			"bans": ["feca", "eniripsa", "roublard", "osamodas", "pandawa"],
+			"picks": ["steamer", "ecaflip", "sram"]
+		},
+		"B": {
+			"teamName": "u_u",
+			"bans": ["sacrieur", "zobal", "forgelance", "iop", "ouginak"],
+			"picks": ["sadida", "enutrof", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59793/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "GAME OVER",
+			"bans": ["zobal", "steamer", "sacrieur", "enutrof", "osamodas"],
+			"picks": ["eniripsa", "roublard", "cra"]
+		},
+		"B": {
+			"teamName": "Los Touristoss",
+			"bans": ["sadida", "feca", "ouginak", "iop", "eliotrope"],
+			"picks": ["ecaflip", "forgelance", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59794/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["steamer", "feca", "iop", "ecaflip", "enutrof"],
+			"picks": ["zobal", "sacrieur", "pandawa"]
+		},
+		"B": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "eniripsa", "forgelance", "ouginak", "sram"],
+			"picks": ["eliotrope", "roublard", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59795/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TOGETHER",
+			"bans": ["feca", "zobal", "sacrieur", "enutrof", "sram"],
+			"picks": ["eniripsa", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Raccoon",
+			"bans": ["sadida", "ecaflip", "forgelance", "ouginak", "cra"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59796/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "eniripsa", "pandawa", "forgelance", "huppermage"],
+			"picks": ["zobal", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Allo",
+			"bans": ["sadida", "feca", "sacrieur", "enutrof", "xelor"],
+			"picks": ["ecaflip", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59797/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "team 8",
+			"bans": ["feca", "steamer", "ecaflip", "eliotrope", "cra"],
+			"picks": ["sadida", "iop", "pandawa"]
+		},
+		"B": {
+			"teamName": "Epouvanteur",
+			"bans": ["sacrieur", "sram", "enutrof", "zobal", "osamodas"],
+			"picks": ["eniripsa", "forgelance", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59798/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Wind-Breaker",
+			"bans": ["sadida", "eniripsa", "iop", "ecaflip", "sram"],
+			"picks": ["zobal", "roublard", "cra"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["steamer", "feca", "ouginak", "enutrof", "pandawa"],
+			"picks": ["sacrieur", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59799/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Gloom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Team Marruecos",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59800/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Perruque GanG",
+			"bans": ["feca", "eliotrope", "sacrieur", "sram", "ouginak"],
+			"picks": ["steamer", "iop", "enutrof"]
+		},
+		"B": {
+			"teamName": "Evariste",
+			"bans": ["sadida", "ecaflip", "forgelance", "osamodas", "pandawa"],
+			"picks": ["zobal", "eniripsa", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59801/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Grignotucs",
+			"bans": ["steamer", "sacrieur", "ecaflip", "iop", "huppermage"],
+			"picks": ["zobal", "sram", "sadida"]
+		},
+		"B": {
+			"teamName": "Camisamor",
+			"bans": ["feca", "eniripsa", "xelor", "ouginak", "forgelance"],
+			"picks": ["enutrof", "cra", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59802/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Datura",
+			"bans": ["eniripsa", "steamer", "forgelance", "iop", "xelor"],
+			"picks": ["zobal", "enutrof", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Clem et Roudy",
+			"bans": ["feca", "sadida", "sram", "ouginak", "sacrieur"],
+			"picks": ["ecaflip", "roublard", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59803/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Stallions",
+			"bans": ["feca", "ecaflip", "eniripsa", "enutrof", "sram"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "KAISER",
+			"bans": ["sadida", "forgelance", "sacrieur", "iop", "pandawa"],
+			"picks": ["roublard", "zobal", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59804/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Minute Papillon",
+			"bans": ["sacrieur", "iop", "roublard", "forgelance", "cra"],
+			"picks": ["steamer", "zobal", "sram"]
+		},
+		"B": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sadida", "feca", "ouginak", "ecaflip", "xelor"],
+			"picks": ["pandawa", "eniripsa", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59805/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Kefa df",
+			"bans": ["steamer", "feca", "sram", "eliotrope", "forgelance"],
+			"picks": ["zobal", "huppermage", "enutrof"]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": ["eniripsa", "sadida", "iop", "ouginak", "roublard"],
+			"picks": ["ecaflip", "sacrieur", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59806/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unex",
+			"bans": ["ecaflip", "steamer", "iop", "sacrieur", "roublard"],
+			"picks": ["feca", "sram", "forgelance"]
+		},
+		"B": {
+			"teamName": "27z",
+			"bans": ["sadida", "eniripsa", "enutrof", "pandawa", "cra"],
+			"picks": ["zobal", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59807/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": ["sacrieur", "feca", "zobal", "pandawa", "sram"],
+			"picks": ["steamer", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Dark sasuke",
+			"bans": ["sadida", "forgelance", "eniripsa", "ecaflip", "xelor"],
+			"picks": ["iop", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59808/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FUG",
+			"bans": ["zobal", "steamer", "ouginak", "forgelance", "osamodas"],
+			"picks": ["eniripsa", "eliotrope", "enutrof"]
+		},
+		"B": {
+			"teamName": "BAD CALL",
+			"bans": ["sadida", "feca", "iop", "roublard", "sram"],
+			"picks": ["ecaflip", "sacrieur", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59809/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Kekambas",
+			"bans": ["feca", "sacrieur", "ecaflip", "iop", "pandawa"],
+			"picks": ["steamer", "cra", "enutrof"]
+		},
+		"B": {
+			"teamName": "BeauregardCity",
+			"bans": ["sadida", "zobal", "eliotrope", "forgelance", "sram"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59810/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Il va pas la chercher",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Novus Rursus",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59811/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "JUST",
+			"bans": ["zobal", "roublard", "ouginak", "sacrieur", "cra"],
+			"picks": ["iop", "feca", "enutrof"]
+		},
+		"B": {
+			"teamName": "MERCENARYES",
+			"bans": ["eliotrope", "steamer", "pandawa", "ecaflip", "huppermage"],
+			"picks": ["eniripsa", "sram", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59812/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Allister",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "En legende",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59813/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Les leveurs de coudes",
+			"bans": ["feca", "sacrieur", "iop", "ouginak", "sram"],
+			"picks": ["sadida", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "SUNLIGHT",
+			"bans": ["ecaflip", "steamer", "zobal", "osamodas", "forgelance"],
+			"picks": ["eniripsa", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59814/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "THE MONSTER",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59815/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Out Of Time",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Acetaminofen",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59816/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vieille Ecole",
+			"bans": ["eniripsa", "zobal", "steamer", "enutrof", "eliotrope"],
+			"picks": ["sacrieur", "roublard", "osamodas"]
+		},
+		"B": {
+			"teamName": "carat certifier",
+			"bans": ["feca", "sadida", "ouginak", "forgelance", "sram"],
+			"picks": ["ecaflip", "iop", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59817/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": ["eniripsa", "zobal", "enutrof", "eliotrope", "osamodas"],
+			"picks": ["feca", "steamer", "huppermage"]
+		},
+		"B": {
+			"teamName": "Stasis",
+			"bans": ["sadida", "sacrieur", "ecaflip", "cra", "xelor"],
+			"picks": ["forgelance", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59819/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "gods",
+			"bans": ["zobal", "iop", "sacrieur", "cra", "pandawa"],
+			"picks": ["sadida", "steamer", "ecaflip"]
+		},
+		"B": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["eliotrope", "feca", "forgelance", "enutrof", "sram"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59820/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["sacrieur", "zobal", "feca", "sram", "pandawa"],
+			"picks": ["eniripsa", "iop", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "forgelance", "enutrof", "ouginak", "huppermage"],
+			"picks": ["ecaflip", "steamer", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59821/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["eniripsa", "sacrieur", "ouginak", "osamodas", "pandawa"],
+			"picks": ["steamer", "ecaflip", "iop"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["sadida", "feca", "eliotrope", "enutrof", "sram"],
+			"picks": ["zobal", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59822/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "ecaflip", "iop", "cra", "sram"],
+			"picks": ["steamer", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "CatChina",
+			"bans": ["sadida", "eniripsa", "sacrieur", "ouginak", "huppermage"],
+			"picks": ["zobal", "forgelance", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59823/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "SSJ",
+			"bans": ["zobal", "sacrieur", "steamer", "pandawa", "enutrof"],
+			"picks": ["feca", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": ["sadida", "eniripsa", "iop", "cra", "eliotrope"],
+			"picks": ["ecaflip", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59824/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["zobal", "steamer", "ecaflip", "iop", "eliotrope"],
+			"picks": ["sadida", "pandawa", "osamodas"]
+		},
+		"B": {
+			"teamName": "miou",
+			"bans": ["feca", "eniripsa", "enutrof", "forgelance", "huppermage"],
+			"picks": ["sacrieur", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59825/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "GAMA",
+			"bans": ["feca", "zobal", "enutrof", "eliotrope", "osamodas"],
+			"picks": ["eniripsa", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sadida", "sacrieur", "steamer", "iop", "forgelance"],
+			"picks": ["ecaflip", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59826/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["feca", "steamer", "sacrieur", "cra", "pandawa"],
+			"picks": ["ecaflip", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Grignotucs",
+			"bans": ["sadida", "eniripsa", "huppermage", "enutrof", "roublard"],
+			"picks": ["zobal", "iop", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59827/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TEIKO",
+			"bans": ["eniripsa", "feca", "enutrof", "iop", "sram"],
+			"picks": ["zobal", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "ecaflip", "forgelance", "ouginak", "pandawa"],
+			"picks": ["steamer", "sacrieur", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59828/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "ALM",
+			"bans": ["zobal", "sadida", "iop", "cra", "ecaflip"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Undisclosed",
+			"bans": ["feca", "sacrieur", "eliotrope", "enutrof", "forgelance"],
+			"picks": ["pandawa", "steamer", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59829/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": ["sacrieur", "zobal", "enutrof", "sram", "ecaflip"],
+			"picks": ["steamer", "eniripsa", "ouginak"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "eliotrope", "cra", "pandawa", "roublard"],
+			"picks": ["feca", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59830/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["feca", "sacrieur", "iop", "steamer", "sram"],
+			"picks": ["ecaflip", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sadida", "eniripsa", "enutrof", "eliotrope", "pandawa"],
+			"picks": ["zobal", "forgelance", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59831/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["zobal", "sacrieur", "forgelance", "iop", "eliotrope"],
+			"picks": ["feca", "pandawa", "sram"]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": ["sadida", "eniripsa", "ouginak", "steamer", "huppermage"],
+			"picks": ["ecaflip", "enutrof", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59832/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["zobal", "steamer", "ecaflip", "roublard", "eliotrope"],
+			"picks": ["eniripsa", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sadida", "feca", "enutrof", "forgelance", "huppermage"],
+			"picks": ["sacrieur", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59833/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Gloom",
+			"bans": ["feca", "zobal", "steamer", "ecaflip", "osamodas"],
+			"picks": ["eniripsa", "huppermage", "pandawa"]
+		},
+		"B": {
+			"teamName": "Faucon Tigré",
+			"bans": ["sadida", "sacrieur", "enutrof", "ouginak", "roublard"],
+			"picks": ["iop", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59834/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Chadou",
+			"bans": ["feca", "steamer", "zobal", "pandawa", "xelor"],
+			"picks": ["eniripsa", "sacrieur", "cra"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sadida", "forgelance", "enutrof", "ouginak", "roublard"],
+			"picks": ["iop", "ecaflip", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59835/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Epouvanteur",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Demonic Soldiers",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59836/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "DRIP",
+			"bans": ["eniripsa", "feca", "sacrieur", "iop", "enutrof"],
+			"picks": ["steamer", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "Datura",
+			"bans": ["sadida", "eliotrope", "ecaflip", "forgelance", "sram"],
+			"picks": ["zobal", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59837/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "La Legion",
+			"bans": ["eniripsa", "steamer", "enutrof", "huppermage", "ouginak"],
+			"picks": ["sacrieur", "pandawa", "roublard"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["sadida", "feca", "forgelance", "iop", "sram"],
+			"picks": ["zobal", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59838/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Kefa df",
+			"bans": ["steamer", "feca", "eliotrope", "ecaflip", "pandawa"],
+			"picks": ["zobal", "huppermage", "enutrof"]
+		},
+		"B": {
+			"teamName": "u_u",
+			"bans": ["sadida", "eniripsa", "ouginak", "forgelance", "roublard"],
+			"picks": ["iop", "sacrieur", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59839/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bananagrumes",
+			"bans": ["zobal", "sacrieur", "steamer", "pandawa", "roublard"],
+			"picks": ["eniripsa", "ouginak", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Lion kingdom",
+			"bans": ["feca", "forgelance", "ecaflip", "sadida", "enutrof"],
+			"picks": ["iop", "huppermage", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59840/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Minute Papillon",
+			"bans": ["sacrieur", "feca", "zobal", "cra", "pandawa"],
+			"picks": ["eniripsa", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "Los Touristoss",
+			"bans": ["sadida", "steamer", "ouginak", "forgelance", "roublard"],
+			"picks": ["ecaflip", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59841/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": ["zobal", "feca", "ecaflip", "huppermage", "eliotrope"],
+			"picks": ["eniripsa", "sacrieur", "sram"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "forgelance", "enutrof", "pandawa", "ouginak"],
+			"picks": ["steamer", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59842/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Allo",
+			"bans": ["steamer", "iop", "sacrieur", "enutrof", "roublard"],
+			"picks": ["feca", "huppermage", "forgelance"]
+		},
+		"B": {
+			"teamName": "Raccoon",
+			"bans": ["sadida", "ecaflip", "ouginak", "cra", "sram"],
+			"picks": ["eniripsa", "zobal", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59843/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Odyssey",
+			"bans": ["feca", "steamer", "sacrieur", "iop", "pandawa"],
+			"picks": ["eniripsa", "huppermage", "forgelance"]
+		},
+		"B": {
+			"teamName": "Perruque GanG",
+			"bans": ["sadida", "eliotrope", "xelor", "ecaflip", "sram"],
+			"picks": ["zobal", "ouginak", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59844/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "27z",
+			"bans": ["zobal", "iop", "eniripsa", "ecaflip", "sram"],
+			"picks": ["feca", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "pandawa", "ouginak", "cra"],
+			"picks": ["steamer", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59845/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "ecaflip", "eniripsa", "osamodas", "pandawa"],
+			"picks": ["steamer", "ouginak", "enutrof"]
+		},
+		"B": {
+			"teamName": "piipoudou",
+			"bans": ["sadida", "zobal", "forgelance", "roublard", "sram"],
+			"picks": ["sacrieur", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59846/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Evariste",
+			"bans": ["steamer", "zobal", "ecaflip", "enutrof", "eliotrope"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Noctis",
+			"bans": ["sadida", "feca", "pandawa", "huppermage", "forgelance"],
+			"picks": ["sacrieur", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59847/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Les leveurs de coudes",
+			"bans": ["feca", "forgelance", "zobal", "ouginak", "sram"],
+			"picks": ["steamer", "iop", "osamodas"]
+		},
+		"B": {
+			"teamName": "Lesteuw gang",
+			"bans": ["sadida", "sacrieur", "roublard", "pandawa", "ecaflip"],
+			"picks": ["eniripsa", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59848/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Hasascow",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Wind-Breaker",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59849/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["sacrieur", "feca", "zobal", "enutrof", "eliotrope"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Dragon Slayers",
+			"bans": ["sadida", "ecaflip", "forgelance", "roublard", "osamodas"],
+			"picks": ["eniripsa", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59850/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["zobal", "sadida", "ecaflip", "sacrieur", "sram"],
+			"picks": ["eniripsa", "forgelance", "cra"]
+		},
+		"B": {
+			"teamName": "Merydz",
+			"bans": ["feca", "steamer", "pandawa", "eliotrope", "ouginak"],
+			"picks": ["iop", "enutrof", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59851/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "carat certifier",
+			"bans": ["feca", "iop", "zobal", "sram", "eliotrope"],
+			"picks": ["eniripsa", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sadida", "sacrieur", "enutrof", "pandawa", "cra"],
+			"picks": ["ecaflip", "steamer", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59852/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Clem et Roudy",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "team 8",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59853/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Team Marruecos",
+			"bans": ["sadida", "cra", "enutrof", "osamodas", "steamer"],
+			"picks": ["roublard", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Stallions",
+			"bans": ["eniripsa", "feca", "zobal", "ouginak", "pandawa"],
+			"picks": ["ecaflip", "iop", "sacrieur"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59854/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": ["feca", "zobal", "ouginak", "osamodas", "forgelance"],
+			"picks": ["eniripsa", "roublard", "xelor"]
+		},
+		"B": {
+			"teamName": "Camisamor",
+			"bans": ["sacrieur", "sadida", "sram", "iop", "ecaflip"],
+			"picks": ["enutrof", "steamer", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59855/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unex",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Shrangi La",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59856/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "GAME OVER",
+			"bans": ["feca", "sacrieur", "forgelance", "eniripsa", "pandawa"],
+			"picks": ["sadida", "ecaflip", "sram"]
+		},
+		"B": {
+			"teamName": "Tokyo Manji",
+			"bans": ["zobal", "steamer", "enutrof", "roublard", "cra"],
+			"picks": ["ouginak", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59857/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": ["feca", "sadida", "ecaflip", "iop", "huppermage"],
+			"picks": ["zobal", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": ["eniripsa", "forgelance", "sacrieur", "enutrof", "cra"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59858/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TOGETHER",
+			"bans": ["zobal", "sadida", "ecaflip", "iop", "eliotrope"],
+			"picks": ["steamer", "roublard", "enutrof"]
+		},
+		"B": {
+			"teamName": "FUG",
+			"bans": ["sacrieur", "feca", "forgelance", "sram", "huppermage"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59859/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Dark sasuke",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Kekambas",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59860/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": ["zobal", "feca", "ouginak", "ecaflip", "sram"],
+			"picks": ["steamer", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Novus Rursus",
+			"bans": ["sadida", "eniripsa", "forgelance", "sacrieur", "cra"],
+			"picks": ["iop", "xelor", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59861/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "FC Craqueboule",
+			"bans": ["sacrieur", "steamer", "enutrof", "osamodas", "forgelance"],
+			"picks": ["zobal", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Out Of Time",
+			"bans": ["feca", "sadida", "roublard", "ecaflip", "sram"],
+			"picks": ["eniripsa", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59862/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ultra-IO",
+			"bans": ["feca", "eniripsa", "forgelance", "ecaflip", "huppermage"],
+			"picks": ["sadida", "enutrof", "ouginak"]
+		},
+		"B": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "iop", "pandawa", "cra", "sram"],
+			"picks": ["sacrieur", "zobal", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59863/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vieille Ecole",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Royal Anomaly",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59864/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "SUNLIGHT",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Allister",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59865/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Stasis",
+			"bans": ["steamer", "sacrieur", "pandawa", "eliotrope", "feca"],
+			"picks": ["xelor", "cra", "osamodas"]
+		},
+		"B": {
+			"teamName": "JUST",
+			"bans": ["zobal", "sadida", "roublard", "forgelance", "sram"],
+			"picks": ["huppermage", "eniripsa", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59866/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["feca", "steamer", "iop", "ecaflip", "eliotrope"],
+			"picks": ["zobal", "huppermage", "sram"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "ouginak", "forgelance", "roublard", "enutrof"],
+			"picks": ["eniripsa", "sacrieur", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59867/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["eliotrope", "eniripsa", "iop", "roublard", "ouginak"],
+			"picks": ["zobal", "ecaflip", "huppermage"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sadida", "feca", "forgelance", "enutrof", "sram"],
+			"picks": ["steamer", "sacrieur", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59868/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["zobal", "steamer", "ecaflip", "iop", "roublard"],
+			"picks": ["sacrieur", "cra", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["sadida", "feca", "forgelance", "ouginak", "osamodas"],
+			"picks": ["eniripsa", "enutrof", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59869/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "miou",
+			"bans": ["ecaflip", "eniripsa", "iop", "zobal", "osamodas"],
+			"picks": ["steamer", "huppermage", "pandawa"]
+		},
+		"B": {
+			"teamName": "Sayez",
+			"bans": ["sadida", "feca", "enutrof", "sacrieur", "sram"],
+			"picks": ["forgelance", "ouginak", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59870/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "DRIP",
+			"bans": ["eniripsa", "sacrieur", "ecaflip", "iop", "ouginak"],
+			"picks": ["sadida", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["eliotrope", "feca", "enutrof", "pandawa", "zobal"],
+			"picks": ["steamer", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59871/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bloodbath",
+			"bans": ["eliotrope", "ecaflip", "sacrieur", "zobal", "sram"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": ["sadida", "feca", "forgelance", "cra", "pandawa"],
+			"picks": ["steamer", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59872/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "forgelance", "sacrieur", "cra", "eliotrope"],
+			"picks": ["steamer", "ecaflip", "enutrof"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["sadida", "sram", "iop", "zobal", "roublard"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59873/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["zobal", "eniripsa", "sacrieur", "iop", "roublard"],
+			"picks": ["feca", "ouginak", "eliotrope"]
+		},
+		"B": {
+			"teamName": "TEIKO",
+			"bans": ["sadida", "pandawa", "forgelance", "ecaflip", "cra"],
+			"picks": ["steamer", "enutrof", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59874/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "piipoudou",
+			"bans": ["zobal", "forgelance", "sacrieur", "iop", "roublard"],
+			"picks": ["ecaflip", "cra", "osamodas"]
+		},
+		"B": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sadida", "eliotrope", "feca", "enutrof", "sram"],
+			"picks": ["steamer", "eniripsa", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59875/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["sacrieur", "eniripsa", "zobal", "sram", "eliotrope"],
+			"picks": ["steamer", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["sadida", "feca", "cra", "roublard", "enutrof"],
+			"picks": ["forgelance", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59876/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "u_u",
+			"bans": ["sacrieur", "pandawa", "ecaflip", "forgelance", "sram"],
+			"picks": ["steamer", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Undisclosed",
+			"bans": ["sadida", "feca", "eliotrope", "eniripsa", "roublard"],
+			"picks": ["zobal", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59877/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["eliotrope", "sacrieur", "pandawa", "sram", "enutrof"],
+			"picks": ["steamer", "iop", "forgelance"]
+		},
+		"B": {
+			"teamName": "Gloom",
+			"bans": ["sadida", "feca", "roublard", "zobal", "cra"],
+			"picks": ["eniripsa", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59878/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["zobal", "steamer", "ecaflip", "sram", "sacrieur"],
+			"picks": ["eniripsa", "huppermage", "eliotrope"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "roublard", "forgelance", "enutrof", "ouginak"],
+			"picks": ["feca", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59879/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Allo",
+			"bans": ["eniripsa", "eliotrope", "roublard", "sacrieur", "pandawa"],
+			"picks": ["steamer", "huppermage", "cra"]
+		},
+		"B": {
+			"teamName": "KAISER",
+			"bans": ["sadida", "feca", "iop", "enutrof", "forgelance"],
+			"picks": ["ecaflip", "zobal", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59880/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Perruque GanG",
+			"bans": ["xelor", "eliotrope", "zobal", "ecaflip", "cra"],
+			"picks": ["steamer", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "eniripsa", "pandawa", "enutrof"],
+			"picks": ["feca", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59881/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "ecaflip", "iop", "enutrof", "sram"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["feca", "sacrieur", "roublard", "forgelance", "pandawa"],
+			"picks": ["eniripsa", "sadida", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59882/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Minute Papillon",
+			"bans": ["sacrieur", "feca", "pandawa", "cra", "roublard"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		},
+		"B": {
+			"teamName": "GAMA",
+			"bans": ["sadida", "ouginak", "forgelance", "zobal", "enutrof"],
+			"picks": ["eniripsa", "ecaflip", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59883/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": ["eliotrope", "sadida", "ouginak", "forgelance", "ecaflip"],
+			"picks": ["eniripsa", "sram", "enutrof"]
+		},
+		"B": {
+			"teamName": "ALM",
+			"bans": ["zobal", "sacrieur", "iop", "xelor", "roublard"],
+			"picks": ["feca", "steamer", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59884/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lion kingdom",
+			"bans": ["sadida", "sacrieur", "pandawa", "forgelance", "roublard"],
+			"picks": ["eniripsa", "ouginak", "sram"]
+		},
+		"B": {
+			"teamName": "GAME OVER",
+			"bans": ["feca", "steamer", "enutrof", "ecaflip", "huppermage"],
+			"picks": ["iop", "zobal", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59885/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["eliotrope", "sacrieur", "eniripsa", "zobal", "osamodas"],
+			"picks": ["ecaflip", "pandawa", "cra"]
+		},
+		"B": {
+			"teamName": "Faucon Tigré",
+			"bans": ["sadida", "feca", "steamer", "enutrof", "roublard"],
+			"picks": ["iop", "forgelance", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59886/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Los Touristoss",
+			"bans": ["ecaflip", "feca", "iop", "sacrieur", "pandawa"],
+			"picks": ["eniripsa", "sram", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "steamer", "enutrof", "ouginak", "forgelance"],
+			"picks": ["zobal", "roublard", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59887/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "27z",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59888/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Evariste",
+			"bans": ["zobal", "sadida", "ecaflip", "pandawa", "osamodas"],
+			"picks": ["eniripsa", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "FC Craqueboule",
+			"bans": ["feca", "steamer", "eliotrope", "ouginak", "forgelance"],
+			"picks": ["sacrieur", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59889/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Stallions",
+			"bans": ["feca", "zobal", "sram", "ecaflip", "enutrof"],
+			"picks": ["eniripsa", "huppermage", "cra"]
+		},
+		"B": {
+			"teamName": "Datura",
+			"bans": ["sadida", "steamer", "forgelance", "ouginak", "sacrieur"],
+			"picks": ["eliotrope", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59890/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["forgelance", "ecaflip", "zobal", "cra", "eliotrope"],
+			"picks": ["feca", "sacrieur", "ouginak"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["sadida", "steamer", "pandawa", "enutrof", "sram"],
+			"picks": ["eniripsa", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59891/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "feca", "eniripsa", "ecaflip", "ouginak"],
+			"picks": ["steamer", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["sadida", "zobal", "cra", "iop", "enutrof"],
+			"picks": ["forgelance", "eliotrope", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59892/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Raccoon",
+			"bans": ["feca", "ecaflip", "eniripsa", "xelor", "osamodas"],
+			"picks": ["sadida", "ouginak", "forgelance"]
+		},
+		"B": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "eliotrope", "cra", "pandawa", "enutrof"],
+			"picks": ["zobal", "iop", "sacrieur"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59893/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Novus Rursus",
+			"bans": ["feca", "forgelance", "enutrof", "ecaflip", "cra"],
+			"picks": ["zobal", "iop", "roublard"]
+		},
+		"B": {
+			"teamName": "La Legion",
+			"bans": ["eniripsa", "xelor", "steamer", "sacrieur", "ouginak"],
+			"picks": ["sadida", "pandawa", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59894/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Chadou",
+			"bans": ["feca", "zobal", "enutrof", "iop", "forgelance"],
+			"picks": ["steamer", "pandawa", "sram"]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": ["sadida", "eliotrope", "sacrieur", "ecaflip", "roublard"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59895/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "NOIR",
+			"bans": ["zobal", "feca", "roublard", "forgelance", "huppermage"],
+			"picks": ["eniripsa", "iop", "ouginak"]
+		},
+		"B": {
+			"teamName": "Grignotucs",
+			"bans": ["sadida", "steamer", "enutrof", "sram", "pandawa"],
+			"picks": ["sacrieur", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59896/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Epouvanteur",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59897/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "carat certifier",
+			"bans": ["steamer", "ecaflip", "sacrieur", "enutrof", "osamodas"],
+			"picks": ["eniripsa", "zobal", "roublard"]
+		},
+		"B": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["sadida", "eliotrope", "pandawa", "forgelance", "ouginak"],
+			"picks": ["feca", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59898/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unex",
+			"bans": ["eliotrope", "eniripsa", "zobal", "iop", "cra"],
+			"picks": ["ecaflip", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["sadida", "steamer", "sacrieur", "ouginak", "roublard"],
+			"picks": ["feca", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59899/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "ecaflip", "iop", "sram", "cra"],
+			"picks": ["steamer", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Les leveurs de coudes",
+			"bans": ["sacrieur", "sadida", "eliotrope", "forgelance", "ouginak"],
+			"picks": ["eniripsa", "zobal", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59900/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": ["sacrieur", "zobal", "ecaflip", "iop", "sram"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Royal Anomaly",
+			"bans": ["sadida", "feca", "enutrof", "eniripsa", "eliotrope"],
+			"picks": ["forgelance", "osamodas", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59901/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Out Of Time",
+			"bans": ["zobal", "feca", "pandawa", "iop", "sram"],
+			"picks": ["steamer", "ouginak", "cra"]
+		},
+		"B": {
+			"teamName": "TOGETHER",
+			"bans": ["sadida", "sacrieur", "roublard", "ecaflip", "enutrof"],
+			"picks": ["eniripsa", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59902/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Wind-Breaker",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Team Marruecos",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59903/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lesteuw gang",
+			"bans": ["feca", "zobal", "eliotrope", "ecaflip", "pandawa"],
+			"picks": ["sacrieur", "iop", "osamodas"]
+		},
+		"B": {
+			"teamName": "Ultra-IO",
+			"bans": ["sadida", "eniripsa", "enutrof", "huppermage", "forgelance"],
+			"picks": ["steamer", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59904/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Noctis",
+			"bans": ["feca", "steamer", "ecaflip", "sacrieur", "roublard"],
+			"picks": ["eniripsa", "iop", "osamodas"]
+		},
+		"B": {
+			"teamName": "Clem et Roudy",
+			"bans": ["sadida", "forgelance", "ouginak", "enutrof", "pandawa"],
+			"picks": ["zobal", "eliotrope", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59905/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sacrieur", "feca", "enutrof", "pandawa", "cra"],
+			"picks": ["iop", "eliotrope", "forgelance"]
+		},
+		"B": {
+			"teamName": "SUNLIGHT",
+			"bans": ["sadida", "ecaflip", "steamer", "zobal", "osamodas"],
+			"picks": ["eniripsa", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59906/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Dark sasuke",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Shrangi La",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59907/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["feca", "steamer", "ecaflip", "eliotrope", "enutrof"],
+			"picks": ["eniripsa", "iop", "cra"]
+		},
+		"B": {
+			"teamName": "Dragon Slayers",
+			"bans": ["sadida", "ouginak", "forgelance", "sram", "huppermage"],
+			"picks": ["sacrieur", "zobal", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59908/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": ["zobal", "eniripsa", "steamer", "cra", "eliotrope"],
+			"picks": ["sadida", "iop", "ouginak"]
+		},
+		"B": {
+			"teamName": "Tokyo Manji",
+			"bans": ["feca", "forgelance", "enutrof", "roublard", "pandawa"],
+			"picks": ["sacrieur", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59909/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Stasis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "team 8",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59910/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "FUG",
+			"bans": ["steamer", "zobal", "eliotrope", "pandawa", "sram"],
+			"picks": ["eniripsa", "ecaflip", "huppermage"]
+		},
+		"B": {
+			"teamName": "Camisamor",
+			"bans": ["sadida", "feca", "sacrieur", "ouginak", "forgelance"],
+			"picks": ["iop", "enutrof", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59911/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "JUST",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Tocardinho",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59912/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["eniripsa", "steamer", "sacrieur", "cra", "eliotrope"],
+			"picks": ["feca", "forgelance", "sram"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sadida", "zobal", "enutrof", "ouginak", "huppermage"],
+			"picks": ["ecaflip", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59913/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Rafale",
+			"bans": ["eniripsa", "forgelance", "enutrof", "iop", "eliotrope"],
+			"picks": ["zobal", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Sayez",
+			"bans": ["feca", "sadida", "ouginak", "steamer", "pandawa"],
+			"picks": ["ecaflip", "sacrieur", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59914/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Undisclosed",
+			"bans": ["steamer", "eniripsa", "eliotrope", "ouginak", "cra"],
+			"picks": ["sadida", "iop", "roublard"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["feca", "zobal", "pandawa", "enutrof", "forgelance"],
+			"picks": ["sacrieur", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59915/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["feca", "steamer", "eliotrope", "eniripsa", "sram"],
+			"picks": ["ecaflip", "pandawa", "enutrof"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "zobal", "ouginak", "sacrieur", "roublard"],
+			"picks": ["iop", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59916/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "138",
+			"bans": ["feca", "sacrieur", "enutrof", "ecaflip", "cra"],
+			"picks": ["eniripsa", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["ouginak", "sadida", "forgelance", "iop", "eliotrope"],
+			"picks": ["steamer", "zobal", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59917/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sacrieur", "feca", "iop", "huppermage", "ouginak"],
+			"picks": ["zobal", "roublard", "cra"]
+		},
+		"B": {
+			"teamName": "miou",
+			"bans": ["sadida", "steamer", "forgelance", "enutrof", "pandawa"],
+			"picks": ["eniripsa", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59918/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "gods",
+			"bans": ["zobal", "iop", "cra", "sram", "pandawa"],
+			"picks": ["sacrieur", "eniripsa", "roublard"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["sadida", "feca", "enutrof", "eliotrope", "ouginak"],
+			"picks": ["steamer", "ecaflip", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59919/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["sacrieur", "steamer", "ecaflip", "iop", "eliotrope"],
+			"picks": ["eniripsa", "sram", "forgelance"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "huppermage", "enutrof", "feca", "xelor"],
+			"picks": ["zobal", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59920/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["ecaflip", "eniripsa", "iop", "roublard", "cra"],
+			"picks": ["feca", "forgelance", "ouginak"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "enutrof", "pandawa", "sram"],
+			"picks": ["steamer", "zobal", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59921/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Allo",
+			"bans": ["forgelance", "feca", "steamer", "iop", "sram"],
+			"picks": ["eniripsa", "huppermage", "osamodas"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sadida", "zobal", "sacrieur", "enutrof", "ouginak"],
+			"picks": ["ecaflip", "roublard", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59922/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "ALM",
+			"bans": ["zobal", "feca", "ecaflip", "iop", "cra"],
+			"picks": ["eniripsa", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Minute Papillon",
+			"bans": ["sacrieur", "sadida", "pandawa", "forgelance", "enutrof"],
+			"picks": ["steamer", "eliotrope", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59923/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "forgelance", "cra", "sram", "xelor"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Grignotucs",
+			"bans": ["sadida", "eniripsa", "enutrof", "sacrieur", "ouginak"],
+			"picks": ["zobal", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59924/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Metropolis",
+			"bans": ["feca", "zobal", "iop", "steamer", "huppermage"],
+			"picks": ["sadida", "cra", "pandawa"]
+		},
+		"B": {
+			"teamName": "Lion kingdom",
+			"bans": ["eniripsa", "ecaflip", "roublard", "forgelance", "enutrof"],
+			"picks": ["sacrieur", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59925/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["zobal", "steamer", "forgelance", "ouginak", "cra"],
+			"picks": ["sadida", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["feca", "eniripsa", "roublard", "enutrof", "osamodas"],
+			"picks": ["sacrieur", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59926/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Stallions",
+			"bans": ["feca", "eniripsa", "ecaflip", "sram", "eliotrope"],
+			"picks": ["steamer", "ouginak", "sacrieur"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "forgelance", "enutrof", "pandawa", "huppermage"],
+			"picks": ["zobal", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59927/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["feca", "sacrieur", "zobal", "xelor", "pandawa"],
+			"picks": ["eniripsa", "ouginak", "enutrof"]
+		},
+		"B": {
+			"teamName": "BAD CALL",
+			"bans": ["steamer", "sadida", "iop", "forgelance", "eliotrope"],
+			"picks": ["ecaflip", "roublard", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59928/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "eniripsa", "pandawa", "eliotrope", "cra"],
+			"picks": ["zobal", "ecaflip", "ouginak"]
+		},
+		"B": {
+			"teamName": "TEIKO",
+			"bans": ["feca", "sadida", "roublard", "enutrof", "sacrieur"],
+			"picks": ["iop", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59929/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Perruque GanG",
+			"bans": ["ecaflip", "feca", "pandawa", "enutrof", "eliotrope"],
+			"picks": ["forgelance", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "steamer", "sacrieur", "zobal", "sram"],
+			"picks": ["eniripsa", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59930/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "u_u",
+			"bans": ["eniripsa", "sacrieur", "zobal", "cra", "forgelance"],
+			"picks": ["feca", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "KTV",
+			"bans": ["sadida", "eliotrope", "pandawa", "iop", "huppermage"],
+			"picks": ["steamer", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59931/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Gloom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "carat certifier",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59932/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "DRIP",
+			"bans": ["eniripsa", "sacrieur", "ecaflip", "zobal", "sram"],
+			"picks": ["steamer", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "Chadou",
+			"bans": ["sadida", "forgelance", "huppermage", "pandawa", "eliotrope"],
+			"picks": ["feca", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59933/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sacrieur", "eniripsa", "enutrof", "steamer", "eliotrope"],
+			"picks": ["ecaflip", "pandawa", "osamodas"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["sadida", "feca", "zobal", "iop", "sram"],
+			"picks": ["forgelance", "cra", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59934/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": ["sacrieur", "steamer", "ecaflip", "ouginak", "eliotrope"],
+			"picks": ["zobal", "forgelance", "enutrof"]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": ["sadida", "feca", "roublard", "sram", "osamodas"],
+			"picks": ["eniripsa", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59935/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FC Craqueboule",
+			"bans": ["steamer", "ecaflip", "eniripsa", "enutrof", "eliotrope"],
+			"picks": ["zobal", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "piipoudou",
+			"bans": ["sadida", "feca", "forgelance", "roublard", "huppermage"],
+			"picks": ["sacrieur", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59936/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Novus Rursus",
+			"bans": ["sadida", "feca", "sacrieur", "forgelance", "pandawa"],
+			"picks": ["zobal", "sram", "xelor"]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["eniripsa", "ouginak", "roublard", "iop", "enutrof"],
+			"picks": ["steamer", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59937/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TOGETHER",
+			"bans": ["eliotrope", "zobal", "ecaflip", "sacrieur", "cra"],
+			"picks": ["eniripsa", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "feca", "ouginak", "forgelance", "enutrof"],
+			"picks": ["steamer", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59938/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": ["sacrieur", "feca", "ouginak", "forgelance", "zobal"],
+			"picks": ["eliotrope", "sram", "xelor"]
+		},
+		"B": {
+			"teamName": "GAMA",
+			"bans": ["eniripsa", "sadida", "iop", "enutrof", "roublard"],
+			"picks": ["steamer", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59939/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les leveurs de coudes",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Sinaloa Cartel",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59940/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Dark sasuke",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Evariste",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59941/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["steamer", "ecaflip", "sacrieur", "forgelance", "cra"],
+			"picks": ["enutrof", "osamodas", "huppermage"]
+		},
+		"B": {
+			"teamName": "Los Touristoss",
+			"bans": ["sadida", "feca", "ouginak", "eniripsa", "roublard"],
+			"picks": ["iop", "zobal", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59942/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Raccoon",
+			"bans": ["ecaflip", "steamer", "zobal", "osamodas", "pandawa"],
+			"picks": ["eniripsa", "roublard", "cra"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["sadida", "feca", "ouginak", "forgelance", "enutrof"],
+			"picks": ["iop", "sacrieur", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59943/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": ["sacrieur", "feca", "ouginak", "huppermage", "pandawa"],
+			"picks": ["eniripsa", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Faucon Tigré",
+			"bans": ["sadida", "steamer", "forgelance", "ecaflip", "enutrof"],
+			"picks": ["zobal", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59944/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "feca", "iop", "ecaflip", "roublard"],
+			"picks": ["sadida", "huppermage", "osamodas"]
+		},
+		"B": {
+			"teamName": "La Legion",
+			"bans": ["steamer", "eniripsa", "enutrof", "zobal", "cra"],
+			"picks": ["forgelance", "pandawa", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59945/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Noctis",
+			"bans": ["feca", "sacrieur", "eniripsa", "iop", "sram"],
+			"picks": ["steamer", "cra", "huppermage"]
+		},
+		"B": {
+			"teamName": "Unex",
+			"bans": ["sadida", "ecaflip", "enutrof", "forgelance", "pandawa"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59946/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Team Marruecos",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59947/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Datura",
+			"bans": ["feca", "zobal", "sacrieur", "ecaflip", "pandawa"],
+			"picks": ["eniripsa", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "FUG",
+			"bans": ["sadida", "steamer", "ouginak", "forgelance", "sram"],
+			"picks": ["iop", "enutrof", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59948/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lesteuw gang",
+			"bans": ["steamer", "zobal", "huppermage", "ecaflip", "eliotrope"],
+			"picks": ["sacrieur", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "GAME OVER",
+			"bans": ["sadida", "feca", "enutrof", "forgelance", "pandawa"],
+			"picks": ["eniripsa", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59949/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tokyo Manji",
+			"bans": ["zobal", "feca", "pandawa", "ecaflip", "enutrof"],
+			"picks": ["steamer", "ouginak", "sram"]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": ["sacrieur", "sadida", "forgelance", "huppermage", "eliotrope"],
+			"picks": ["eniripsa", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59950/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SUNLIGHT",
+			"bans": ["osamodas", "feca", "ouginak", "iop", "huppermage"],
+			"picks": ["ecaflip", "forgelance", "roublard"]
+		},
+		"B": {
+			"teamName": "Movez Lang",
+			"bans": ["sadida", "sacrieur", "zobal", "sram", "cra"],
+			"picks": ["steamer", "eniripsa", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59951/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ultra-IO",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Sram Iop Osa",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59952/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Dragon Slayers",
+			"bans": ["zobal", "ecaflip", "sacrieur", "ouginak", "osamodas"],
+			"picks": ["eniripsa", "sram", "eliotrope"]
+		},
+		"B": {
+			"teamName": "BeauregardCity",
+			"bans": ["sadida", "feca", "forgelance", "huppermage", "enutrof"],
+			"picks": ["iop", "steamer", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59953/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Stasis",
+			"bans": ["sadida", "sacrieur", "roublard", "feca", "osamodas"],
+			"picks": ["forgelance", "cra", "pandawa"]
+		},
+		"B": {
+			"teamName": "Out Of Time",
+			"bans": ["zobal", "eniripsa", "ecaflip", "sram", "enutrof"],
+			"picks": ["steamer", "iop", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59954/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Clem et Roudy",
+			"bans": ["eniripsa", "feca", "osamodas", "enutrof", "cra"],
+			"picks": ["zobal", "ouginak", "xelor"]
+		},
+		"B": {
+			"teamName": "Camisamor",
+			"bans": ["sadida", "sacrieur", "iop", "forgelance", "huppermage"],
+			"picks": ["steamer", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59955/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["feca", "eniripsa", "eliotrope", "osamodas", "steamer"],
+			"picks": ["ecaflip", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sadida", "enutrof", "zobal", "ouginak", "sram"],
+			"picks": ["sacrieur", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59956/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["ecaflip", "zobal", "feca", "eliotrope", "osamodas"],
+			"picks": ["steamer", "forgelance", "sram"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "eniripsa", "ouginak", "huppermage", "sacrieur"],
+			"picks": ["iop", "enutrof", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59957/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Bloodbath",
+			"bans": ["ecaflip", "feca", "sacrieur", "sram", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "zobal", "forgelance", "pandawa", "huppermage"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59958/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sacrieur", "pandawa", "iop", "steamer", "enutrof"],
+			"picks": ["zobal", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Undisclosed",
+			"bans": ["sadida", "feca", "roublard", "ecaflip", "forgelance"],
+			"picks": ["eniripsa", "ouginak", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59959/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["eniripsa", "zobal", "huppermage", "pandawa", "osamodas"],
+			"picks": ["sacrieur", "iop", "enutrof"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["sadida", "feca", "forgelance", "ouginak", "eliotrope"],
+			"picks": ["steamer", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59960/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "ecaflip", "enutrof", "iop", "eliotrope"],
+			"picks": ["steamer", "roublard", "forgelance"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "pandawa", "eniripsa", "osamodas"],
+			"picks": ["feca", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59961/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "eniripsa", "sacrieur", "forgelance", "huppermage"],
+			"picks": ["sadida", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["zobal", "roublard", "iop", "enutrof", "sram"],
+			"picks": ["steamer", "ouginak", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59962/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sacrieur", "eniripsa", "cra", "eliotrope", "huppermage"],
+			"picks": ["feca", "iop", "forgelance"]
+		},
+		"B": {
+			"teamName": "Sagarmatha",
+			"bans": ["sadida", "roublard", "sram", "enutrof", "ecaflip"],
+			"picks": ["steamer", "zobal", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59963/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["feca", "eniripsa", "eliotrope", "osamodas", "huppermage"],
+			"picks": ["zobal", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["sadida", "steamer", "ouginak", "enutrof", "sacrieur"],
+			"picks": ["iop", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59964/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "ALM",
+			"bans": ["eliotrope", "zobal", "ecaflip", "iop", "ouginak"],
+			"picks": ["steamer", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sadida", "feca", "enutrof", "eniripsa", "cra"],
+			"picks": ["sacrieur", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59965/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["feca", "ecaflip", "iop", "ouginak", "sram"],
+			"picks": ["steamer", "enutrof", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": ["sadida", "zobal", "forgelance", "cra", "pandawa"],
+			"picks": ["eniripsa", "sacrieur", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59966/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": ["feca", "zobal", "ecaflip", "iop", "enutrof"],
+			"picks": ["steamer", "eliotrope", "huppermage"]
+		},
+		"B": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["sadida", "eniripsa", "cra", "forgelance", "roublard"],
+			"picks": ["sacrieur", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59967/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Hasascow",
+			"bans": ["zobal", "eniripsa", "iop", "sram", "pandawa"],
+			"picks": ["feca", "forgelance", "cra"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "roublard", "sacrieur", "ouginak", "enutrof"],
+			"picks": ["steamer", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59968/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "u_u",
+			"bans": ["eniripsa", "sacrieur", "steamer", "iop", "eliotrope"],
+			"picks": ["feca", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Allo",
+			"bans": ["sadida", "ecaflip", "enutrof", "huppermage", "osamodas"],
+			"picks": ["zobal", "forgelance", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59969/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "sacrieur", "pandawa", "cra", "forgelance"],
+			"picks": ["zobal", "eniripsa", "xelor"]
+		},
+		"B": {
+			"teamName": "miou",
+			"bans": ["feca", "iop", "ouginak", "enutrof", "roublard"],
+			"picks": ["ecaflip", "sadida", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59970/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["eniripsa", "sacrieur", "iop", "ouginak", "eliotrope"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "DRIP",
+			"bans": ["sadida", "ecaflip", "enutrof", "zobal", "pandawa"],
+			"picks": ["feca", "roublard", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59971/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["feca", "steamer", "sacrieur", "ecaflip", "roublard"],
+			"picks": ["eniripsa", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Gloom",
+			"bans": ["sadida", "forgelance", "iop", "ouginak", "cra"],
+			"picks": ["zobal", "sram", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59972/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Another One",
+			"bans": ["sacrieur", "zobal", "enutrof", "eliotrope", "pandawa"],
+			"picks": ["feca", "iop", "huppermage"]
+		},
+		"B": {
+			"teamName": "piipoudou",
+			"bans": ["sadida", "eniripsa", "forgelance", "xelor", "osamodas"],
+			"picks": ["ecaflip", "steamer", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59973/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Minute Papillon",
+			"bans": ["sacrieur", "eniripsa", "forgelance", "iop", "pandawa"],
+			"picks": ["sadida", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Stallions",
+			"bans": ["feca", "steamer", "enutrof", "zobal", "eliotrope"],
+			"picks": ["ecaflip", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59974/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": ["ecaflip", "feca", "sacrieur", "enutrof", "pandawa"],
+			"picks": ["zobal", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "GAMA",
+			"bans": ["eniripsa", "sadida", "ouginak", "forgelance", "sram"],
+			"picks": ["iop", "steamer", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59975/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "ecaflip", "iop", "sram", "osamodas"],
+			"picks": ["zobal", "roublard", "sacrieur"]
+		},
+		"B": {
+			"teamName": "Perruque GanG",
+			"bans": ["sadida", "steamer", "enutrof", "eniripsa", "huppermage"],
+			"picks": ["forgelance", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59976/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Grignotucs",
+			"bans": ["steamer", "feca", "ecaflip", "enutrof", "huppermage"],
+			"picks": ["zobal", "roublard", "forgelance"]
+		},
+		"B": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "sadida", "ouginak", "sram", "pandawa"],
+			"picks": ["eniripsa", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59977/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "NOIR",
+			"bans": ["sadida", "feca", "ecaflip", "cra", "huppermage"],
+			"picks": ["eniripsa", "iop", "enutrof"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["zobal", "sacrieur", "forgelance", "sram", "pandawa"],
+			"picks": ["steamer", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59978/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["ecaflip", "feca", "zobal", "forgelance", "osamodas"],
+			"picks": ["steamer", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "TEIKO",
+			"bans": ["sadida", "eniripsa", "ouginak", "sacrieur", "roublard"],
+			"picks": ["iop", "enutrof", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59979/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TOGETHER",
+			"bans": ["zobal", "eliotrope", "pandawa", "iop", "sram"],
+			"picks": ["steamer", "roublard", "ouginak"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["sadida", "feca", "forgelance", "eniripsa", "enutrof"],
+			"picks": ["ecaflip", "sacrieur", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59980/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["steamer", "feca", "sacrieur", "iop", "enutrof"],
+			"picks": ["eniripsa", "forgelance", "osamodas"]
+		},
+		"B": {
+			"teamName": "KTV",
+			"bans": ["sadida", "ecaflip", "huppermage", "ouginak", "cra"],
+			"picks": ["zobal", "sram", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59981/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FUG",
+			"bans": ["feca", "eniripsa", "iop", "ecaflip", "sram"],
+			"picks": ["steamer", "eliotrope", "roublard"]
+		},
+		"B": {
+			"teamName": "Chadou",
+			"bans": ["sadida", "forgelance", "pandawa", "sacrieur", "huppermage"],
+			"picks": ["zobal", "enutrof", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59982/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lesteuw gang",
+			"bans": ["eniripsa", "zobal", "ouginak", "ecaflip", "sram"],
+			"picks": ["sacrieur", "huppermage", "pandawa"]
+		},
+		"B": {
+			"teamName": "Evariste",
+			"bans": ["sadida", "feca", "enutrof", "forgelance", "osamodas"],
+			"picks": ["steamer", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59983/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Faucon Tigré",
+			"bans": ["steamer", "eniripsa", "iop", "roublard", "sram"],
+			"picks": ["sacrieur", "forgelance", "cra"]
+		},
+		"B": {
+			"teamName": "Noctis",
+			"bans": ["sadida", "feca", "enutrof", "ouginak", "huppermage"],
+			"picks": ["zobal", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59984/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Lion kingdom",
+			"bans": ["feca", "zobal", "ecaflip", "iop", "enutrof"],
+			"picks": ["steamer", "huppermage", "sram"]
+		},
+		"B": {
+			"teamName": "FC Craqueboule",
+			"bans": ["eniripsa", "sadida", "osamodas", "ouginak", "roublard"],
+			"picks": ["sacrieur", "pandawa", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59985/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Novus Rursus",
+			"bans": ["feca", "forgelance", "zobal", "enutrof", "pandawa"],
+			"picks": ["eniripsa", "ouginak", "ecaflip"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["steamer", "roublard", "xelor", "iop", "sram"],
+			"picks": ["sadida", "sacrieur", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59986/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Kefa df",
+			"bans": ["steamer", "feca", "iop", "ouginak", "sram"],
+			"picks": ["zobal", "huppermage", "cra"]
+		},
+		"B": {
+			"teamName": "Movez Lang",
+			"bans": ["sadida", "sacrieur", "osamodas", "forgelance", "roublard"],
+			"picks": ["eniripsa", "ecaflip", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59987/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Los Touristoss",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "La Legion",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59988/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "GAME OVER",
+			"bans": ["zobal", "steamer", "iop", "sacrieur", "pandawa"],
+			"picks": ["sadida", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Raccoon",
+			"bans": ["eniripsa", "ecaflip", "enutrof", "forgelance", "cra"],
+			"picks": ["feca", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59989/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unex",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Les leveurs de coudes",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59990/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Camisamor",
+			"bans": ["feca", "sacrieur", "eniripsa", "iop", "huppermage"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["sadida", "steamer", "forgelance", "enutrof", "pandawa"],
+			"picks": ["eliotrope", "ecaflip", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59991/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Tokyo Manji",
+			"bans": ["feca", "roublard", "sram", "xelor", "zobal"],
+			"picks": ["sadida", "forgelance", "enutrof"]
+		},
+		"B": {
+			"teamName": "MERCENARYES",
+			"bans": ["steamer", "sacrieur", "ecaflip", "ouginak", "huppermage"],
+			"picks": ["eniripsa", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59992/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Datura",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59993/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": ["feca", "steamer", "ouginak", "forgelance", "pandawa"],
+			"picks": ["eniripsa", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Out Of Time",
+			"bans": ["sadida", "sacrieur", "huppermage", "enutrof", "cra"],
+			"picks": ["zobal", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59994/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Dragon Slayers",
+			"bans": ["zobal", "feca", "iop", "forgelance", "eliotrope"],
+			"picks": ["eniripsa", "sram", "pandawa"]
+		},
+		"B": {
+			"teamName": "SUNLIGHT",
+			"bans": ["sadida", "steamer", "sacrieur", "roublard", "osamodas"],
+			"picks": ["ecaflip", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59995/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Clem et Roudy",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Ultra-IO",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59997/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["eniripsa", "zobal", "roublard", "huppermage", "pandawa"],
+			"picks": ["ecaflip", "feca", "ouginak"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sadida", "sacrieur", "enutrof", "forgelance", "osamodas"],
+			"picks": ["iop", "steamer", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59998/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["eniripsa", "zobal", "iop", "sram", "pandawa"],
+			"picks": ["sacrieur", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sadida", "feca", "ecaflip", "enutrof", "roublard"],
+			"picks": ["steamer", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/59999/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SSJ",
+			"bans": ["ecaflip", "zobal", "steamer", "sacrieur", "eliotrope"],
+			"picks": ["feca", "pandawa", "roublard"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "eniripsa", "ouginak", "huppermage", "sram"],
+			"picks": ["iop", "enutrof", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60000/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["eniripsa", "feca", "zobal", "iop", "sram"],
+			"picks": ["ecaflip", "eliotrope", "huppermage"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "enutrof", "forgelance", "ouginak"],
+			"picks": ["steamer", "pandawa", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60001/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["zobal", "ecaflip", "sacrieur", "iop", "sram"],
+			"picks": ["feca", "osamodas", "cra"]
+		},
+		"B": {
+			"teamName": "CatChina",
+			"bans": ["sadida", "eniripsa", "ouginak", "forgelance", "huppermage"],
+			"picks": ["steamer", "enutrof", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60002/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Undisclosed",
+			"bans": ["eniripsa", "steamer", "sram", "iop", "eliotrope"],
+			"picks": ["sacrieur", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "Minute Papillon",
+			"bans": ["sadida", "feca", "forgelance", "ecaflip", "ouginak"],
+			"picks": ["zobal", "roublard", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60003/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "forgelance", "eniripsa", "cra", "eliotrope"],
+			"picks": ["sadida", "enutrof", "xelor"]
+		},
+		"B": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "sacrieur", "ecaflip", "pandawa", "sram"],
+			"picks": ["zobal", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60004/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["feca", "zobal", "iop", "sram", "eliotrope"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Motamawa",
+			"bans": ["sadida", "eniripsa", "forgelance", "xelor", "enutrof"],
+			"picks": ["sacrieur", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60005/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "u_u",
+			"bans": ["eniripsa", "sacrieur", "iop", "ecaflip", "pandawa"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "feca", "roublard", "enutrof", "eliotrope"],
+			"picks": ["zobal", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60006/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Another One",
+			"bans": ["sacrieur", "feca", "ecaflip", "ouginak", "enutrof"],
+			"picks": ["steamer", "sram", "eliotrope"]
+		},
+		"B": {
+			"teamName": "ALM",
+			"bans": ["zobal", "sadida", "iop", "forgelance", "cra"],
+			"picks": ["eniripsa", "roublard", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60007/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Hasascow",
+			"bans": ["zobal", "eniripsa", "iop", "enutrof", "sram"],
+			"picks": ["feca", "huppermage", "cra"]
+		},
+		"B": {
+			"teamName": "DRIP",
+			"bans": ["sadida", "ecaflip", "forgelance", "sacrieur", "ouginak"],
+			"picks": ["steamer", "eliotrope", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60008/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["eniripsa", "feca", "zobal", "eliotrope", "ouginak"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "KAISER",
+			"bans": ["sadida", "sacrieur", "pandawa", "enutrof", "osamodas"],
+			"picks": ["ecaflip", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60009/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "GAMA",
+			"bans": ["feca", "zobal", "ecaflip", "iop", "cra"],
+			"picks": ["eniripsa", "roublard", "osamodas"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "sacrieur", "enutrof", "forgelance", "pandawa"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60010/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Lion kingdom",
+			"bans": ["sadida", "zobal", "sacrieur", "ecaflip", "roublard"],
+			"picks": ["eniripsa", "huppermage", "pandawa"]
+		},
+		"B": {
+			"teamName": "Sagarmatha",
+			"bans": ["forgelance", "enutrof", "iop", "sram", "ouginak"],
+			"picks": ["steamer", "feca", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60011/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Merydz",
+			"bans": ["sacrieur", "steamer", "ouginak", "forgelance", "eliotrope"],
+			"picks": ["eniripsa", "huppermage", "pandawa"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["feca", "sadida", "iop", "ecaflip", "sram"],
+			"picks": ["zobal", "roublard", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60012/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "gods",
+			"bans": ["zobal", "sacrieur", "iop", "huppermage", "sram"],
+			"picks": ["feca", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "Lesteuw gang",
+			"bans": ["steamer", "sadida", "eliotrope", "ecaflip", "ouginak"],
+			"picks": ["eniripsa", "forgelance", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60013/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Gloom",
+			"bans": ["feca", "ecaflip", "zobal", "iop", "eliotrope"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": ["sadida", "eniripsa", "forgelance", "enutrof", "osamodas"],
+			"picks": ["sacrieur", "roublard", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60014/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Bananagrumes",
+			"bans": ["zobal", "eniripsa", "pandawa", "enutrof", "huppermage"],
+			"picks": ["feca", "ouginak", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Allo",
+			"bans": ["sadida", "ecaflip", "iop", "sacrieur", "cra"],
+			"picks": ["steamer", "forgelance", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60015/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "miou",
+			"bans": ["feca", "zobal", "eniripsa", "huppermage", "roublard"],
+			"picks": ["sacrieur", "forgelance", "ouginak"]
+		},
+		"B": {
+			"teamName": "BAD CALL",
+			"bans": ["steamer", "sadida", "pandawa", "iop", "cra"],
+			"picks": ["ecaflip", "enutrof", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60016/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["eniripsa", "feca", "sacrieur", "enutrof", "sram"],
+			"picks": ["ecaflip", "cra", "osamodas"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "zobal", "pandawa", "forgelance", "eliotrope"],
+			"picks": ["steamer", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60017/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Faucon Tigré",
+			"bans": ["steamer", "eniripsa", "iop", "roublard", "eliotrope"],
+			"picks": ["sacrieur", "forgelance", "sram"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "feca", "enutrof", "ouginak", "cra"],
+			"picks": ["zobal", "ecaflip", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60018/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Chadou",
+			"bans": ["feca", "eniripsa", "eliotrope", "pandawa", "roublard"],
+			"picks": ["zobal", "ecaflip", "huppermage"]
+		},
+		"B": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["sadida", "steamer", "enutrof", "sacrieur", "ouginak"],
+			"picks": ["iop", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60019/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Kefa df",
+			"bans": ["feca", "steamer", "ecaflip", "eliotrope", "pandawa"],
+			"picks": ["zobal", "cra", "huppermage"]
+		},
+		"B": {
+			"teamName": "TEIKO",
+			"bans": ["sadida", "eniripsa", "ouginak", "sacrieur", "forgelance"],
+			"picks": ["iop", "enutrof", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60020/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "piipoudou",
+			"bans": ["steamer", "feca", "zobal", "eliotrope", "forgelance"],
+			"picks": ["sacrieur", "sram", "cra"]
+		},
+		"B": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "eniripsa", "enutrof", "ouginak", "osamodas"],
+			"picks": ["ecaflip", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60021/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Odyssey",
+			"bans": ["feca", "zobal", "sram", "ecaflip", "cra"],
+			"picks": ["steamer", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "sadida", "ouginak", "iop", "eliotrope"],
+			"picks": ["eniripsa", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60022/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Perruque GanG",
+			"bans": ["feca", "steamer", "enutrof", "iop", "eliotrope"],
+			"picks": ["sacrieur", "sram", "pandawa"]
+		},
+		"B": {
+			"teamName": "FUG",
+			"bans": ["sadida", "zobal", "forgelance", "ouginak", "osamodas"],
+			"picks": ["eniripsa", "ecaflip", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60023/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["iop", "ecaflip", "steamer", "zobal", "huppermage"],
+			"picks": ["eniripsa", "forgelance", "cra"]
+		},
+		"B": {
+			"teamName": "Grignotucs",
+			"bans": ["sadida", "feca", "pandawa", "ouginak", "sram"],
+			"picks": ["sacrieur", "enutrof", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60024/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Noctis",
+			"bans": ["feca", "steamer", "sacrieur", "pandawa", "huppermage"],
+			"picks": ["eniripsa", "cra", "enutrof"]
+		},
+		"B": {
+			"teamName": "Novus Rursus",
+			"bans": ["sadida", "zobal", "ecaflip", "forgelance", "sram"],
+			"picks": ["iop", "xelor", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60025/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SUNLIGHT",
+			"bans": ["feca", "sadida", "sacrieur", "osamodas", "enutrof"],
+			"picks": ["ecaflip", "sram", "cra"]
+		},
+		"B": {
+			"teamName": "KTV",
+			"bans": ["eniripsa", "steamer", "ouginak", "huppermage", "forgelance"],
+			"picks": ["zobal", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60026/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": ["roublard", "eniripsa", "ecaflip", "huppermage", "cra"],
+			"picks": ["feca", "ouginak", "iop"]
+		},
+		"B": {
+			"teamName": "La Legion",
+			"bans": ["steamer", "sadida", "zobal", "sacrieur", "sram"],
+			"picks": ["enutrof", "pandawa", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60027/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tokyo Manji",
+			"bans": ["ecaflip", "sacrieur", "iop", "ouginak", "cra"],
+			"picks": ["sadida", "enutrof", "xelor"]
+		},
+		"B": {
+			"teamName": "Stallions",
+			"bans": ["feca", "steamer", "zobal", "sram", "roublard"],
+			"picks": ["eniripsa", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60028/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "NOIR",
+			"bans": ["sadida", "feca", "huppermage", "zobal", "roublard"],
+			"picks": ["eniripsa", "ouginak", "enutrof"]
+		},
+		"B": {
+			"teamName": "Evariste",
+			"bans": ["forgelance", "pandawa", "sacrieur", "ecaflip", "sram"],
+			"picks": ["steamer", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60029/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["eniripsa", "zobal", "pandawa", "ecaflip", "sram"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Royal Anomaly",
+			"bans": ["sadida", "feca", "iop", "sacrieur", "eliotrope"],
+			"picks": ["forgelance", "enutrof", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60030/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Raccoon",
+			"bans": ["iop", "feca", "ecaflip", "zobal", "pandawa"],
+			"picks": ["steamer", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Tocardinho",
+			"bans": ["sadida", "sacrieur", "enutrof", "huppermage", "sram"],
+			"picks": ["eniripsa", "ouginak", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60031/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unex",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "FC Craqueboule",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60032/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": ["sacrieur", "steamer", "eniripsa", "cra", "eliotrope"],
+			"picks": ["feca", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "TOGETHER",
+			"bans": ["zobal", "sadida", "ecaflip", "iop", "pandawa"],
+			"picks": ["forgelance", "enutrof", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60033/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Datura",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Los Touristoss",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60034/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Clem et Roudy",
+			"bans": ["sadida", "eniripsa", "enutrof", "osamodas", "eliotrope"],
+			"picks": ["zobal", "iop", "xelor"]
+		},
+		"B": {
+			"teamName": "MERCENARYES",
+			"bans": ["feca", "steamer", "ecaflip", "ouginak", "huppermage"],
+			"picks": ["sacrieur", "sram", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60035/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Out Of Time",
+			"bans": ["feca", "forgelance", "iop", "eniripsa", "sram"],
+			"picks": ["sadida", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "GAME OVER",
+			"bans": ["steamer", "zobal", "enutrof", "ouginak", "cra"],
+			"picks": ["sacrieur", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60036/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Camisamor",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Stasis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60038/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["eniripsa", "zobal", "iop", "steamer", "osamodas"],
+			"picks": ["ecaflip", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "forgelance", "feca", "ouginak", "cra"],
+			"picks": ["sacrieur", "huppermage", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60039/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "ecaflip", "enutrof", "eniripsa", "cra"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "Polia",
+			"bans": ["feca", "roublard", "iop", "sacrieur", "forgelance"],
+			"picks": ["sadida", "eliotrope", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60040/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["sacrieur", "steamer", "feca", "iop", "osamodas"],
+			"picks": ["eniripsa", "sram", "pandawa"]
+		},
+		"B": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["sadida", "zobal", "enutrof", "forgelance", "huppermage"],
+			"picks": ["ecaflip", "ouginak", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60041/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Undisclosed",
+			"bans": ["steamer", "zobal", "enutrof", "eniripsa", "huppermage"],
+			"picks": ["sacrieur", "forgelance", "roublard"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "feca", "pandawa", "iop", "cra"],
+			"picks": ["ecaflip", "eliotrope", "ouginak"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60042/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "eniripsa", "ecaflip", "ouginak", "eliotrope"],
+			"picks": ["steamer", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["feca", "sadida", "zobal", "iop", "sram"],
+			"picks": ["forgelance", "cra", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60043/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["feca", "eniripsa", "iop", "ecaflip", "sram"],
+			"picks": ["sacrieur", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "zobal", "enutrof", "ouginak", "osamodas"],
+			"picks": ["steamer", "eliotrope", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60044/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "eniripsa", "forgelance", "cra", "sram"],
+			"picks": ["steamer", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "u_u",
+			"bans": ["sadida", "ouginak", "ecaflip", "iop", "huppermage"],
+			"picks": ["zobal", "sacrieur", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60045/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "GAMA",
+			"bans": ["feca", "steamer", "iop", "ouginak", "cra"],
+			"picks": ["sadida", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "ALM",
+			"bans": ["sacrieur", "eniripsa", "ecaflip", "zobal", "roublard"],
+			"picks": ["pandawa", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60046/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["sacrieur", "feca", "pandawa", "enutrof", "sram"],
+			"picks": ["ecaflip", "huppermage", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Sayez",
+			"bans": ["sadida", "ouginak", "zobal", "steamer", "forgelance"],
+			"picks": ["eniripsa", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60047/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["zobal", "sacrieur", "ouginak", "roublard", "xelor"],
+			"picks": ["eniripsa", "ecaflip", "forgelance"]
+		},
+		"B": {
+			"teamName": "gods",
+			"bans": ["sadida", "feca", "enutrof", "sram", "steamer"],
+			"picks": ["eliotrope", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60048/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "138",
+			"bans": ["zobal", "eniripsa", "ecaflip", "enutrof", "huppermage"],
+			"picks": ["feca", "roublard", "osamodas"]
+		},
+		"B": {
+			"teamName": "Odyssey",
+			"bans": ["sadida", "steamer", "ouginak", "forgelance", "pandawa"],
+			"picks": ["sacrieur", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60049/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "sacrieur", "ecaflip", "cra", "enutrof"],
+			"picks": ["zobal", "forgelance", "xelor"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "feca", "ouginak", "sram", "pandawa"],
+			"picks": ["eniripsa", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60050/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["feca", "zobal", "iop", "forgelance", "sram"],
+			"picks": ["steamer", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["sadida", "ouginak", "ecaflip", "pandawa", "enutrof"],
+			"picks": ["eniripsa", "sacrieur", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60051/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TEIKO",
+			"bans": ["feca", "eniripsa", "ecaflip", "enutrof", "pandawa"],
+			"picks": ["zobal", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "TLocal",
+			"bans": ["sadida", "forgelance", "sacrieur", "iop", "osamodas"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60052/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "KAISER",
+			"bans": ["sacrieur", "feca", "iop", "eliotrope", "forgelance"],
+			"picks": ["steamer", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["sadida", "zobal", "ecaflip", "pandawa", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60053/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "feca", "ecaflip", "forgelance", "osamodas"],
+			"picks": ["steamer", "eliotrope", "sram"]
+		},
+		"B": {
+			"teamName": "miou",
+			"bans": ["iop", "eniripsa", "enutrof", "zobal", "roublard"],
+			"picks": ["sacrieur", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60054/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["feca", "eniripsa", "iop", "ecaflip", "eliotrope"],
+			"picks": ["sacrieur", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "Minute Papillon",
+			"bans": ["sadida", "steamer", "pandawa", "enutrof", "ouginak"],
+			"picks": ["zobal", "roublard", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60055/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "DRIP",
+			"bans": ["eniripsa", "zobal", "sacrieur", "ecaflip", "sram"],
+			"picks": ["steamer", "roublard", "huppermage"]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": ["sadida", "feca", "iop", "ouginak", "eliotrope"],
+			"picks": ["enutrof", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60056/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": ["ecaflip", "iop", "forgelance", "ouginak", "cra"],
+			"picks": ["steamer", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Gloom",
+			"bans": ["sadida", "feca", "roublard", "zobal", "eliotrope"],
+			"picks": ["eniripsa", "sacrieur", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60057/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Stallions",
+			"bans": ["feca", "steamer", "sram", "enutrof", "ouginak"],
+			"picks": ["eniripsa", "huppermage", "sacrieur"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "ecaflip", "eliotrope", "forgelance", "cra"],
+			"picks": ["zobal", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60058/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "FUG",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Allo",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60059/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Metropolis",
+			"bans": ["eniripsa", "sacrieur", "iop", "zobal", "huppermage"],
+			"picks": ["feca", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Sinaloa Cartel",
+			"bans": ["sadida", "ecaflip", "forgelance", "enutrof", "eliotrope"],
+			"picks": ["steamer", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60060/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Raconte pas ta vie",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Lion kingdom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60061/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "FC Craqueboule",
+			"bans": ["steamer", "eniripsa", "ecaflip", "sacrieur", "osamodas"],
+			"picks": ["zobal", "cra", "pandawa"]
+		},
+		"B": {
+			"teamName": "Chadou",
+			"bans": ["sadida", "feca", "enutrof", "ouginak", "huppermage"],
+			"picks": ["iop", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60062/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["iop", "eniripsa", "ecaflip", "xelor", "ouginak"],
+			"picks": ["steamer", "enutrof", "pandawa"]
+		},
+		"B": {
+			"teamName": "Novus Rursus",
+			"bans": ["feca", "sadida", "sacrieur", "forgelance", "roublard"],
+			"picks": ["zobal", "sram", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60063/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Lesteuw gang",
+			"bans": ["steamer", "zobal", "eniripsa", "roublard", "pandawa"],
+			"picks": ["sacrieur", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "piipoudou",
+			"bans": ["sadida", "feca", "forgelance", "enutrof", "osamodas"],
+			"picks": ["ecaflip", "iop", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60064/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Evariste",
+			"bans": ["iop", "ecaflip", "sacrieur", "pandawa", "huppermage"],
+			"picks": ["feca", "enutrof", "roublard"]
+		},
+		"B": {
+			"teamName": "Merydz",
+			"bans": ["steamer", "sadida", "zobal", "ouginak", "cra"],
+			"picks": ["eniripsa", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60065/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "TOGETHER",
+			"bans": ["zobal", "steamer", "sacrieur", "ecaflip", "cra"],
+			"picks": ["forgelance", "huppermage", "ouginak"]
+		},
+		"B": {
+			"teamName": "Faucon Tigré",
+			"bans": ["feca", "sadida", "enutrof", "eniripsa", "sram"],
+			"picks": ["iop", "eliotrope", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60066/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BAD CALL",
+			"bans": ["feca", "ecaflip", "pandawa", "iop", "enutrof"],
+			"picks": ["steamer", "roublard", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Kekambas",
+			"bans": ["sadida", "sacrieur", "zobal", "ouginak", "huppermage"],
+			"picks": ["eniripsa", "forgelance", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60067/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Raccoon",
+			"bans": ["zobal", "feca", "ouginak", "sacrieur", "cra"],
+			"picks": ["iop", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": ["sadida", "steamer", "ecaflip", "eliotrope", "osamodas"],
+			"picks": ["eniripsa", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60068/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Clem et Roudy",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60069/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["eniripsa", "zobal", "steamer", "enutrof", "huppermage"],
+			"picks": ["iop", "sacrieur", "ouginak"]
+		},
+		"B": {
+			"teamName": "Perruque GanG",
+			"bans": ["feca", "sadida", "ecaflip", "osamodas", "cra"],
+			"picks": ["forgelance", "pandawa", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60070/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SUNLIGHT",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Grignotucs",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60071/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "La Legion",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Unex",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60072/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Noctis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60073/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Stasis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60074/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Out Of Time",
+			"bans": ["eniripsa", "zobal", "ecaflip", "sram", "pandawa"],
+			"picks": ["feca", "iop", "ouginak"]
+		},
+		"B": {
+			"teamName": "Tokyo Manji",
+			"bans": ["steamer", "sadida", "forgelance", "roublard", "osamodas"],
+			"picks": ["sacrieur", "enutrof", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60075/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "GAME OVER",
+			"bans": ["eniripsa", "zobal", "roublard", "ouginak", "pandawa"],
+			"picks": ["feca", "ecaflip", "enutrof"]
+		},
+		"B": {
+			"teamName": "BeauregardCity",
+			"bans": ["forgelance", "sadida", "sram", "sacrieur", "eliotrope"],
+			"picks": ["steamer", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60076/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Dragon Slayers",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60078/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["eniripsa", "zobal", "feca", "sram", "ouginak"],
+			"picks": ["ecaflip", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sadida", "sacrieur", "enutrof", "eliotrope", "cra"],
+			"picks": ["steamer", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60079/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "CatChina",
+			"bans": ["ecaflip", "iop", "pandawa", "eniripsa", "xelor"],
+			"picks": ["steamer", "forgelance", "huppermage"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sadida", "zobal", "feca", "sacrieur", "osamodas"],
+			"picks": ["roublard", "enutrof", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60080/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "ALM",
+			"bans": ["zobal", "ecaflip", "pandawa", "xelor", "eliotrope"],
+			"picks": ["feca", "forgelance", "steamer"]
+		},
+		"B": {
+			"teamName": "Rafale",
+			"bans": ["sadida", "eniripsa", "ouginak", "huppermage", "sram"],
+			"picks": ["iop", "enutrof", "sacrieur"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60081/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Polia",
+			"bans": ["eniripsa", "forgelance", "huppermage", "cra", "enutrof"],
+			"picks": ["sacrieur", "zobal", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Hasascow",
+			"bans": ["sadida", "feca", "iop", "ouginak", "sram"],
+			"picks": ["ecaflip", "steamer", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60082/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["feca", "eniripsa", "sacrieur", "forgelance", "eliotrope"],
+			"picks": ["steamer", "enutrof", "sram"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["sadida", "zobal", "pandawa", "ouginak", "huppermage"],
+			"picks": ["ecaflip", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60083/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sayez",
+			"bans": ["pandawa", "sacrieur", "roublard", "enutrof", "iop"],
+			"picks": ["steamer", "ecaflip", "cra"]
+		},
+		"B": {
+			"teamName": "Undisclosed",
+			"bans": ["feca", "sadida", "eliotrope", "huppermage", "forgelance"],
+			"picks": ["zobal", "eniripsa", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60084/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Motamawa",
+			"bans": ["sacrieur", "eniripsa", "forgelance", "osamodas", "ouginak"],
+			"picks": ["steamer", "iop", "sram"]
+		},
+		"B": {
+			"teamName": "Les 3 moustiquaires",
+			"bans": ["sadida", "feca", "pandawa", "huppermage", "enutrof"],
+			"picks": ["zobal", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60085/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "gods",
+			"bans": ["zobal", "iop", "roublard", "ouginak", "osamodas"],
+			"picks": ["ecaflip", "forgelance", "enutrof"]
+		},
+		"B": {
+			"teamName": "Another One",
+			"bans": ["feca", "sadida", "sacrieur", "eliotrope", "huppermage"],
+			"picks": ["eniripsa", "steamer", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60086/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "LOS BAZAGLOOS",
+			"bans": ["steamer", "sacrieur", "pandawa", "huppermage", "cra"],
+			"picks": ["zobal", "enutrof", "forgelance"]
+		},
+		"B": {
+			"teamName": "Bloodbath",
+			"bans": ["sadida", "feca", "ouginak", "ecaflip", "sram"],
+			"picks": ["eniripsa", "iop", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60087/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Gloom",
+			"bans": ["feca", "sacrieur", "zobal", "ecaflip", "osamodas"],
+			"picks": ["steamer", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "u_u",
+			"bans": ["sadida", "eniripsa", "enutrof", "ouginak", "cra"],
+			"picks": ["iop", "forgelance", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60088/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TLocal",
+			"bans": ["feca", "zobal", "iop", "roublard", "pandawa"],
+			"picks": ["eniripsa", "enutrof", "huppermage"]
+		},
+		"B": {
+			"teamName": "Bananagrumes",
+			"bans": ["sadida", "sacrieur", "ecaflip", "forgelance", "sram"],
+			"picks": ["steamer", "ouginak", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60089/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Demonic Soldiers",
+			"bans": ["eniripsa", "feca", "zobal", "eliotrope", "huppermage"],
+			"picks": ["steamer", "ecaflip", "pandawa"]
+		},
+		"B": {
+			"teamName": "138",
+			"bans": ["sacrieur", "sadida", "roublard", "sram", "ouginak"],
+			"picks": ["iop", "forgelance", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60090/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "miou",
+			"bans": ["eniripsa", "feca", "ecaflip", "iop", "eliotrope"],
+			"picks": ["sadida", "pandawa", "cra"]
+		},
+		"B": {
+			"teamName": "Croco In My Pouch",
+			"bans": ["sacrieur", "steamer", "enutrof", "ouginak", "roublard"],
+			"picks": ["zobal", "forgelance", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60091/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Faucon Tigré",
+			"bans": ["steamer", "eniripsa", "iop", "roublard", "cra"],
+			"picks": ["sacrieur", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "DEKVYNSEP",
+			"bans": ["sadida", "feca", "enutrof", "forgelance", "eliotrope"],
+			"picks": ["zobal", "ecaflip", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60092/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Sagarmatha",
+			"bans": ["feca", "sacrieur", "steamer", "pandawa", "sram"],
+			"picks": ["ecaflip", "huppermage", "eliotrope"]
+		},
+		"B": {
+			"teamName": "GAMA",
+			"bans": ["sadida", "eniripsa", "ouginak", "zobal", "cra"],
+			"picks": ["iop", "enutrof", "forgelance"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60093/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Movez Lang",
+			"bans": ["eniripsa", "ecaflip", "cra", "sacrieur", "enutrof"],
+			"picks": ["steamer", "pandawa", "huppermage"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["sadida", "feca", "forgelance", "ouginak", "sram"],
+			"picks": ["zobal", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60094/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "KTV",
+			"bans": ["ecaflip", "feca", "huppermage", "zobal", "sram"],
+			"picks": ["steamer", "pandawa", "roublard"]
+		},
+		"B": {
+			"teamName": "Metropolis",
+			"bans": ["sadida", "sacrieur", "forgelance", "iop", "ouginak"],
+			"picks": ["eniripsa", "cra", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60095/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Vroom Vroom",
+			"bans": ["sadida", "feca", "enutrof", "zobal", "sram"],
+			"picks": ["sacrieur", "ouginak", "roublard"]
+		},
+		"B": {
+			"teamName": "Raconte pas ta vie",
+			"bans": ["eniripsa", "steamer", "forgelance", "iop", "eliotrope"],
+			"picks": ["ecaflip", "pandawa", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60096/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Chadou",
+			"bans": ["feca", "eniripsa", "eliotrope", "forgelance", "roublard"],
+			"picks": ["zobal", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "L Ordre",
+			"bans": ["steamer", "ecaflip", "sacrieur", "sadida", "pandawa"],
+			"picks": ["iop", "enutrof", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60097/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Minute Papillon",
+			"bans": ["feca", "eniripsa", "iop", "pandawa", "eliotrope"],
+			"picks": ["steamer", "forgelance", "xelor"]
+		},
+		"B": {
+			"teamName": "DRIP",
+			"bans": ["sadida", "ecaflip", "zobal", "enutrof", "sram"],
+			"picks": ["sacrieur", "roublard", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60098/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Evariste",
+			"bans": ["eniripsa", "sacrieur", "iop", "zobal", "roublard"],
+			"picks": ["feca", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sadida", "ecaflip", "ouginak", "enutrof", "forgelance"],
+			"picks": ["steamer", "pandawa", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60099/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "TEIKO",
+			"bans": ["feca", "eniripsa", "ecaflip", "eliotrope", "pandawa"],
+			"picks": ["zobal", "forgelance", "sacrieur"]
+		},
+		"B": {
+			"teamName": "FUG",
+			"bans": ["sadida", "steamer", "ouginak", "roublard", "sram"],
+			"picks": ["iop", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60100/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Kekambas",
+			"bans": ["sacrieur", "feca", "ecaflip", "roublard", "eliotrope"],
+			"picks": ["eniripsa", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "KAISER",
+			"bans": ["sadida", "steamer", "forgelance", "ouginak", "enutrof"],
+			"picks": ["zobal", "iop", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60101/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "piipoudou",
+			"bans": ["feca", "forgelance", "zobal", "enutrof", "huppermage"],
+			"picks": ["ecaflip", "sacrieur", "cra"]
+		},
+		"B": {
+			"teamName": "Kefa df",
+			"bans": ["sadida", "steamer", "eliotrope", "ouginak", "sram"],
+			"picks": ["eniripsa", "iop", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60102/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Odyssey",
+			"bans": ["feca", "iop", "eniripsa", "ecaflip", "roublard"],
+			"picks": ["steamer", "ouginak", "huppermage"]
+		},
+		"B": {
+			"teamName": "TOGETHER",
+			"bans": ["zobal", "sadida", "sacrieur", "cra", "eliotrope"],
+			"picks": ["forgelance", "enutrof", "sram"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60103/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Allo",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Stallions",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60104/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Royal Anomaly",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Lion kingdom",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60105/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Novus Rursus",
+			"bans": ["feca", "sadida", "eniripsa", "forgelance", "sram"],
+			"picks": ["steamer", "roublard", "pandawa"]
+		},
+		"B": {
+			"teamName": "Perruque GanG",
+			"bans": ["xelor", "eliotrope", "zobal", "enutrof", "ecaflip"],
+			"picks": ["sacrieur", "iop", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60106/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "La Legion",
+			"bans": ["steamer", "eniripsa", "enutrof", "sacrieur", "huppermage"],
+			"picks": ["forgelance", "ouginak", "eliotrope"]
+		},
+		"B": {
+			"teamName": "Merydz",
+			"bans": ["feca", "sadida", "ecaflip", "pandawa", "sram"],
+			"picks": ["zobal", "iop", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60107/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Grignotucs",
+			"bans": ["steamer", "feca", "eniripsa", "cra", "sram"],
+			"picks": ["sadida", "forgelance", "pandawa"]
+		},
+		"B": {
+			"teamName": "FC Craqueboule",
+			"bans": ["sacrieur", "xelor", "ecaflip", "enutrof", "ouginak"],
+			"picks": ["zobal", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60108/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Sinaloa Cartel",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Lesteuw gang",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60109/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Tocardinho",
+			"bans": ["feca", "sadida", "zobal", "sacrieur", "eliotrope"],
+			"picks": ["eniripsa", "ouginak", "sram"]
+		},
+		"B": {
+			"teamName": "BAD CALL",
+			"bans": ["steamer", "forgelance", "pandawa", "iop", "cra"],
+			"picks": ["ecaflip", "enutrof", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60110/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "BeauregardCity",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Raccoon",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60111/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Sram Iop Osa",
+			"bans": ["eniripsa", "zobal", "iop", "ecaflip", "huppermage"],
+			"picks": ["feca", "ouginak", "sram"]
+		},
+		"B": {
+			"teamName": "GAME OVER",
+			"bans": ["steamer", "sadida", "enutrof", "eliotrope", "pandawa"],
+			"picks": ["sacrieur", "forgelance", "cra"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60112/1": {
+		"winner": "DRAW",
+		"A": {
+			"teamName": "Noctis",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "SUNLIGHT",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60113/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Camisamor",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "NOIR",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60114/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "MERCENARYES",
+			"bans": ["steamer", "feca", "ouginak", "ecaflip", "pandawa"],
+			"picks": ["zobal", "forgelance", "xelor"]
+		},
+		"B": {
+			"teamName": "Out Of Time",
+			"bans": ["eniripsa", "sadida", "roublard", "sram", "sacrieur"],
+			"picks": ["iop", "enutrof", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/240-dofus-qualifier-summer/match/60115/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Dragon Slayers",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		},
+		"B": {
+			"teamName": "Tokyo Manji",
+			"bans": [null, null, null, null, null],
+			"picks": [null, null, null]
+		}
+	}
+}

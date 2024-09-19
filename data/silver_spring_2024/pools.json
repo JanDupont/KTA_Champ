@@ -12,201 +12,6 @@
 			"picks": ["feca", "iop", "eliotrope"]
 		}
 	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59446/1": {
-		"winner": "B",
-		"A": {
-			"teamName": "Drunked Totem",
-			"bans": ["zobal", "steamer", "ouginak", "huppermage", "eliotrope"],
-			"picks": ["feca", "pandawa", "cra"]
-		},
-		"B": {
-			"teamName": "HOF YANG",
-			"bans": ["sacrieur", "iop", "forgelance", "sram", "roublard"],
-			"picks": ["eniripsa", "ecaflip", "enutrof"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59447/1": {
-		"winner": "B",
-		"A": {
-			"teamName": "Ego",
-			"bans": ["iop", "eniripsa", "roublard", "ouginak", "pandawa"],
-			"picks": ["feca", "huppermage", "eliotrope"]
-		},
-		"B": {
-			"teamName": "HOF YANG",
-			"bans": ["sacrieur", "steamer", "ecaflip", "sram", "osamodas"],
-			"picks": ["zobal", "forgelance", "xelor"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59448/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "RLCS",
-			"bans": ["zobal", "steamer", "huppermage", "pandawa", "forgelance"],
-			"picks": ["feca", "ouginak", "osamodas"]
-		},
-		"B": {
-			"teamName": "Celestia",
-			"bans": ["sacrieur", "eliotrope", "ecaflip", "roublard", "cra"],
-			"picks": ["eniripsa", "iop", "sram"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59449/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "Drunked Totem",
-			"bans": ["feca", "eliotrope", "iop", "cra", "huppermage"],
-			"picks": ["zobal", "sram", "forgelance"]
-		},
-		"B": {
-			"teamName": "RLCS",
-			"bans": ["sacrieur", "steamer", "roublard", "pandawa", "enutrof"],
-			"picks": ["eniripsa", "ouginak", "ecaflip"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59450/1": {
-		"winner": "B",
-		"A": {
-			"teamName": "HOF YANG",
-			"bans": ["zobal", "feca", "cra", "iop", "sram"],
-			"picks": ["eniripsa", "ouginak", "pandawa"]
-		},
-		"B": {
-			"teamName": "Celestia",
-			"bans": ["sacrieur", "steamer", "eliotrope", "roublard", "huppermage"],
-			"picks": ["forgelance", "ecaflip", "osamodas"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59451/1": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "RLCS",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "HOF YANG",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59452/1": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "Drunked Totem",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "Ego",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59453/1": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "Drunked Totem",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "Celestia",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59454/1": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "Ego",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "RLCS",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59455/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "Rfissa gang",
-			"bans": ["eniripsa", "feca", "eliotrope", "pandawa", "osamodas"],
-			"picks": ["zobal", "huppermage", "sram"]
-		},
-		"B": {
-			"teamName": "SSJ",
-			"bans": ["sacrieur", "steamer", "ouginak", "ecaflip", "xelor"],
-			"picks": ["iop", "forgelance", "enutrof"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59456/1": {
-		"winner": "B",
-		"A": {
-			"teamName": "Umbra",
-			"bans": ["eniripsa", "feca", "roublard", "ouginak", "eliotrope"],
-			"picks": ["iop", "forgelance", "osamodas"]
-		},
-		"B": {
-			"teamName": "Brumed",
-			"bans": ["sacrieur", "steamer", "pandawa", "enutrof", "huppermage"],
-			"picks": ["zobal", "ecaflip", "cra"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59457/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "Unique",
-			"bans": ["feca", "sacrieur", "eliotrope", "pandawa", "roublard"],
-			"picks": ["zobal", "osamodas", "sram"]
-		},
-		"B": {
-			"teamName": "Brumed",
-			"bans": ["eniripsa", "steamer", "forgelance", "cra", "ecaflip"],
-			"picks": ["iop", "xelor", "enutrof"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59458/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "Rfissa gang",
-			"bans": ["eniripsa", "zobal", "pandawa", "ouginak", "huppermage"],
-			"picks": ["feca", "sram", "osamodas"]
-		},
-		"B": {
-			"teamName": "Umbra",
-			"bans": ["steamer", "sacrieur", "ecaflip", "cra", "forgelance"],
-			"picks": ["iop", "enutrof", "sadida"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59459/1": {
-		"winner": "B",
-		"A": {
-			"teamName": "SSJ",
-			"bans": ["zobal", "eniripsa", "iop", "pandawa", "enutrof"],
-			"picks": ["feca", "sram", "huppermage"]
-		},
-		"B": {
-			"teamName": "Umbra",
-			"bans": ["steamer", "sacrieur", "ouginak", "eliotrope", "cra"],
-			"picks": ["forgelance", "ecaflip", "osamodas"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59460/1": {
-		"winner": "A",
-		"A": {
-			"teamName": "Unique",
-			"bans": ["feca", "eniripsa", "xelor", "eliotrope", "roublard"],
-			"picks": ["zobal", "ouginak", "enutrof"]
-		},
-		"B": {
-			"teamName": "Rfissa gang",
-			"bans": ["sacrieur", "steamer", "forgelance", "ecaflip", "huppermage"],
-			"picks": ["iop", "pandawa", "osamodas"]
-		}
-	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59445/2": {
 		"winner": "A",
 		"A": {
@@ -218,6 +23,19 @@
 			"teamName": "Celestia",
 			"bans": ["sacrieur", "steamer", "ecaflip", "cra", "eliotrope"],
 			"picks": ["eniripsa", "roublard", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59446/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["zobal", "steamer", "ouginak", "huppermage", "eliotrope"],
+			"picks": ["feca", "pandawa", "cra"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sacrieur", "iop", "forgelance", "sram", "roublard"],
+			"picks": ["eniripsa", "ecaflip", "enutrof"]
 		}
 	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59446/2": {
@@ -233,108 +51,17 @@
 			"picks": ["feca", "forgelance", "eliotrope"]
 		}
 	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59447/2": {
-		"winner": "B",
-		"A": {
-			"teamName": "HOF YANG",
-			"bans": ["zobal", "eniripsa", "iop", "feca", "eliotrope"],
-			"picks": ["roublard", "sram", "huppermage"]
-		},
-		"B": {
-			"teamName": "Ego",
-			"bans": ["sacrieur", "steamer", "pandawa", "enutrof", "forgelance"],
-			"picks": ["osamodas", "ecaflip", "cra"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59448/2": {
-		"winner": "B",
-		"A": {
-			"teamName": "Celestia",
-			"bans": ["eliotrope", "eniripsa", "iop", "cra", "osamodas"],
-			"picks": ["steamer", "ecaflip", "roublard"]
-		},
-		"B": {
-			"teamName": "RLCS",
-			"bans": ["sacrieur", "feca", "forgelance", "sram", "huppermage"],
-			"picks": ["zobal", "ouginak", "pandawa"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59449/2": {
+	"https://ktarena.com/en/237-silver-championship--spring/match/59455/1": {
 		"winner": "A",
 		"A": {
-			"teamName": "RLCS",
-			"bans": ["zobal", "steamer", "enutrof", "osamodas", "forgelance"],
-			"picks": ["eniripsa", "pandawa", "sram"]
+			"teamName": "Rfissa gang",
+			"bans": ["eniripsa", "feca", "eliotrope", "pandawa", "osamodas"],
+			"picks": ["zobal", "huppermage", "sram"]
 		},
 		"B": {
-			"teamName": "Drunked Totem",
-			"bans": ["sacrieur", "feca", "ouginak", "cra", "ecaflip"],
-			"picks": ["iop", "eliotrope", "huppermage"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59450/2": {
-		"winner": "A",
-		"A": {
-			"teamName": "Celestia",
-			"bans": ["eliotrope", "eniripsa", "zobal", "roublard", "pandawa"],
-			"picks": ["sacrieur", "forgelance", "ouginak"]
-		},
-		"B": {
-			"teamName": "HOF YANG",
-			"bans": ["cra", "enutrof", "ecaflip", "feca", "huppermage"],
-			"picks": ["steamer", "iop", "osamodas"]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59451/2": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "HOF YANG",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "RLCS",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59452/2": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "Ego",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "Drunked Totem",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59453/2": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "Celestia",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "Drunked Totem",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		}
-	},
-	"https://ktarena.com/en/237-silver-championship--spring/match/59454/2": {
-		"winner": "DRAW",
-		"A": {
-			"teamName": "RLCS",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
-		},
-		"B": {
-			"teamName": "Ego",
-			"bans": [null, null, null, null, null],
-			"picks": [null, null, null]
+			"teamName": "SSJ",
+			"bans": ["sacrieur", "steamer", "ouginak", "ecaflip", "xelor"],
+			"picks": ["iop", "forgelance", "enutrof"]
 		}
 	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59455/2": {
@@ -350,6 +77,19 @@
 			"picks": ["eniripsa", "forgelance", "enutrof"]
 		}
 	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59456/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Umbra",
+			"bans": ["eniripsa", "feca", "roublard", "ouginak", "eliotrope"],
+			"picks": ["iop", "forgelance", "osamodas"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sacrieur", "steamer", "pandawa", "enutrof", "huppermage"],
+			"picks": ["zobal", "ecaflip", "cra"]
+		}
+	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59456/2": {
 		"winner": "A",
 		"A": {
@@ -361,6 +101,71 @@
 			"teamName": "Umbra",
 			"bans": ["sacrieur", "roublard", "pandawa", "forgelance", "eliotrope"],
 			"picks": ["eniripsa", "ouginak", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59447/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Ego",
+			"bans": ["iop", "eniripsa", "roublard", "ouginak", "pandawa"],
+			"picks": ["feca", "huppermage", "eliotrope"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sacrieur", "steamer", "ecaflip", "sram", "osamodas"],
+			"picks": ["zobal", "forgelance", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59447/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "eniripsa", "iop", "feca", "eliotrope"],
+			"picks": ["roublard", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Ego",
+			"bans": ["sacrieur", "steamer", "pandawa", "enutrof", "forgelance"],
+			"picks": ["osamodas", "ecaflip", "cra"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59448/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["zobal", "steamer", "huppermage", "pandawa", "forgelance"],
+			"picks": ["feca", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Celestia",
+			"bans": ["sacrieur", "eliotrope", "ecaflip", "roublard", "cra"],
+			"picks": ["eniripsa", "iop", "sram"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59448/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Celestia",
+			"bans": ["eliotrope", "eniripsa", "iop", "cra", "osamodas"],
+			"picks": ["steamer", "ecaflip", "roublard"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sacrieur", "feca", "forgelance", "sram", "huppermage"],
+			"picks": ["zobal", "ouginak", "pandawa"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59457/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["feca", "sacrieur", "eliotrope", "pandawa", "roublard"],
+			"picks": ["zobal", "osamodas", "sram"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["eniripsa", "steamer", "forgelance", "cra", "ecaflip"],
+			"picks": ["iop", "xelor", "enutrof"]
 		}
 	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59457/2": {
@@ -376,6 +181,19 @@
 			"picks": ["zobal", "iop", "osamodas"]
 		}
 	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59458/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Rfissa gang",
+			"bans": ["eniripsa", "zobal", "pandawa", "ouginak", "huppermage"],
+			"picks": ["feca", "sram", "osamodas"]
+		},
+		"B": {
+			"teamName": "Umbra",
+			"bans": ["steamer", "sacrieur", "ecaflip", "cra", "forgelance"],
+			"picks": ["iop", "enutrof", "sadida"]
+		}
+	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59458/2": {
 		"winner": "A",
 		"A": {
@@ -387,6 +205,71 @@
 			"teamName": "Rfissa gang",
 			"bans": ["sacrieur", "pandawa", "forgelance", "huppermage", "osamodas"],
 			"picks": ["zobal", "ouginak", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59449/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["feca", "eliotrope", "iop", "cra", "huppermage"],
+			"picks": ["zobal", "sram", "forgelance"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sacrieur", "steamer", "roublard", "pandawa", "enutrof"],
+			"picks": ["eniripsa", "ouginak", "ecaflip"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59449/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["zobal", "steamer", "enutrof", "osamodas", "forgelance"],
+			"picks": ["eniripsa", "pandawa", "sram"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sacrieur", "feca", "ouginak", "cra", "ecaflip"],
+			"picks": ["iop", "eliotrope", "huppermage"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59450/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["zobal", "feca", "cra", "iop", "sram"],
+			"picks": ["eniripsa", "ouginak", "pandawa"]
+		},
+		"B": {
+			"teamName": "Celestia",
+			"bans": ["sacrieur", "steamer", "eliotrope", "roublard", "huppermage"],
+			"picks": ["forgelance", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59450/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Celestia",
+			"bans": ["eliotrope", "eniripsa", "zobal", "roublard", "pandawa"],
+			"picks": ["sacrieur", "forgelance", "ouginak"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["cra", "enutrof", "ecaflip", "feca", "huppermage"],
+			"picks": ["steamer", "iop", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59459/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "SSJ",
+			"bans": ["zobal", "eniripsa", "iop", "pandawa", "enutrof"],
+			"picks": ["feca", "sram", "huppermage"]
+		},
+		"B": {
+			"teamName": "Umbra",
+			"bans": ["steamer", "sacrieur", "ouginak", "eliotrope", "cra"],
+			"picks": ["forgelance", "ecaflip", "osamodas"]
 		}
 	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59459/2": {
@@ -402,6 +285,19 @@
 			"picks": ["eliotrope", "ouginak", "osamodas"]
 		}
 	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59460/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["feca", "eniripsa", "xelor", "eliotrope", "roublard"],
+			"picks": ["zobal", "ouginak", "enutrof"]
+		},
+		"B": {
+			"teamName": "Rfissa gang",
+			"bans": ["sacrieur", "steamer", "forgelance", "ecaflip", "huppermage"],
+			"picks": ["iop", "pandawa", "osamodas"]
+		}
+	},
 	"https://ktarena.com/en/237-silver-championship--spring/match/59460/2": {
 		"winner": "B",
 		"A": {
@@ -413,6 +309,110 @@
 			"teamName": "Unique",
 			"bans": ["xelor", "steamer", "forgelance", "pandawa", "sadida"],
 			"picks": ["eniripsa", "roublard", "ecaflip"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59451/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "RLCS",
+			"bans": ["zobal", "steamer", "pandawa", "enutrof", "osamodas"],
+			"picks": ["eniripsa", "eliotrope", "huppermage"]
+		},
+		"B": {
+			"teamName": "HOF YANG",
+			"bans": ["sacrieur", "feca", "forgelance", "ouginak", "ecaflip"],
+			"picks": ["roublard", "iop", "xelor"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59451/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "HOF YANG",
+			"bans": ["feca", "zobal", "pandawa", "eliotrope", "cra"],
+			"picks": ["eniripsa", "ecaflip", "xelor"]
+		},
+		"B": {
+			"teamName": "RLCS",
+			"bans": ["sacrieur", "steamer", "ouginak", "roublard", "sram"],
+			"picks": ["iop", "forgelance", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59452/1": {
+		"winner": "B",
+		"A": {
+			"teamName": "Drunked Totem",
+			"bans": ["feca", "roublard", "iop", "ecaflip", "huppermage"],
+			"picks": ["zobal", "pandawa", "cra"]
+		},
+		"B": {
+			"teamName": "Ego",
+			"bans": ["sacrieur", "steamer", "forgelance", "eniripsa", "ouginak"],
+			"picks": ["osamodas", "sram", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59452/2": {
+		"winner": "A",
+		"A": {
+			"teamName": "Ego",
+			"bans": ["zobal", "iop", "huppermage", "forgelance", "sram"],
+			"picks": ["feca", "ouginak", "osamodas"]
+		},
+		"B": {
+			"teamName": "Drunked Totem",
+			"bans": ["sacrieur", "steamer", "ecaflip", "roublard", "enutrof"],
+			"picks": ["eniripsa", "pandawa", "eliotrope"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59461/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Unique",
+			"bans": ["feca", "eniripsa", "zobal", "pandawa", "huppermage"],
+			"picks": ["sacrieur", "forgelance", "eliotrope"]
+		},
+		"B": {
+			"teamName": "SSJ",
+			"bans": ["ecaflip", "sram", "roublard", "ouginak", "osamodas"],
+			"picks": ["steamer", "iop", "enutrof"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59461/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "SSJ",
+			"bans": ["zobal", "feca", "iop", "eliotrope", "osamodas"],
+			"picks": ["steamer", "cra", "huppermage"]
+		},
+		"B": {
+			"teamName": "Unique",
+			"bans": ["pandawa", "sacrieur", "sram", "ecaflip", "forgelance"],
+			"picks": ["eniripsa", "ouginak", "roublard"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59462/1": {
+		"winner": "A",
+		"A": {
+			"teamName": "Brumed",
+			"bans": ["feca", "zobal", "pandawa", "eliotrope", "xelor"],
+			"picks": ["eniripsa", "roublard", "enutrof"]
+		},
+		"B": {
+			"teamName": "Rfissa gang",
+			"bans": ["sacrieur", "steamer", "ouginak", "cra", "sram"],
+			"picks": ["iop", "ecaflip", "osamodas"]
+		}
+	},
+	"https://ktarena.com/en/237-silver-championship--spring/match/59462/2": {
+		"winner": "B",
+		"A": {
+			"teamName": "Rfissa gang",
+			"bans": ["steamer", "zobal", "iop", "osamodas", "enutrof"],
+			"picks": ["feca", "eliotrope", "huppermage"]
+		},
+		"B": {
+			"teamName": "Brumed",
+			"bans": ["sacrieur", "pandawa", "sram", "forgelance", "ouginak"],
+			"picks": ["eniripsa", "ecaflip", "cra"]
 		}
 	}
 }
