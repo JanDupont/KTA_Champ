@@ -427,91 +427,113 @@ onMounted(() => {
 <style>
 /* Global styles */
 body {
-	font-family: sans-serif;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
 	margin: 0;
-	background-color: #f4f4f4;
-	color: #333;
+	/* Keep the Vibrant Gradient Background */
+	background: linear-gradient(135deg, #cb4aec, #18d8fc); /* Simplified gradient */
+	background-size: 200% 200%; /* For animation */
+	animation: gradientBG 10s ease infinite;
+	color: #fff; /* Default text color to white for contrast */
+	min-height: 100vh; /* Ensure gradient covers full height */
+}
+
+/* Background Gradient Animation */
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 #app-container {
 	margin: 20px auto;
-	padding: 0 20px; /* Remove vertical padding */
-	background-color: transparent; /* Make container transparent */
-	box-shadow: none; /* Remove container shadow */
+	padding: 0 20px;
+	background-color: transparent;
+	box-shadow: none;
 }
 
 h1 {
-	color: #333;
+	color: #fff; /* White heading */
 	text-align: center;
-	margin-bottom: 1.5rem;
+	margin-bottom: 2rem;
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
 }
 
 h2 {
-	margin-top: 0; /* Remove top margin for h2 inside cards */
+	margin-top: 0;
 	margin-bottom: 1rem;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Lighter border */
 	padding-bottom: 0.5rem;
+	color: #fff; /* White headings */
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-/* Card style for sections */
+/* Card style for sections - Milky White Glass */
 .card {
-	background-color: #fff;
-	border-radius: 8px;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-	padding: 20px;
-	margin-bottom: 1.5rem;
-}
-
-section {
-	/* Remove direct styling from section, apply to .card */
-	margin-bottom: 0; /* Reset margin */
-	padding: 0; /* Reset padding */
-	border-radius: 0;
-	background-color: transparent;
-	border: none;
-}
-
-.controls {
-	/* Keep specific background if desired, or use card style */
-	background-color: #e9f5ff; /* Light blue background for selection */
-}
-
-.management-section {
-	/* Keep specific background if desired, or use card style */
-	background-color: #f8f9fa; /* Lighter grey for management */
-	/* border: 1px solid #dee2e6; */ /* Use shadow instead */
+	/* Frosted Glass Effect */
+	background: rgba(255, 255, 255, 0.1); /* Increased opacity for "milky" look */
+	backdrop-filter: blur(10px); /* Slightly reduced blur */
+	-webkit-backdrop-filter: blur(10px); /* Safari support */
+	border-radius: 12px; /* Softer corners */
+	border: 1px solid rgba(255, 255, 255, 0.3); /* Slightly more visible border */
+	box-shadow: 0 6px 24px 0 rgba(0, 0, 0, 0.1); /* Adjusted shadow */
+	padding: 25px; /* Slightly more padding */
+	margin-bottom: 2rem; /* More spacing */
 }
 
 label {
 	margin-right: 10px;
 	font-weight: bold;
 	display: inline-block;
-	min-width: 120px; /* Align labels better */
-	margin-bottom: 5px; /* Add space below label */
+	min-width: 120px;
+	margin-bottom: 5px;
+	color: #f0f0f0; /* Slightly brighter label */
 }
 
 input[type="text"],
 input[type="number"],
 select,
 textarea {
-	padding: 8px 12px;
-	border: 1px solid #ccc;
-	border-radius: 4px;
+	padding: 10px 14px; /* Slightly larger padding */
+	border: 1px solid rgba(255, 255, 255, 0.3); /* Light border */
+	border-radius: 6px; /* Match card radius */
 	margin-right: 10px;
-	margin-bottom: 10px; /* Spacing */
-	font-size: 0.95rem; /* Slightly smaller font */
-	box-sizing: border-box; /* Include padding and border in the element's total width and height */
+	margin-bottom: 10px;
+	font-size: 0.95rem;
+	box-sizing: border-box;
+	background: rgba(255, 255, 255, 0.15); /* Increased opacity slightly */
+	color: #fff; /* White text */
+	outline: none; /* Remove default outline */
+	transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+input[type="text"]::placeholder,
+textarea::placeholder {
+	color: rgba(255, 255, 255, 0.6); /* Lighter placeholder text */
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus,
+textarea:focus {
+	border-color: rgba(255, 255, 255, 0.6); /* Highlight border on focus */
+	background: rgba(255, 255, 255, 0.15); /* Slightly more opaque on focus */
 }
 
 input[type="text"] {
-	flex-grow: 1; /* Allow text input to grow */
+	flex-grow: 1;
 	min-width: 200px;
 }
 textarea {
-	width: 100%; /* Make textarea take full width in its container */
+	width: 100%;
 	min-height: 80px;
 	font-family: monospace;
-	margin-top: 5px; /* Space above textarea */
+	margin-top: 5px;
 }
 input[type="number"] {
 	width: 90px;
@@ -519,105 +541,197 @@ input[type="number"] {
 
 select {
 	min-width: 250px;
-	flex-grow: 1; /* Allow select to grow */
+	flex-grow: 1;
+	/* Appearance reset might be needed for consistent styling */
+	appearance: none;
+	-webkit-appearance: none;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23ffffff' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E"); /* White dropdown arrow */
+	background-repeat: no-repeat;
+	background-position: right 10px center;
+	background-size: 16px 12px;
+	padding-right: 35px; /* Space for the arrow */
+}
+
+/* Style select options (limited cross-browser support) */
+select option {
+	background-color: #333; /* Dark background for dropdown options */
+	color: #fff;
 }
 
 button {
-	padding: 8px 15px;
-	border: none;
-	border-radius: 4px;
-	background-color: #007bff;
+	padding: 10px 18px; /* Slightly larger */
+	border: 1px solid rgba(255, 255, 255, 0.4); /* Match border opacity increase */
+	border-radius: 6px;
+	/* Milky White Button Background */
+	background: rgba(255, 255, 255, 0.25); /* Increased opacity */
 	color: white;
 	cursor: pointer;
 	font-size: 0.95rem;
-	transition: background-color 0.2s ease;
+	font-weight: bold;
+	transition: all 0.3s ease;
 	margin-left: 5px;
-	margin-bottom: 10px; /* Align with inputs */
+	margin-bottom: 10px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Reduced shadow */
+	backdrop-filter: blur(2px); /* Subtle blur on button */
+	-webkit-backdrop-filter: blur(2px);
 }
 
 button:hover {
-	background-color: #0056b3;
+	background: rgba(255, 255, 255, 0.35); /* Lighten on hover */
+	border-color: rgba(255, 255, 255, 0.6);
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	transform: translateY(-1px); /* Smaller lift */
 }
 
 button:disabled {
-	background-color: #cccccc;
+	background: rgba(255, 255, 255, 0.1); /* Keep disabled subtle */
+	color: rgba(255, 255, 255, 0.5); /* Slightly brighter disabled text */
+	border-color: rgba(255, 255, 255, 0.2);
 	cursor: not-allowed;
+	box-shadow: none;
+	transform: none;
+	backdrop-filter: none;
+	-webkit-backdrop-filter: none;
 }
 
 .form-group {
 	margin-bottom: 15px;
 	display: flex;
 	align-items: center;
-	flex-wrap: wrap; /* Allow wrapping on smaller screens */
+	flex-wrap: wrap;
 }
 
 .form-group label {
-	flex-shrink: 0; /* Prevent label from shrinking */
+	flex-shrink: 0;
 }
 
 .form-group.range-group label {
-	min-width: auto; /* Don't force width for range labels */
-	margin-left: 10px; /* Space before range labels */
+	min-width: auto;
+	margin-left: 10px;
 }
 .form-group.range-group label:first-of-type {
-	margin-left: 0; /* No extra space for the first range label */
+	margin-left: 0;
 }
 
 .form-group.action-buttons {
-	justify-content: flex-start; /* Align buttons to the left */
-	gap: 10px; /* Add space between buttons */
+	justify-content: flex-start;
+	gap: 10px;
 }
 .form-group.action-buttons button {
-	margin-left: 0; /* Remove default margin */
+	margin-left: 0;
 }
 
 #stats-output {
-	margin-top: 0; /* Remove top margin as it's now a card */
+	margin-top: 0;
 }
 
 .loading-message,
 .message {
-	padding: 10px 15px;
-	border-radius: 5px;
-	margin-top: 10px;
+	padding: 12px 18px; /* Slightly more padding */
+	border-radius: 8px; /* Match card radius */
+	margin-top: 15px; /* More spacing */
 	font-size: 0.95rem;
-}
-
-.loading-message {
-	background-color: #e0e0e0;
-	color: #555;
-}
-
-.message.info {
-	background-color: #cfe2ff;
-	color: #084298;
-	border: 1px solid #b6d4fe;
-}
-
-.message.success {
-	background-color: #d1e7dd;
-	color: #0f5132;
-	border: 1px solid #badbcc;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background: rgba(255, 255, 255, 0.12); /* Slightly increased opacity */
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+	color: #f0f0f0; /* Brighter default text */
 }
 
 .message.error {
-	background-color: #f8d7da;
-	color: #842029;
-	border: 1px solid #f5c2c7;
+	/* border-left: 3px solid rgba(255, 107, 107, 0.5); */
+	color: #ffdddd; /* Slightly reddish text for errors */
 }
 
 /* Style for StatsTable component titles */
 #stats-output h2 {
-	font-size: 1.2em;
-	color: #333;
+	font-size: 1.3em; /* Slightly larger */
+	color: #fff;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 #stats-output p {
-	/* Style for 'No data' messages */
-	color: #666;
+	color: #eee; /* Lighter text for 'No data' */
 	padding: 15px;
-	background-color: #f8f9fa;
-	border-radius: 5px;
+	background: rgba(255, 255, 255, 0.1); /* Keep 'no data' slightly less opaque */
+	border-radius: 8px;
 	text-align: center;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* --- StatsTable Specific Glass Adjustments --- */
+/* Override StatsTable's internal styles for glass effect */
+/* We need to target elements *inside* StatsTable from App.vue */
+/* This is less ideal than passing props or using slots, but works for global styling */
+
+#stats-output table {
+	box-shadow: none; /* Remove internal shadow, rely on card */
+	border-radius: 8px; /* Match card */
+	border: none; /* Remove internal border */
+	border-collapse: separate; /* Needed for border-radius on cells */
+	border-spacing: 0;
+	background: rgba(0, 0, 0, 0.45); /* Slightly darker table background for contrast */
+}
+
+#stats-output th,
+#stats-output td {
+	border: none; /* Remove internal borders */
+	border-bottom: 1px solid rgba(255, 255, 255, 0.15); /* Slightly stronger lines */
+	padding: 10px 12px;
+	color: #fff; /* White text in table */
+	background: transparent; /* Ensure cells are transparent */
+}
+
+#stats-output td:first-child,
+#stats-output th:first-child {
+	border-left: none;
+}
+#stats-output td:last-child,
+#stats-output th:last-child {
+	border-right: none;
+}
+#stats-output tr:last-child td {
+	border-bottom: none; /* No border on last row */
+}
+
+#stats-output th {
+	background-color: rgba(255, 255, 255, 0.12); /* Increased header opacity */
+	font-weight: bold;
+	color: #fff;
+	position: sticky;
+	top: 0;
+	backdrop-filter: blur(5px); /* Blur for sticky header */
+	-webkit-backdrop-filter: blur(5px);
+}
+
+/* Alternating row colors - adjust opacity */
+#stats-output tbody tr:nth-child(even) {
+	background-color: rgba(255, 255, 255, 0.04); /* Slightly more visible */
+}
+#stats-output tbody tr:hover {
+	background-color: rgba(255, 255, 255, 0.1); /* Slightly more visible hover */
+}
+
+/* Override winrate/max highlights - adjust opacity */
+#stats-output .winrate-high,
+#stats-output .winrate-low {
+	background-color: rgba(255, 255, 255, 0.12) !important; /* Match header opacity */
+}
+#stats-output .winrate-even {
+	background-color: rgba(255, 255, 255, 0.08) !important; /* Slightly less opaque */
+}
+#stats-output .column-max {
+	background-color: rgba(255, 255, 255, 0.18) !important; /* Brighter max */
+	font-weight: bold; /* Keep bold for max */
+}
+
+/* Hover states for highlighted rows - adjust opacity */
+#stats-output tr.winrate-high:hover,
+#stats-output tr.winrate-low:hover,
+#stats-output tr.winrate-even:hover {
+	background-color: rgba(255, 255, 255, 0.15) !important;
+}
+#stats-output tr:hover .column-max {
+	background-color: rgba(255, 255, 255, 0.22) !important;
 }
 </style>
