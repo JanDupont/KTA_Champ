@@ -54,37 +54,37 @@ type ClassPickBanData = {
 
 let top32teams = [
 	"RLCS",
-	"Digital",
-	"ssj",
+	"CatChina",
 	"Polia",
-	"Somnium",
-	"138",
-	"Rfissa gang",
-	"HOF YANG",
-	"Drunked Totem",
-	"Black Flag",
-	"HOF YIN",
-	"Helios Gaming",
-	"Sagarmatha",
-	"QUOIQUOUFEUR",
-	"Demonic Soldiers",
-	"Tempête",
-	"Ego",
+	"SSJ",
+	"ALM",
+	"Sayez",
+	"Rafale",
 	"Umbra",
-	"Unique",
-	"Hasascow",
-	"miou",
-	"Celestia",
-	"Bloodbath",
-	"Vroom Vroom",
-	"Outbreak",
-	"Lone Wolf",
-	"GAMA",
-	"Boar",
-	"Bourds",
-	"El Famoso",
+	"Brumed",
 	"Les 3 moustiquaires",
-	"Faucon Tigré",
+	"HOG YANG",
+	"Hasacow",
+	"TLocal",
+	"LOS BAZAGLOOS",
+	"u_u",
+	"Demonic Soldiers",
+	"Croco In My Pouch",
+	"Another One",
+	"DEKVYNSEP",
+	"GAMA",
+	"Motamawa",
+	"Undisclosed",
+	"gods",
+	"Unique",
+	"Bloodbath",
+	"138",
+	"Drunked Totem",
+	"Gloom",
+	"miou",
+	"Bananagrumes",
+	"Raconte pas ta vie",
+	"DRIP",
 ];
 
 export function analizeSideWinrate() {
@@ -293,8 +293,13 @@ export function analyzeGlobalClassesData() {
 		};
 	});
 
-	// Sort tableData by presence
-	tableData.sort((a, b) => parseFloat(b.Presence) - parseFloat(a.Presence));
+	// Sort tableData by presence, then by winrate
+	tableData.sort((a, b) => {
+		if (parseFloat(b.Presence) === parseFloat(a.Presence)) {
+			return parseFloat(b.Winrate.replace("%", "")) - parseFloat(a.Winrate.replace("%", ""));
+		}
+		return parseFloat(b.Presence) - parseFloat(a.Presence);
+	});
 
 	console.log("Total matches: ", totalMatchesAllClasses);
 
