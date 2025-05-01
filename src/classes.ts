@@ -1,4 +1,6 @@
-export let classes: Record<string, string> = {
+import type { Classes } from "./types.js";
+
+export let classes: Record<string, Classes> = {
 	"1": "cra",
 	"2": "ecaflip",
 	"3": "eliotrope",
