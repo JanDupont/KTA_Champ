@@ -23,8 +23,10 @@ export type Team = {
 	bans: Classes[];
 	picks: Classes[];
 };
+export type Side = "A" | "B";
+export type Winner = Side | "DRAW";
 export type Match = {
-	winner: string; // "A" or "B"
+	winner: Side;
 	A: Team;
 	B: Team;
 };

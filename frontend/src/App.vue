@@ -179,7 +179,6 @@ import { ref, onMounted } from "vue";
 import axios from "axios";
 import StatsTable from "./components/StatsTable.vue";
 
-// --- Types ---
 interface StatsData {
 	sideWinrate: any[];
 	globalClasses: any[];
@@ -188,7 +187,6 @@ interface StatsData {
 
 type ActionType = "create" | "saveLinks" | "generateStats" | null;
 
-// --- State ---
 const tournaments = ref<string[]>([]);
 const selectedTournament = ref<string>("");
 const statsData = ref<StatsData | null>(null);
@@ -199,7 +197,7 @@ const statsError = ref<string | null>(null); // Specifically for stats loading e
 
 // Management State
 const newTournamentName = ref<string>("");
-const linkPattern = ref<string>("https://ktarena.com/en/252-war-3/match/{id}/1"); // Default example
+const linkPattern = ref<string>("https://ktarena.com/en/CHANGE_THIS/match/{id}/1"); // Default example
 const startId = ref<number | null>(null);
 const endId = ref<number | null>(null);
 const linksToAdd = ref<string>("");
@@ -210,15 +208,12 @@ const actionError = ref<boolean>(false); // Was the last action an error?
 const currentAction = ref<ActionType>(null); // Track which action is running
 const actionProgress = ref<string>(""); // Progress message for long actions
 
-// --- API ---
 const API_BASE_URL = "http://localhost:3001/api";
 
 const api = axios.create({
 	baseURL: API_BASE_URL,
 	timeout: 600000, // Increase timeout for potentially long operations like generate-stats (10 minutes)
 });
-
-// --- Methods ---
 
 const clearActionState = () => {
 	actionMessage.value = null;
@@ -227,7 +222,6 @@ const clearActionState = () => {
 	actionProgress.value = "";
 };
 
-// Fetch initial tournament list
 const fetchTournaments = async (selectTournament?: string) => {
 	loadingTournaments.value = true;
 	loadingError.value = null;
@@ -258,7 +252,6 @@ const fetchTournaments = async (selectTournament?: string) => {
 	}
 };
 
-// Load links for the selected tournament
 const loadTournamentLinks = async () => {
 	if (!selectedTournament.value) {
 		currentLinks.value = [];
@@ -275,7 +268,6 @@ const loadTournamentLinks = async () => {
 	}
 };
 
-// Load calculated stats for the selected tournament
 const loadTournamentStats = async () => {
 	if (!selectedTournament.value) {
 		statsData.value = null;
@@ -298,19 +290,16 @@ const loadTournamentStats = async () => {
 	}
 };
 
-// Load both links and stats
 const loadTournamentData = async () => {
 	clearActionState();
 	linksToAdd.value = ""; // Clear link input area
 	await Promise.all([loadTournamentLinks(), loadTournamentStats()]);
 };
 
-// Handle tournament selection change
 const onTournamentSelect = () => {
 	loadTournamentData();
 };
 
-// Create a new tournament
 const createTournament = async () => {
 	if (!newTournamentName.value) return;
 	loadingAction.value = true;
@@ -331,7 +320,6 @@ const createTournament = async () => {
 	}
 };
 
-// Generate links based on pattern and range
 const generateLinks = () => {
 	if (!linkPattern.value || !startId.value || !endId.value || startId.value > endId.value) {
 		actionMessage.value = "Invalid pattern or ID range.";
@@ -358,7 +346,6 @@ const generateLinks = () => {
 	linksToAdd.value = combinedLinks.join("\n");
 };
 
-// Save links (from textarea) to the backend
 const saveLinks = async () => {
 	if (!selectedTournament.value || !linksToAdd.value) return;
 
@@ -391,7 +378,6 @@ const saveLinks = async () => {
 	}
 };
 
-// Trigger backend stats generation process
 const makeStats = async () => {
 	if (!selectedTournament.value) return;
 
@@ -419,25 +405,22 @@ const makeStats = async () => {
 	}
 };
 
-// --- Lifecycle ---
 onMounted(() => {
 	fetchTournaments();
 });
 </script>
+
 <style>
-/* Global styles */
 body {
-	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	margin: 0;
-	/* Keep the Vibrant Gradient Background */
-	background: linear-gradient(135deg, #cb4aec, #18d8fc); /* Simplified gradient */
+	background: linear-gradient(135deg, #cb4aec, #18d8fc);
 	background-size: 200% 200%; /* For animation */
 	animation: gradientBG 10s ease infinite;
-	color: #fff; /* Default text color to white for contrast */
+	color: #fff;
 	min-height: 100vh; /* Ensure gradient covers full height */
 }
 
-/* Background Gradient Animation */
 @keyframes gradientBG {
 	0% {
 		background-position: 0% 50%;
@@ -458,24 +441,22 @@ body {
 }
 
 h1 {
-	color: #fff; /* White heading */
+	color: #fff;
 	text-align: center;
 	margin-bottom: 2rem;
-	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 h2 {
 	margin-top: 0;
 	margin-bottom: 1rem;
-	border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Lighter border */
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 	padding-bottom: 0.5rem;
-	color: #fff; /* White headings */
+	color: #fff;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-/* Card style for sections - Milky White Glass */
 .card {
-	/* Frosted Glass Effect */
 	background: rgba(255, 255, 255, 0.1); /* Increased opacity for "milky" look */
 	backdrop-filter: blur(10px); /* Slightly reduced blur */
 	-webkit-backdrop-filter: blur(10px); /* Safari support */
@@ -552,7 +533,6 @@ select {
 	padding-right: 35px; /* Space for the arrow */
 }
 
-/* Style select options (limited cross-browser support) */
 select option {
 	background-color: #333; /* Dark background for dropdown options */
 	color: #fff;
@@ -659,18 +639,13 @@ button:disabled {
 	border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* --- StatsTable Specific Glass Adjustments --- */
-/* Override StatsTable's internal styles for glass effect */
-/* We need to target elements *inside* StatsTable from App.vue */
-/* This is less ideal than passing props or using slots, but works for global styling */
-
 #stats-output table {
 	box-shadow: none; /* Remove internal shadow, rely on card */
 	border-radius: 8px; /* Match card */
 	border: none; /* Remove internal border */
 	border-collapse: separate; /* Needed for border-radius on cells */
 	border-spacing: 0;
-	background: rgba(0, 0, 0, 0.45); /* Slightly darker table background for contrast */
+	background: rgba(0, 0, 0, 0.55); /* Slightly darker table background for contrast */
 }
 
 #stats-output th,
@@ -695,7 +670,6 @@ button:disabled {
 }
 
 #stats-output th {
-	background-color: rgba(255, 255, 255, 0.12); /* Increased header opacity */
 	font-weight: bold;
 	color: #fff;
 	position: sticky;
@@ -712,26 +686,37 @@ button:disabled {
 	background-color: rgba(255, 255, 255, 0.1); /* Slightly more visible hover */
 }
 
-/* Override winrate/max highlights - adjust opacity */
-#stats-output .winrate-high,
+/* Override winrate/max highlights for glass - Restore Colors */
+#stats-output .winrate-high {
+	/* Semi-transparent green */
+	background-color: rgba(46, 213, 115, 0.2) !important;
+}
 #stats-output .winrate-low {
-	background-color: rgba(255, 255, 255, 0.12) !important; /* Match header opacity */
+	/* Semi-transparent red */
+	background-color: rgba(255, 107, 107, 0.2) !important;
 }
 #stats-output .winrate-even {
-	background-color: rgba(255, 255, 255, 0.08) !important; /* Slightly less opaque */
+	/* Semi-transparent orange */
+	background-color: rgba(254, 202, 87, 0.2) !important;
 }
 #stats-output .column-max {
-	background-color: rgba(255, 255, 255, 0.18) !important; /* Brighter max */
+	/* Semi-transparent blue for max */
+	background-color: rgba(72, 219, 251, 0.5) !important;
 	font-weight: bold; /* Keep bold for max */
+	color: #fff !important; /* Ensure text stays white */
 }
 
-/* Hover states for highlighted rows - adjust opacity */
-#stats-output tr.winrate-high:hover,
-#stats-output tr.winrate-low:hover,
+/* Hover states for highlighted rows - Darken the specific color */
+#stats-output tr.winrate-high:hover {
+	background-color: rgba(46, 213, 115, 0.3) !important;
+}
+#stats-output tr.winrate-low:hover {
+	background-color: rgba(255, 107, 107, 0.3) !important;
+}
 #stats-output tr.winrate-even:hover {
-	background-color: rgba(255, 255, 255, 0.15) !important;
+	background-color: rgba(254, 202, 87, 0.3) !important;
 }
 #stats-output tr:hover .column-max {
-	background-color: rgba(255, 255, 255, 0.22) !important;
+	background-color: rgba(72, 219, 251, 0.35) !important;
 }
 </style>
